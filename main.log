@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.13)  13 DEC 2023 13:37
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.13)  17 DEC 2023 21:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/jesus/Documents/Proyectos LaTeX/TesinaNegacion/main.tex"
-(c:/Users/jesus/Documents/Proyectos LaTeX/TesinaNegacion/main.tex
+**c:/Users/jesus/Desktop/ProyectLatexNeg/main.tex
+(c:/Users/jesus/Desktop/ProyectLatexNeg/main.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-10>
 (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -132,10 +132,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks21
 \@floatcapt=\box53
 )
-(main.aux (otros/abreviaturas.aux)
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
- (america/akateco.aux))
+No file main.aux.
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
@@ -149,7 +146,6 @@ LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 7
 .
-
 (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
@@ -319,12 +315,12 @@ L3 programming layer <2023-10-10>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5112 strings out of 409919
- 133221 string characters out of 5780119
+ 5103 strings out of 409919
+ 133012 string characters out of 5780119
  1925674 words of memory out of 5000000
- 26842 multiletter control sequences out of 15000+600000
+ 26839 multiletter control sequences out of 15000+600000
  560965 words of font info for 65 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 79i,9n,93p,350b,342s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,9n,93p,331b,342s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (2 pages).
