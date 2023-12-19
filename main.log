@@ -1,16 +1,15 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.13)  18 DEC 2023 11:05
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.12.14)  19 DEC 2023 08:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/jesus/Desktop/ProyectLatexNeg/main.tex
-(c:/Users/jesus/Desktop/ProyectLatexNeg/main.tex
-LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-10-10>
-(C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
-File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+**/home/jesus/Escritorio/ProyectLatexNeg/main
+(/home/jesus/Escritorio/ProyectLatexNeg/main.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count181
 \c@section=\count182
@@ -20,133 +19,101 @@ File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \c@subparagraph=\count186
 \c@figure=\count187
 \c@table=\count188
-\abovecaptionskip=\skip48
-\belowcaptionskip=\skip49
-\bibindent=\dimen140
-)
-(C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
-(C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
-e.sty
-(C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2023-10-10 L3 programming layer (loader) 
-
-(C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xet
-ex.def
-File: l3backend-xetex.def 2023-10-10 L3 backend support: XeTeX
-\g__graphics_track_int=\count189
-\l__pdf_internal_box=\box51
-\g__pdf_backend_object_int=\count190
-\g__pdf_backend_annotation_int=\count191
-\g__pdf_backend_link_int=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+ (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-01-12 L3 backend support: XeTeX
+ (|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count189
+\l__color_backend_stack_int=\count190
+\g__color_backend_stack_int=\count191
+\g__graphics_track_int=\count192
+\l__pdf_internal_box=\box50
+\g__pdf_backend_object_int=\count193
+\g__pdf_backend_annotation_int=\count194
+\g__pdf_backend_link_int=\count195
 ))
-Package: xparse 2023-10-10 L3 Experimental document command parser
+Package: xparse 2022-01-12 L3 Experimental document command parser
 )
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
-
-(C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex
-.sty
-Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
-X
-\l__fontspec_script_int=\count193
-\l__fontspec_language_int=\count194
-\l__fontspec_strnum_int=\count195
-\l__fontspec_tmp_int=\count196
-\l__fontspec_tmpa_int=\count197
-\l__fontspec_tmpb_int=\count198
-\l__fontspec_tmpc_int=\count199
-\l__fontspec_em_int=\count266
-\l__fontspec_emdef_int=\count267
-\l__fontspec_strong_int=\count268
-\l__fontspec_strongdef_int=\count269
-\l__fontspec_tmpa_dim=\dimen141
-\l__fontspec_tmpb_dim=\dimen142
-\l__fontspec_tmpc_dim=\dimen143
- (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count196
+\l__fontspec_language_int=\count197
+\l__fontspec_strnum_int=\count198
+\l__fontspec_tmp_int=\count199
+\l__fontspec_tmpa_int=\count266
+\l__fontspec_tmpb_int=\count267
+\l__fontspec_tmpc_int=\count268
+\l__fontspec_em_int=\count269
+\l__fontspec_emdef_int=\count270
+\l__fontspec_strong_int=\count271
+\l__fontspec_strongdef_int=\count272
+\l__fontspec_tmpa_dim=\dimen139
+\l__fontspec_tmpb_dim=\dimen140
+\l__fontspec_tmpc_dim=\dimen141
+ (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-)
-(C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg))
-) (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2023/09/29 v3.95 The Babel package
-\babel@savecnt=\count270
-\U@D=\dimen144
-\l@unhyphenated=\language84
-
-(C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/generic/babel\xebabel.def)
+) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/01/26 3.70 The Babel package
+\babel@savecnt=\count273
+\U@D=\dimen142
+\l@unhyphenated=\language87
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/xebabel.def (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def))
 \bbl@readstream=\read2
-\bbl@dirlevel=\count271
-
-*************************************
-* Local config file bblopts.cfg used
-*
-(C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-(C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.l
-df
+\bbl@dirlevel=\count274
+ (/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
-\es@quottoks=\toks17
-\es@quotdepth=\count272
+\es@quottoks=\toks16
+\es@quotdepth=\count275
 Package babel Info: Making " an active character on input line 570.
 Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
 Package babel Info: Making > an active character on input line 722.
-))
-(C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel
--spanish.tex
-Package babel Info: Importing font and identification data for spanish
-(babel)             from babel-es.ini. Reported on input line 11.
-)
-(C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks18
-)
-(C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count273
-\Gm@cntv=\count274
-\c@Gm@tempcnt=\count275
-\Gm@bindingoffset=\dimen145
-\Gm@wd@mp=\dimen146
-\Gm@odd@mp=\dimen147
-\Gm@even@mp=\dimen148
-\Gm@layoutwidth=\dimen149
-\Gm@layoutheight=\dimen150
-\Gm@layouthoffset=\dimen151
-\Gm@layoutvoffset=\dimen152
-\Gm@dimlist=\toks19
-
-(C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+\Gm@cnth=\count276
+\Gm@cntv=\count277
+\c@Gm@tempcnt=\count278
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
+\Gm@dimlist=\toks18
+) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count276
-\float@exts=\toks20
-\float@box=\box52
-\@float@everytoks=\toks21
-\@floatcapt=\box53
-)
-(C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+\c@float@type=\count279
+\float@exts=\toks19
+\float@box=\box51
+\@float@everytoks=\toks20
+\@floatcapt=\box52
+) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip50
-\multirow@cntb=\count277
-\multirow@dima=\skip51
-\bigstrutjot=\dimen153
-)
-(C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
-Package: setspace 2022/12/04 v6.7b set line spacing
-)
-(main.aux (otros/abreviaturas.aux)
+\multirow@colwidth=\skip49
+\multirow@cntb=\count280
+\multirow@dima=\skip50
+\bigstrutjot=\dimen151
+) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (./main.aux (./otros/abreviaturas.aux)
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
- (america/akateco.aux) (america/chatino.aux)
-(america/chichimeco.aux))
+ (./america/akateco.aux) (./america/chatino.aux) (./america/chichimeco.aux) (./america/chinanteco.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -158,11 +125,9 @@ LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-0.
-
-(C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
-File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 10.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 10.
@@ -267,7 +232,7 @@ LaTeX Info: Redefining \% on input line 10.
 
 \openout2 = `otros/abreviaturas.aux'.
 
-(otros/abreviaturas.tex
+(./otros/abreviaturas.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -280,7 +245,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ]
 \openout2 = `america/akateco.aux'.
 
- (america/akateco.tex
+ (./america/akateco.tex
 
 Package fontspec Info: Could not resolve font "Doulos SIL/BI" (it probably
 (fontspec)             doesn't exist).
@@ -303,17 +268,11 @@ Package fontspec Info: Font family 'DoulosSIL(0)' created for font 'Doulos
 (fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Doulos
 (fontspec)             SIL/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Doulos
-(fontspec)             SIL/OT:script=latn;language=dflt;+smcp;mapping=tex-text;
-"
+(fontspec)             SIL/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 
 
-
-LaTeX Font Warning: Font shape `TU/DoulosSIL(0)/b/n' undefined
-(Font)              using `TU/DoulosSIL(0)/m/n' instead on input line 9.
-
-
-Overfull \hbox (59.22328pt too wide) in paragraph at lines 36--41
-[][]
+Overfull \hbox (41.22328pt too wide) in paragraph at lines 36--41
+[]
  []
 
 ) [2
@@ -323,39 +282,35 @@ Overfull \hbox (59.22328pt too wide) in paragraph at lines 36--41
 ]
 \openout2 = `america/chatino.aux'.
 
- (america/chatino.tex) [3
+ (./america/chatino.tex) [3
 
 
 
 ]
 \openout2 = `america/chichimeco.aux'.
 
- (america/chichimeco.tex) [4
+ (./america/chichimeco.tex) [4
 
 
 
-] (main.aux
-(otros/abreviaturas.aux)
+]
+\openout2 = `america/chinanteco.aux'.
+
+ (./america/chinanteco.tex) [5
+
+
+
+] (./main.aux (./otros/abreviaturas.aux)
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
- (america/akateco.aux) (america/chatino.aux)
-(america/chichimeco.aux))
- ***********
-LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-10-10>
- ***********
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
- ) 
+ (./america/akateco.aux) (./america/chatino.aux) (./america/chichimeco.aux) (./america/chinanteco.aux)) ) 
 Here is how much of TeX's memory you used:
- 5244 strings out of 409919
- 135551 string characters out of 5780119
- 1927674 words of memory out of 5000000
- 26959 multiletter control sequences out of 15000+600000
- 560917 words of font info for 59 fonts, out of 8000000 for 9000
+ 5223 strings out of 476191
+ 136940 string characters out of 5812071
+ 506970 words of memory out of 5000000
+ 25903 multiletter control sequences out of 15000+600000
+ 472107 words of font info for 51 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 79i,8n,93p,649b,309s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,8n,90p,653b,320s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (4 pages).
+Output written on main.pdf (5 pages).
