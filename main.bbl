@@ -51,6 +51,37 @@
       \verb C\:\\Users\\jesus\\Zotero\\storage\\GBSZP9ZH\\Lizárraga y Glenda - 2018 - Morfología verbal de persona y número en chichimec.pdf
       \endverb
     \endentry
+    \entry{ChontalOaxaca}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=add56b25a352803a6950348c568d386b}{%
+           family={O'Connor},
+           familyi={O\bibinitperiod},
+           given={Loretta},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {El Colegio de México, Centro de Estudios Lingüísticos y Literarios}%
+      }
+      \strng{namehash}{add56b25a352803a6950348c568d386b}
+      \strng{fullhash}{add56b25a352803a6950348c568d386b}
+      \strng{bibnamehash}{add56b25a352803a6950348c568d386b}
+      \strng{authorbibnamehash}{add56b25a352803a6950348c568d386b}
+      \strng{authornamehash}{add56b25a352803a6950348c568d386b}
+      \strng{authorfullhash}{add56b25a352803a6950348c568d386b}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Chontal de San Pedro Huamelula, Sierra Baja de Oaxaca}
+      \field{year}{2014}
+      \verb{file}
+      \verb C\:\\Users\\jesus\\Zotero\\storage\\5IS97GGM\\O'Connor - 2014 - Chontal de san pedro huamelula, sierra baja de oax.pdf
+      \endverb
+    \endentry
     \entry{chinanteco}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c8800cf082df74a7e2ed101b0feefc21}{%
@@ -187,6 +218,37 @@
       \field{year}{2018}
       \verb{file}
       \verb C\:\\Users\\jesus\\Zotero\\storage\\GBSZP9ZH\\Lizárraga y Glenda - 2018 - Morfología verbal de persona y número en chichimec.pdf
+      \endverb
+    \endentry
+    \entry{ChontalOaxaca}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=add56b25a352803a6950348c568d386b}{%
+           family={O'Connor},
+           familyi={O\bibinitperiod},
+           given={Loretta},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {El Colegio de México, Centro de Estudios Lingüísticos y Literarios}%
+      }
+      \strng{namehash}{add56b25a352803a6950348c568d386b}
+      \strng{fullhash}{add56b25a352803a6950348c568d386b}
+      \strng{bibnamehash}{add56b25a352803a6950348c568d386b}
+      \strng{authorbibnamehash}{add56b25a352803a6950348c568d386b}
+      \strng{authornamehash}{add56b25a352803a6950348c568d386b}
+      \strng{authorfullhash}{add56b25a352803a6950348c568d386b}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Chontal de San Pedro Huamelula, Sierra Baja de Oaxaca}
+      \field{year}{2014}
+      \verb{file}
+      \verb C\:\\Users\\jesus\\Zotero\\storage\\5IS97GGM\\O'Connor - 2014 - Chontal de san pedro huamelula, sierra baja de oax.pdf
       \endverb
     \endentry
     \entry{chinanteco}{book}{}
