@@ -151,6 +151,9 @@ INPUT mexico\chontalOaxaca.aux
 INPUT .\mexico\chontalTabasco.aux
 INPUT .\mexico\chontalTabasco.aux
 INPUT mexico\chontalTabasco.aux
+INPUT .\mexico\huave.aux
+INPUT .\mexico\huave.aux
+INPUT mexico\huave.aux
 INPUT .\otros\referencias.aux
 INPUT .\otros\referencias.aux
 INPUT otros\referencias.aux
@@ -225,6 +228,12 @@ OUTPUT mexico\chontalTabasco.aux
 INPUT .\mexico\chontalTabasco.tex
 INPUT .\mexico\chontalTabasco.tex
 INPUT mexico\chontalTabasco.tex
+INPUT .\mexico\huave.tex
+INPUT .\mexico\huave.tex
+OUTPUT mexico\huave.aux
+INPUT .\mexico\huave.tex
+INPUT .\mexico\huave.tex
+INPUT mexico\huave.tex
 INPUT .\otros\referencias.tex
 INPUT .\otros\referencias.tex
 OUTPUT otros\referencias.aux
@@ -253,6 +262,9 @@ INPUT mexico\chontalOaxaca.aux
 INPUT .\mexico\chontalTabasco.aux
 INPUT .\mexico\chontalTabasco.aux
 INPUT mexico\chontalTabasco.aux
+INPUT .\mexico\huave.aux
+INPUT .\mexico\huave.aux
+INPUT mexico\huave.aux
 INPUT .\otros\referencias.aux
 INPUT .\otros\referencias.aux
 INPUT otros\referencias.aux

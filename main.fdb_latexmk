@@ -1,18 +1,18 @@
 # Fdb version 4
-["biber main"] 1703222209 "main.bcf" "main.bbl" "main" 1703271956 0
-  "./otros/library.bib" 1703215193 14056 4ba6d6cbc78845d5f28cebfdf312deb3 ""
-  "main.bcf" 1703271954 133528 acfa1893e90b50b8ddb0921c9b24883e "xelatex"
+["biber main"] 1703279658 "main.bcf" "main.bbl" "main" 1703280380 0
+  "./otros/library.bib" 1703273928 14056 4ba6d6cbc78845d5f28cebfdf312deb3 ""
+  "main.bcf" 1703280378 133650 a7bd27d56395f084b709c90fb844f8fa "xelatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["xdvipdfmx"] 1703271955 "main.xdv" "main.pdf" "main" 1703271956 0
-  "main.xdv" 1703271954 121392 a2af2606d058eb74f8dcb0f9aa65a196 "xelatex"
+["xdvipdfmx"] 1703280379 "main.xdv" "main.pdf" "main" 1703280380 0
+  "main.xdv" 1703280378 142092 92d10cbb6e6339800fd6ad092ac95348 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1703271951 "./main.tex" "main.xdv" "main" 1703271956 0
-  "./main.tex" 1703222474 344 db65a0b57010110b8fe75248d91e05fa ""
+["xelatex"] 1703280375 "./main.tex" "main.xdv" "main" 1703280380 0
+  "./main.tex" 1703276553 368 c409bdebbd93184ddfd4508d0610a719 ""
   "C:/Users/jesus/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1702489526 38359460 d54fb1b904e6ddb77fa9c159e6618482 ""
   "C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
   "C:/Users/jesus/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -77,26 +77,28 @@
   "C:/Users/jesus/AppData/Local/Programs/MiKTeX/tex/latex/setspace/setspace.sty" 1670403145 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
   "C:/Users/jesus/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/jesus/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "main.aux" 1703271954 2135 ca568f39355b24dd9268c2324d469ca5 "xelatex"
-  "main.bbl" 1703222213 18069 745cc2e005d9df47b1aea393552935ce "biber main"
-  "main.run.xml" 1703271954 2431 9aa0e79c9c8479686c207396c3af2e35 "xelatex"
-  "main.tex" 1703222474 344 db65a0b57010110b8fe75248d91e05fa ""
-  "mexico/acateco.aux" 1703271954 3970 103474236cae7a9e32b821da2f9dc74e "xelatex"
+  "main.aux" 1703280378 2421 998e4c8ec6d37d88a57086dbbb455b9b "xelatex"
+  "main.bbl" 1703279662 20915 ac10ee95aa5bd50e766057d03e7a5aec "biber main"
+  "main.run.xml" 1703280378 2431 9aa0e79c9c8479686c207396c3af2e35 "xelatex"
+  "main.tex" 1703276553 368 c409bdebbd93184ddfd4508d0610a719 ""
+  "mexico/acateco.aux" 1703280378 3970 103474236cae7a9e32b821da2f9dc74e "xelatex"
   "mexico/acateco.tex" 1703116004 5072 87cabf0f3015a8bc143d7481ff5e53df ""
-  "mexico/chatino.aux" 1703271954 3970 08e30d79b0bcc7315d4ab24d331739f6 "xelatex"
+  "mexico/chatino.aux" 1703280378 3970 08e30d79b0bcc7315d4ab24d331739f6 "xelatex"
   "mexico/chatino.tex" 1703116083 2847 08ce069d4b32ced4ada522decadc7698 ""
-  "mexico/chichimeco.aux" 1703271954 3973 8803d86d63c116e4ea9497fe3f2f0576 "xelatex"
+  "mexico/chichimeco.aux" 1703280378 3973 8803d86d63c116e4ea9497fe3f2f0576 "xelatex"
   "mexico/chichimeco.tex" 1703116179 3497 bd476b64bcb5ab28707bca4805b33071 ""
-  "mexico/chinanteco.aux" 1703271954 3973 d31893d8fa68cdd2a3d0337a8c70a308 "xelatex"
+  "mexico/chinanteco.aux" 1703280378 3973 d31893d8fa68cdd2a3d0337a8c70a308 "xelatex"
   "mexico/chinanteco.tex" 1703116283 3306 b592f41d0abf8ac4a5e1be3afcc996fd ""
-  "mexico/chontalOaxaca.aux" 1703271954 3976 7af919ee98c9c5e4d77ea46b6e18c6d5 "xelatex"
+  "mexico/chontalOaxaca.aux" 1703280378 3976 7af919ee98c9c5e4d77ea46b6e18c6d5 "xelatex"
   "mexico/chontalOaxaca.tex" 1703123152 2392 a01374c69a0ebfd74a83b1a192a974dd ""
-  "mexico/chontalTabasco.aux" 1703271954 3978 80244cc23a089b4d97d3d0173e335ac7 "xelatex"
+  "mexico/chontalTabasco.aux" 1703280378 3978 80244cc23a089b4d97d3d0173e335ac7 "xelatex"
   "mexico/chontalTabasco.tex" 1703222031 2513 f7aa9f67fbeca4a36a54a6aa39161b67 ""
-  "otros/abreviaturas.aux" 1703271954 3974 ba1a7c537635c7a0c5cb545a11d4bd9e "xelatex"
+  "mexico/huave.aux" 1703280378 3969 3063d894a66431244b84c0f1f18483a6 "xelatex"
+  "mexico/huave.tex" 1703280349 2833 2a90c1a7b17ed3952f9fc9b6e59dfb11 ""
+  "otros/abreviaturas.aux" 1703280378 3974 ba1a7c537635c7a0c5cb545a11d4bd9e "xelatex"
   "otros/abreviaturas.tex" 1703271934 1320 dc4d7526c1b53ceb8487c3dc959b7755 ""
   "otros/preambulo.tex" 1703116368 331 c99f63a45e8ee240c74fead8fe10466a ""
-  "otros/referencias.aux" 1703271954 3974 dbad3e6e7ed472c48453807c6ad967b7 "xelatex"
+  "otros/referencias.aux" 1703280378 3975 75c4440a6ef8376020cf22177b2da379 "xelatex"
   "otros/referencias.tex" 1703222181 20 99137ebc3190b4cb18a7afaa62442698 ""
   (generated)
   "main.aux"
@@ -110,6 +112,7 @@
   "mexico/chinanteco.aux"
   "mexico/chontalOaxaca.aux"
   "mexico/chontalTabasco.aux"
+  "mexico/huave.aux"
   "otros/abreviaturas.aux"
   "otros/referencias.aux"
   (rewritten before read)

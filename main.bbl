@@ -19,6 +19,38 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Huave}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eea3c3e0b6d506c096701d9428ff9e3d}{%
+           family={Castro},
+           familyi={C\bibinitperiod},
+           given={Samuel\bibnamedelima Herrera},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {El Colegio de México}%
+      }
+      \strng{namehash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \strng{fullhash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \strng{bibnamehash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \strng{authorbibnamehash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \strng{authornamehash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \strng{authorfullhash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sintaxis y Semántica de La Frase Nominal En Huave de {{San Mateo}} Del {{Mar}}, {{Oaxaca}}.}
+      \field{type}{phdthesis}
+      \field{year}{2016}
+      \verb{file}
+      \verb C\:\\Users\\jesus\\Zotero\\storage\\43YX79B8\\Castro - 2016 - Sintaxis y semántica de la frase nominal en huave .pdf
+      \endverb
+    \endentry
     \entry{ChontalTabasco}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=785c254fe6e9293a1f022f52f58b6e24}{%
@@ -220,6 +252,38 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{Huave}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eea3c3e0b6d506c096701d9428ff9e3d}{%
+           family={Castro},
+           familyi={C\bibinitperiod},
+           given={Samuel\bibnamedelima Herrera},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {El Colegio de México}%
+      }
+      \strng{namehash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \strng{fullhash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \strng{bibnamehash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \strng{authorbibnamehash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \strng{authornamehash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \strng{authorfullhash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sintaxis y Semántica de La Frase Nominal En Huave de {{San Mateo}} Del {{Mar}}, {{Oaxaca}}.}
+      \field{type}{phdthesis}
+      \field{year}{2016}
+      \verb{file}
+      \verb C\:\\Users\\jesus\\Zotero\\storage\\43YX79B8\\Castro - 2016 - Sintaxis y semántica de la frase nominal en huave .pdf
+      \endverb
+    \endentry
     \entry{ChontalTabasco}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=785c254fe6e9293a1f022f52f58b6e24}{%

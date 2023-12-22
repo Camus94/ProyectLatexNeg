@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.13)  22 DEC 2023 13:05
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.13)  22 DEC 2023 15:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -480,7 +480,7 @@ LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
  (mexico/acateco.aux) (mexico/chatino.aux)
 (mexico/chichimeco.aux) (mexico/chinanteco.aux) (mexico/chontalOaxaca.aux)
-(mexico/chontalTabasco.aux) (otros/referencias.aux))
+(mexico/chontalTabasco.aux) (mexico/huave.aux) (otros/referencias.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -719,20 +719,27 @@ Overfull \hbox (41.22328pt too wide) in paragraph at lines 36--41
 
 
 ]
+\openout2 = `mexico/huave.aux'.
+
+ (mexico/huave.tex) [8
+
+
+
+]
 \openout2 = `otros/referencias.aux'.
 
- (otros/referencias.tex) [8
+ (otros/referencias.tex)
+[9
 
 
 
-] (main.aux
-(otros/abreviaturas.aux)
+] (main.aux (otros/abreviaturas.aux)
 LaTeX Info: Redefining \sptext on input line 10.
 LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
- (mexico/acateco.aux) (mexico/chatino.aux)
-(mexico/chichimeco.aux) (mexico/chinanteco.aux) (mexico/chontalOaxaca.aux)
-(mexico/chontalTabasco.aux) (otros/referencias.aux))
+ (mexico/acateco.aux) (mexico/chatino.aux) (mexico/chichimeco.aux) (mexico/chin
+anteco.aux) (mexico/chontalOaxaca.aux)
+(mexico/chontalTabasco.aux) (mexico/huave.aux) (otros/referencias.aux))
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-10>
@@ -742,12 +749,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 14544 strings out of 409919
- 314279 string characters out of 5780119
+ 14575 strings out of 409919
+ 315119 string characters out of 5780119
  1928674 words of memory out of 5000000
- 36136 multiletter control sequences out of 15000+600000
+ 36160 multiletter control sequences out of 15000+600000
  560925 words of font info for 60 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  71i,10n,91p,793b,5191s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (8 pages, 121392 bytes).
+Output written on main.xdv (9 pages, 142092 bytes).
