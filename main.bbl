@@ -146,6 +146,38 @@
       \verb C\:\\Users\\jesus\\Zotero\\storage\\5IS97GGM\\O'Connor - 2014 - Chontal de san pedro huamelula, sierra baja de oax.pdf
       \endverb
     \endentry
+    \entry{Huichol}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=34efac45d3a3f44c918dede1ce7028d6}{%
+           family={Ramos\bibnamedelima Bierge},
+           familyi={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Stefanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Tesis de doctorado). Colorado: University of Colorado at Boulder}%
+      }
+      \strng{namehash}{34efac45d3a3f44c918dede1ce7028d6}
+      \strng{fullhash}{34efac45d3a3f44c918dede1ce7028d6}
+      \strng{bibnamehash}{34efac45d3a3f44c918dede1ce7028d6}
+      \strng{authorbibnamehash}{34efac45d3a3f44c918dede1ce7028d6}
+      \strng{authornamehash}{34efac45d3a3f44c918dede1ce7028d6}
+      \strng{authorfullhash}{34efac45d3a3f44c918dede1ce7028d6}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Clause Types and Transitivity in Wixárika (Huichol): {{A}} Uto-Aztecan Language}
+      \field{type}{phdthesis}
+      \field{year}{2017}
+      \verb{file}
+      \verb C\:\\Users\\jesus\\Zotero\\storage\\376D55TI\\Ramos Bierge - 2017 - Clause types and transitivity in wixárika (huichol.pdf
+      \endverb
+    \endentry
     \entry{chinanteco}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c8800cf082df74a7e2ed101b0feefc21}{%
@@ -377,6 +409,38 @@
       \field{year}{2014}
       \verb{file}
       \verb C\:\\Users\\jesus\\Zotero\\storage\\5IS97GGM\\O'Connor - 2014 - Chontal de san pedro huamelula, sierra baja de oax.pdf
+      \endverb
+    \endentry
+    \entry{Huichol}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=34efac45d3a3f44c918dede1ce7028d6}{%
+           family={Ramos\bibnamedelima Bierge},
+           familyi={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Stefanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Tesis de doctorado). Colorado: University of Colorado at Boulder}%
+      }
+      \strng{namehash}{34efac45d3a3f44c918dede1ce7028d6}
+      \strng{fullhash}{34efac45d3a3f44c918dede1ce7028d6}
+      \strng{bibnamehash}{34efac45d3a3f44c918dede1ce7028d6}
+      \strng{authorbibnamehash}{34efac45d3a3f44c918dede1ce7028d6}
+      \strng{authornamehash}{34efac45d3a3f44c918dede1ce7028d6}
+      \strng{authorfullhash}{34efac45d3a3f44c918dede1ce7028d6}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Clause Types and Transitivity in Wixárika (Huichol): {{A}} Uto-Aztecan Language}
+      \field{type}{phdthesis}
+      \field{year}{2017}
+      \verb{file}
+      \verb C\:\\Users\\jesus\\Zotero\\storage\\376D55TI\\Ramos Bierge - 2017 - Clause types and transitivity in wixárika (huichol.pdf
       \endverb
     \endentry
     \entry{chinanteco}{book}{}
