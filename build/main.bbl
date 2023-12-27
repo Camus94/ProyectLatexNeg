@@ -1,0 +1,807 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{lacandon}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0ad3ffad73ca4b22bb57d5f2196d9370}{%
+           family={Bruce},
+           familyi={B\bibinitperiod},
+           given={Roberto\bibnamedelima D},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Instituto Nacional de Antropología e Historia}%
+      }
+      \strng{namehash}{0ad3ffad73ca4b22bb57d5f2196d9370}
+      \strng{fullhash}{0ad3ffad73ca4b22bb57d5f2196d9370}
+      \strng{bibnamehash}{0ad3ffad73ca4b22bb57d5f2196d9370}
+      \strng{authorbibnamehash}{0ad3ffad73ca4b22bb57d5f2196d9370}
+      \strng{authornamehash}{0ad3ffad73ca4b22bb57d5f2196d9370}
+      \strng{authorfullhash}{0ad3ffad73ca4b22bb57d5f2196d9370}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gramática Del Lacandón}
+      \field{year}{1968}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\QPH78NSX\Bruce - 2021 - Gramática del lacandón.pdf
+      \endverb
+    \endentry
+    \entry{Huave}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eea3c3e0b6d506c096701d9428ff9e3d}{%
+           family={Castro},
+           familyi={C\bibinitperiod},
+           given={Samuel\bibnamedelima Herrera},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {El Colegio de México}%
+      }
+      \strng{namehash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \strng{fullhash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \strng{bibnamehash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \strng{authorbibnamehash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \strng{authornamehash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \strng{authorfullhash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sintaxis y Semántica de La Frase Nominal En Huave de {{San Mateo}} Del {{Mar}}, {{Oaxaca}}.}
+      \field{type}{phdthesis}
+      \field{year}{2016}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\43YX79B8\Castro - 2016 - Sintaxis y semántica de la frase nominal en huave .pdf
+      \endverb
+    \endentry
+    \entry{Mixteco}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8868237a1273b3f0b638709795794054}{%
+           family={{de Ferguson Williams}},
+           familyi={d\bibinitperiod},
+           given={Judith},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Inst. Lingüístico de Verano}%
+      }
+      \strng{namehash}{8868237a1273b3f0b638709795794054}
+      \strng{fullhash}{8868237a1273b3f0b638709795794054}
+      \strng{bibnamehash}{8868237a1273b3f0b638709795794054}
+      \strng{authorbibnamehash}{8868237a1273b3f0b638709795794054}
+      \strng{authornamehash}{8868237a1273b3f0b638709795794054}
+      \strng{authorfullhash}{8868237a1273b3f0b638709795794054}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gramática Popular Del Mixteco Del Municipio de Tezoatlán, San Andrés Yutatío, Oaxaca}
+      \field{year}{2006}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\6YBYQKM6\de Ferguson Williams - 2006 - Gramática popular del mixteco del municipio de tez.pdf
+      \endverb
+    \endentry
+    \entry{ChontalTabasco}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=785c254fe6e9293a1f022f52f58b6e24}{%
+           family={Delgado\bibnamedelima Galván},
+           familyi={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Amanda\bibnamedelima Alejandra.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Escuela Nacional de Antropología e Historia}%
+      }
+      \strng{namehash}{785c254fe6e9293a1f022f52f58b6e24}
+      \strng{fullhash}{785c254fe6e9293a1f022f52f58b6e24}
+      \strng{bibnamehash}{785c254fe6e9293a1f022f52f58b6e24}
+      \strng{authorbibnamehash}{785c254fe6e9293a1f022f52f58b6e24}
+      \strng{authornamehash}{785c254fe6e9293a1f022f52f58b6e24}
+      \strng{authorfullhash}{785c254fe6e9293a1f022f52f58b6e24}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Descripción Del Orden Básico de Palabras En {{Yokot}}'an ({{Chontal}} de {{Tabasco}}) Del Poblado de {{Topotzingo}}, {{Nacajuca}}, {{Tabasco}}}
+      \field{type}{phdthesis}
+      \field{year}{2004}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\P8VZDBZR\Delgado Galván - 2004 - Descripción del orden básico de palabras en Yokot'.pdf
+      \endverb
+    \endentry
+    \entry{chichimeco}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=edc3056db2661d18282feb107ee1f6ab}{%
+           family={Lizárraga\bibnamedelima Navarro},
+           familyi={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Glenda\bibnamedelima Zoé},
+           giveni={G\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {El Colegio de México}%
+      }
+      \strng{namehash}{edc3056db2661d18282feb107ee1f6ab}
+      \strng{fullhash}{edc3056db2661d18282feb107ee1f6ab}
+      \strng{bibnamehash}{edc3056db2661d18282feb107ee1f6ab}
+      \strng{authorbibnamehash}{edc3056db2661d18282feb107ee1f6ab}
+      \strng{authornamehash}{edc3056db2661d18282feb107ee1f6ab}
+      \strng{authorfullhash}{edc3056db2661d18282feb107ee1f6ab}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Morfología Verbal de Persona y Número En Chichimeco Jonaz}
+      \field{type}{phdthesis}
+      \field{year}{2018}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\GBSZP9ZH\Lizárraga y Glenda - 2018 - Morfología verbal de persona y número en chichimec.pdf
+      \endverb
+    \endentry
+    \entry{ChontalOaxaca}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=add56b25a352803a6950348c568d386b}{%
+           family={O'Connor},
+           familyi={O\bibinitperiod},
+           given={Loretta},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {El Colegio de México, Centro de Estudios Lingüísticos y Literarios}%
+      }
+      \strng{namehash}{add56b25a352803a6950348c568d386b}
+      \strng{fullhash}{add56b25a352803a6950348c568d386b}
+      \strng{bibnamehash}{add56b25a352803a6950348c568d386b}
+      \strng{authorbibnamehash}{add56b25a352803a6950348c568d386b}
+      \strng{authornamehash}{add56b25a352803a6950348c568d386b}
+      \strng{authorfullhash}{add56b25a352803a6950348c568d386b}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Chontal de San Pedro Huamelula, Sierra Baja de Oaxaca}
+      \field{year}{2014}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\5IS97GGM\O'Connor - 2014 - Chontal de san pedro huamelula, sierra baja de oax.pdf
+      \endverb
+    \endentry
+    \entry{Huichol}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=34efac45d3a3f44c918dede1ce7028d6}{%
+           family={Ramos\bibnamedelima Bierge},
+           familyi={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Stefanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Tesis de doctorado). Colorado: University of Colorado at Boulder}%
+      }
+      \strng{namehash}{34efac45d3a3f44c918dede1ce7028d6}
+      \strng{fullhash}{34efac45d3a3f44c918dede1ce7028d6}
+      \strng{bibnamehash}{34efac45d3a3f44c918dede1ce7028d6}
+      \strng{authorbibnamehash}{34efac45d3a3f44c918dede1ce7028d6}
+      \strng{authornamehash}{34efac45d3a3f44c918dede1ce7028d6}
+      \strng{authorfullhash}{34efac45d3a3f44c918dede1ce7028d6}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Clause Types and Transitivity in Wixárika (Huichol): {{A}} Uto-Aztecan Language}
+      \field{type}{phdthesis}
+      \field{year}{2017}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\376D55TI\Ramos Bierge - 2017 - Clause types and transitivity in wixárika (huichol.pdf
+      \endverb
+    \endentry
+    \entry{mixe}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=05a4ef6bacec182c35987f1943a37450}{%
+           family={{Romero-Mendez}},
+           familyi={R\bibinitperiod},
+           given={Rodrigo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {State University of New York at Buffalo}%
+      }
+      \strng{namehash}{05a4ef6bacec182c35987f1943a37450}
+      \strng{fullhash}{05a4ef6bacec182c35987f1943a37450}
+      \strng{bibnamehash}{05a4ef6bacec182c35987f1943a37450}
+      \strng{authorbibnamehash}{05a4ef6bacec182c35987f1943a37450}
+      \strng{authornamehash}{05a4ef6bacec182c35987f1943a37450}
+      \strng{authorfullhash}{05a4ef6bacec182c35987f1943a37450}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{A Reference Grammar of Ayutla Mixe}
+      \field{type}{phdthesis}
+      \field{year}{2009}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\HY4FMTYT\Romero-Mendez - 2009 - A reference grammar of ayutla mixe.pdf
+      \endverb
+    \endentry
+    \entry{chinanteco}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c8800cf082df74a7e2ed101b0feefc21}{%
+           family={Rupp},
+           familyi={R\bibinitperiod},
+           given={James\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Instituto Lingüístico de Verano y The University of Texas}%
+      }
+      \strng{namehash}{c8800cf082df74a7e2ed101b0feefc21}
+      \strng{fullhash}{c8800cf082df74a7e2ed101b0feefc21}
+      \strng{bibnamehash}{c8800cf082df74a7e2ed101b0feefc21}
+      \strng{authorbibnamehash}{c8800cf082df74a7e2ed101b0feefc21}
+      \strng{authornamehash}{c8800cf082df74a7e2ed101b0feefc21}
+      \strng{authorfullhash}{c8800cf082df74a7e2ed101b0feefc21}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{series}{Studies in {{Chinantec Languages}} 2}
+      \field{title}{Lealao Chinantec Syntax}
+      \field{year}{1989}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\5CBBYGUQ\Rupp - 1989 - Lealao chinantec syntax.pdf
+      \endverb
+    \endentry
+    \entry{chatino}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fad8119068b1c04f6368aadb8c30f4ba}{%
+           family={Villard},
+           familyi={V\bibinitperiod},
+           given={Stéphanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {The University of Texas}%
+      }
+      \strng{namehash}{fad8119068b1c04f6368aadb8c30f4ba}
+      \strng{fullhash}{fad8119068b1c04f6368aadb8c30f4ba}
+      \strng{bibnamehash}{fad8119068b1c04f6368aadb8c30f4ba}
+      \strng{authorbibnamehash}{fad8119068b1c04f6368aadb8c30f4ba}
+      \strng{authornamehash}{fad8119068b1c04f6368aadb8c30f4ba}
+      \strng{authorfullhash}{fad8119068b1c04f6368aadb8c30f4ba}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Grammatical Sketch of Zacatepec Chatino}
+      \field{type}{phdthesis}
+      \field{year}{2008}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\VHI6GYC3\Villard - 2008 - Grammatical sketch of zacatepec chatino.pdf
+      \endverb
+    \endentry
+    \entry{Oluteco}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7309eedf10a7468c5e60174b65bbae4d}{%
+           family={Zavala},
+           familyi={Z\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7309eedf10a7468c5e60174b65bbae4d}
+      \strng{fullhash}{7309eedf10a7468c5e60174b65bbae4d}
+      \strng{bibnamehash}{7309eedf10a7468c5e60174b65bbae4d}
+      \strng{authorbibnamehash}{7309eedf10a7468c5e60174b65bbae4d}
+      \strng{authornamehash}{7309eedf10a7468c5e60174b65bbae4d}
+      \strng{authorfullhash}{7309eedf10a7468c5e60174b65bbae4d}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Tlalocan. Revista de Fuentes para el Conocimiento de las Culturas Indígenas de México}
+      \field{title}{Entre Consejos, Diablos y Vendedores de Caca, Rasgos Gramaticales Del Oluteco En Tres de Sus Cuentos}
+      \field{volume}{13}
+      \field{year}{2001}
+      \field{pages}{335\bibrangedash 414}
+      \range{pages}{80}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\F6AATXVV\Zavala - 2001 - Entre consejos, diablos y vendedores de caca, rasg.pdf
+      \endverb
+    \endentry
+    \entry{acateco}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7706e475dd20b03bc38bf33a31d5f7ed}{%
+           family={Zavala\bibnamedelima Maldonado},
+           familyi={Z\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {México, D.F}%
+      }
+      \list{publisher}{1}{%
+        {Colegio de México, Centro de Estudios Lingüísticos y literarios}%
+      }
+      \strng{namehash}{7706e475dd20b03bc38bf33a31d5f7ed}
+      \strng{fullhash}{7706e475dd20b03bc38bf33a31d5f7ed}
+      \strng{bibnamehash}{7706e475dd20b03bc38bf33a31d5f7ed}
+      \strng{authorbibnamehash}{7706e475dd20b03bc38bf33a31d5f7ed}
+      \strng{authornamehash}{7706e475dd20b03bc38bf33a31d5f7ed}
+      \strng{authorfullhash}{7706e475dd20b03bc38bf33a31d5f7ed}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1. ed}
+      \field{isbn}{978-968-12-0569-0}
+      \field{langid}{english}
+      \field{number}{17}
+      \field{series}{Archivo de Lenguas Indígenas de {{México}}}
+      \field{title}{Acateco de La Frontera Sur}
+      \field{year}{1992}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\W8GBKIKJ\Acateco de la frontera sur.pdf
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{lacandon}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0ad3ffad73ca4b22bb57d5f2196d9370}{%
+           family={Bruce},
+           familyi={B\bibinitperiod},
+           given={Roberto\bibnamedelima D},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Instituto Nacional de Antropología e Historia}%
+      }
+      \strng{namehash}{0ad3ffad73ca4b22bb57d5f2196d9370}
+      \strng{fullhash}{0ad3ffad73ca4b22bb57d5f2196d9370}
+      \strng{bibnamehash}{0ad3ffad73ca4b22bb57d5f2196d9370}
+      \strng{authorbibnamehash}{0ad3ffad73ca4b22bb57d5f2196d9370}
+      \strng{authornamehash}{0ad3ffad73ca4b22bb57d5f2196d9370}
+      \strng{authorfullhash}{0ad3ffad73ca4b22bb57d5f2196d9370}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gramática Del Lacandón}
+      \field{year}{1968}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\QPH78NSX\Bruce - 2021 - Gramática del lacandón.pdf
+      \endverb
+    \endentry
+    \entry{Huave}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eea3c3e0b6d506c096701d9428ff9e3d}{%
+           family={Castro},
+           familyi={C\bibinitperiod},
+           given={Samuel\bibnamedelima Herrera},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {El Colegio de México}%
+      }
+      \strng{namehash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \strng{fullhash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \strng{bibnamehash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \strng{authorbibnamehash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \strng{authornamehash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \strng{authorfullhash}{eea3c3e0b6d506c096701d9428ff9e3d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sintaxis y Semántica de La Frase Nominal En Huave de {{San Mateo}} Del {{Mar}}, {{Oaxaca}}.}
+      \field{type}{phdthesis}
+      \field{year}{2016}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\43YX79B8\Castro - 2016 - Sintaxis y semántica de la frase nominal en huave .pdf
+      \endverb
+    \endentry
+    \entry{Mixteco}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8868237a1273b3f0b638709795794054}{%
+           family={{de Ferguson Williams}},
+           familyi={d\bibinitperiod},
+           given={Judith},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Inst. Lingüístico de Verano}%
+      }
+      \strng{namehash}{8868237a1273b3f0b638709795794054}
+      \strng{fullhash}{8868237a1273b3f0b638709795794054}
+      \strng{bibnamehash}{8868237a1273b3f0b638709795794054}
+      \strng{authorbibnamehash}{8868237a1273b3f0b638709795794054}
+      \strng{authornamehash}{8868237a1273b3f0b638709795794054}
+      \strng{authorfullhash}{8868237a1273b3f0b638709795794054}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gramática Popular Del Mixteco Del Municipio de Tezoatlán, San Andrés Yutatío, Oaxaca}
+      \field{year}{2006}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\6YBYQKM6\de Ferguson Williams - 2006 - Gramática popular del mixteco del municipio de tez.pdf
+      \endverb
+    \endentry
+    \entry{ChontalTabasco}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=785c254fe6e9293a1f022f52f58b6e24}{%
+           family={Delgado\bibnamedelima Galván},
+           familyi={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Amanda\bibnamedelima Alejandra.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Escuela Nacional de Antropología e Historia}%
+      }
+      \strng{namehash}{785c254fe6e9293a1f022f52f58b6e24}
+      \strng{fullhash}{785c254fe6e9293a1f022f52f58b6e24}
+      \strng{bibnamehash}{785c254fe6e9293a1f022f52f58b6e24}
+      \strng{authorbibnamehash}{785c254fe6e9293a1f022f52f58b6e24}
+      \strng{authornamehash}{785c254fe6e9293a1f022f52f58b6e24}
+      \strng{authorfullhash}{785c254fe6e9293a1f022f52f58b6e24}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Descripción Del Orden Básico de Palabras En {{Yokot}}'an ({{Chontal}} de {{Tabasco}}) Del Poblado de {{Topotzingo}}, {{Nacajuca}}, {{Tabasco}}}
+      \field{type}{phdthesis}
+      \field{year}{2004}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\P8VZDBZR\Delgado Galván - 2004 - Descripción del orden básico de palabras en Yokot'.pdf
+      \endverb
+    \endentry
+    \entry{chichimeco}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=edc3056db2661d18282feb107ee1f6ab}{%
+           family={Lizárraga\bibnamedelima Navarro},
+           familyi={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Glenda\bibnamedelima Zoé},
+           giveni={G\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {El Colegio de México}%
+      }
+      \strng{namehash}{edc3056db2661d18282feb107ee1f6ab}
+      \strng{fullhash}{edc3056db2661d18282feb107ee1f6ab}
+      \strng{bibnamehash}{edc3056db2661d18282feb107ee1f6ab}
+      \strng{authorbibnamehash}{edc3056db2661d18282feb107ee1f6ab}
+      \strng{authornamehash}{edc3056db2661d18282feb107ee1f6ab}
+      \strng{authorfullhash}{edc3056db2661d18282feb107ee1f6ab}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Morfología Verbal de Persona y Número En Chichimeco Jonaz}
+      \field{type}{phdthesis}
+      \field{year}{2018}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\GBSZP9ZH\Lizárraga y Glenda - 2018 - Morfología verbal de persona y número en chichimec.pdf
+      \endverb
+    \endentry
+    \entry{ChontalOaxaca}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=add56b25a352803a6950348c568d386b}{%
+           family={O'Connor},
+           familyi={O\bibinitperiod},
+           given={Loretta},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {El Colegio de México, Centro de Estudios Lingüísticos y Literarios}%
+      }
+      \strng{namehash}{add56b25a352803a6950348c568d386b}
+      \strng{fullhash}{add56b25a352803a6950348c568d386b}
+      \strng{bibnamehash}{add56b25a352803a6950348c568d386b}
+      \strng{authorbibnamehash}{add56b25a352803a6950348c568d386b}
+      \strng{authornamehash}{add56b25a352803a6950348c568d386b}
+      \strng{authorfullhash}{add56b25a352803a6950348c568d386b}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Chontal de San Pedro Huamelula, Sierra Baja de Oaxaca}
+      \field{year}{2014}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\5IS97GGM\O'Connor - 2014 - Chontal de san pedro huamelula, sierra baja de oax.pdf
+      \endverb
+    \endentry
+    \entry{Huichol}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=34efac45d3a3f44c918dede1ce7028d6}{%
+           family={Ramos\bibnamedelima Bierge},
+           familyi={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Stefanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Tesis de doctorado). Colorado: University of Colorado at Boulder}%
+      }
+      \strng{namehash}{34efac45d3a3f44c918dede1ce7028d6}
+      \strng{fullhash}{34efac45d3a3f44c918dede1ce7028d6}
+      \strng{bibnamehash}{34efac45d3a3f44c918dede1ce7028d6}
+      \strng{authorbibnamehash}{34efac45d3a3f44c918dede1ce7028d6}
+      \strng{authornamehash}{34efac45d3a3f44c918dede1ce7028d6}
+      \strng{authorfullhash}{34efac45d3a3f44c918dede1ce7028d6}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Clause Types and Transitivity in Wixárika (Huichol): {{A}} Uto-Aztecan Language}
+      \field{type}{phdthesis}
+      \field{year}{2017}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\376D55TI\Ramos Bierge - 2017 - Clause types and transitivity in wixárika (huichol.pdf
+      \endverb
+    \endentry
+    \entry{mixe}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=05a4ef6bacec182c35987f1943a37450}{%
+           family={{Romero-Mendez}},
+           familyi={R\bibinitperiod},
+           given={Rodrigo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {State University of New York at Buffalo}%
+      }
+      \strng{namehash}{05a4ef6bacec182c35987f1943a37450}
+      \strng{fullhash}{05a4ef6bacec182c35987f1943a37450}
+      \strng{bibnamehash}{05a4ef6bacec182c35987f1943a37450}
+      \strng{authorbibnamehash}{05a4ef6bacec182c35987f1943a37450}
+      \strng{authornamehash}{05a4ef6bacec182c35987f1943a37450}
+      \strng{authorfullhash}{05a4ef6bacec182c35987f1943a37450}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{A Reference Grammar of Ayutla Mixe}
+      \field{type}{phdthesis}
+      \field{year}{2009}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\HY4FMTYT\Romero-Mendez - 2009 - A reference grammar of ayutla mixe.pdf
+      \endverb
+    \endentry
+    \entry{chinanteco}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c8800cf082df74a7e2ed101b0feefc21}{%
+           family={Rupp},
+           familyi={R\bibinitperiod},
+           given={James\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Instituto Lingüístico de Verano y The University of Texas}%
+      }
+      \strng{namehash}{c8800cf082df74a7e2ed101b0feefc21}
+      \strng{fullhash}{c8800cf082df74a7e2ed101b0feefc21}
+      \strng{bibnamehash}{c8800cf082df74a7e2ed101b0feefc21}
+      \strng{authorbibnamehash}{c8800cf082df74a7e2ed101b0feefc21}
+      \strng{authornamehash}{c8800cf082df74a7e2ed101b0feefc21}
+      \strng{authorfullhash}{c8800cf082df74a7e2ed101b0feefc21}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{series}{Studies in {{Chinantec Languages}} 2}
+      \field{title}{Lealao Chinantec Syntax}
+      \field{year}{1989}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\5CBBYGUQ\Rupp - 1989 - Lealao chinantec syntax.pdf
+      \endverb
+    \endentry
+    \entry{chatino}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fad8119068b1c04f6368aadb8c30f4ba}{%
+           family={Villard},
+           familyi={V\bibinitperiod},
+           given={Stéphanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {The University of Texas}%
+      }
+      \strng{namehash}{fad8119068b1c04f6368aadb8c30f4ba}
+      \strng{fullhash}{fad8119068b1c04f6368aadb8c30f4ba}
+      \strng{bibnamehash}{fad8119068b1c04f6368aadb8c30f4ba}
+      \strng{authorbibnamehash}{fad8119068b1c04f6368aadb8c30f4ba}
+      \strng{authornamehash}{fad8119068b1c04f6368aadb8c30f4ba}
+      \strng{authorfullhash}{fad8119068b1c04f6368aadb8c30f4ba}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Grammatical Sketch of Zacatepec Chatino}
+      \field{type}{phdthesis}
+      \field{year}{2008}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\VHI6GYC3\Villard - 2008 - Grammatical sketch of zacatepec chatino.pdf
+      \endverb
+    \endentry
+    \entry{Oluteco}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7309eedf10a7468c5e60174b65bbae4d}{%
+           family={Zavala},
+           familyi={Z\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7309eedf10a7468c5e60174b65bbae4d}
+      \strng{fullhash}{7309eedf10a7468c5e60174b65bbae4d}
+      \strng{bibnamehash}{7309eedf10a7468c5e60174b65bbae4d}
+      \strng{authorbibnamehash}{7309eedf10a7468c5e60174b65bbae4d}
+      \strng{authornamehash}{7309eedf10a7468c5e60174b65bbae4d}
+      \strng{authorfullhash}{7309eedf10a7468c5e60174b65bbae4d}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Tlalocan. Revista de Fuentes para el Conocimiento de las Culturas Indígenas de México}
+      \field{title}{Entre Consejos, Diablos y Vendedores de Caca, Rasgos Gramaticales Del Oluteco En Tres de Sus Cuentos}
+      \field{volume}{13}
+      \field{year}{2001}
+      \field{pages}{335\bibrangedash 414}
+      \range{pages}{80}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\F6AATXVV\Zavala - 2001 - Entre consejos, diablos y vendedores de caca, rasg.pdf
+      \endverb
+    \endentry
+    \entry{acateco}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7706e475dd20b03bc38bf33a31d5f7ed}{%
+           family={Zavala\bibnamedelima Maldonado},
+           familyi={Z\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {México, D.F}%
+      }
+      \list{publisher}{1}{%
+        {Colegio de México, Centro de Estudios Lingüísticos y literarios}%
+      }
+      \strng{namehash}{7706e475dd20b03bc38bf33a31d5f7ed}
+      \strng{fullhash}{7706e475dd20b03bc38bf33a31d5f7ed}
+      \strng{bibnamehash}{7706e475dd20b03bc38bf33a31d5f7ed}
+      \strng{authorbibnamehash}{7706e475dd20b03bc38bf33a31d5f7ed}
+      \strng{authornamehash}{7706e475dd20b03bc38bf33a31d5f7ed}
+      \strng{authorfullhash}{7706e475dd20b03bc38bf33a31d5f7ed}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1. ed}
+      \field{isbn}{978-968-12-0569-0}
+      \field{langid}{english}
+      \field{number}{17}
+      \field{series}{Archivo de Lenguas Indígenas de {{México}}}
+      \field{title}{Acateco de La Frontera Sur}
+      \field{year}{1992}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\W8GBKIKJ\Acateco de la frontera sur.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
