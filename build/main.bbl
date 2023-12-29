@@ -19,6 +19,39 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Popoluca}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7e9f0f80921184cdf4c8cc421cbd11ef}{%
+           family={Boudreault},
+           familyi={B\bibinitperiod},
+           given={Lynda},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {The University of Texas}%
+      }
+      \strng{namehash}{7e9f0f80921184cdf4c8cc421cbd11ef}
+      \strng{fullhash}{7e9f0f80921184cdf4c8cc421cbd11ef}
+      \strng{bibnamehash}{7e9f0f80921184cdf4c8cc421cbd11ef}
+      \strng{authorbibnamehash}{7e9f0f80921184cdf4c8cc421cbd11ef}
+      \strng{authornamehash}{7e9f0f80921184cdf4c8cc421cbd11ef}
+      \strng{authorfullhash}{7e9f0f80921184cdf4c8cc421cbd11ef}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{A Grammar of Sierra Popoluca ({{Soteapanec}}, a {{Mixe-Zoquean Language}})}
+      \field{type}{phdthesis}
+      \field{year}{2009}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\HVQRX55N\Boudreault - 2018 - A grammar of sierra popoluca.pdf
+      \endverb
+    \endentry
     \entry{lacandon}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0ad3ffad73ca4b22bb57d5f2196d9370}{%
@@ -145,6 +178,37 @@
       \verb C:\Users\jesus\Zotero\storage\P8VZDBZR\Delgado Galván - 2004 - Descripción del orden básico de palabras en Yokot'.pdf
       \endverb
     \endentry
+    \entry{fwe}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0bdc1799c99790cdd9e2612f7760f54b}{%
+           family={Gunnink},
+           familyi={G\bibinitperiod},
+           given={Hilde},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{0bdc1799c99790cdd9e2612f7760f54b}
+      \strng{fullhash}{0bdc1799c99790cdd9e2612f7760f54b}
+      \strng{bibnamehash}{0bdc1799c99790cdd9e2612f7760f54b}
+      \strng{authorbibnamehash}{0bdc1799c99790cdd9e2612f7760f54b}
+      \strng{authornamehash}{0bdc1799c99790cdd9e2612f7760f54b}
+      \strng{authorfullhash}{0bdc1799c99790cdd9e2612f7760f54b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Fwe}
+      \field{year}{2022}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\4BLCXTSY\Gunnink - 2022 - A grammar of fwe.pdf
+      \endverb
+    \endentry
     \entry{chichimeco}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=edc3056db2661d18282feb107ee1f6ab}{%
@@ -206,6 +270,71 @@
       \field{year}{2014}
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\5IS97GGM\O'Connor - 2014 - Chontal de san pedro huamelula, sierra baja de oax.pdf
+      \endverb
+    \endentry
+    \entry{aguaruna}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=62ca29dfbf2ef43bfdbd20e6e4490483}{%
+           family={Overall},
+           familyi={O\bibinitperiod},
+           given={Simon\bibnamedelima E},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {La Trobe University}%
+      }
+      \strng{namehash}{62ca29dfbf2ef43bfdbd20e6e4490483}
+      \strng{fullhash}{62ca29dfbf2ef43bfdbd20e6e4490483}
+      \strng{bibnamehash}{62ca29dfbf2ef43bfdbd20e6e4490483}
+      \strng{authorbibnamehash}{62ca29dfbf2ef43bfdbd20e6e4490483}
+      \strng{authornamehash}{62ca29dfbf2ef43bfdbd20e6e4490483}
+      \strng{authorfullhash}{62ca29dfbf2ef43bfdbd20e6e4490483}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{A Grammar of Aguaruna}
+      \field{type}{phdthesis}
+      \field{year}{2007}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\6YG84V6J\Overall - 2007 - A grammar of aguaruna.pdf
+      \endverb
+    \endentry
+    \entry{Otomi}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7bf56e3554135edc8d0ecb49a3d15a71}{%
+           family={Palancar},
+           familyi={P\bibinitperiod},
+           given={Enrique\bibnamedelima L},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Autónoma de Querétaro}%
+      }
+      \strng{namehash}{7bf56e3554135edc8d0ecb49a3d15a71}
+      \strng{fullhash}{7bf56e3554135edc8d0ecb49a3d15a71}
+      \strng{bibnamehash}{7bf56e3554135edc8d0ecb49a3d15a71}
+      \strng{authorbibnamehash}{7bf56e3554135edc8d0ecb49a3d15a71}
+      \strng{authornamehash}{7bf56e3554135edc8d0ecb49a3d15a71}
+      \strng{authorfullhash}{7bf56e3554135edc8d0ecb49a3d15a71}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gramática y Textos Del Hñöñhö: Otomí de San Ildefonso Tultepec, Querétaro}
+      \field{volume}{1}
+      \field{year}{2009}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\VFRNB2W3\Palancar - 2009 - Gramática y textos del hñöñhö otomí de san ildefo.pdf
       \endverb
     \endentry
     \entry{Huichol}{thesis}{}
@@ -411,6 +540,39 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{Popoluca}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7e9f0f80921184cdf4c8cc421cbd11ef}{%
+           family={Boudreault},
+           familyi={B\bibinitperiod},
+           given={Lynda},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {The University of Texas}%
+      }
+      \strng{namehash}{7e9f0f80921184cdf4c8cc421cbd11ef}
+      \strng{fullhash}{7e9f0f80921184cdf4c8cc421cbd11ef}
+      \strng{bibnamehash}{7e9f0f80921184cdf4c8cc421cbd11ef}
+      \strng{authorbibnamehash}{7e9f0f80921184cdf4c8cc421cbd11ef}
+      \strng{authornamehash}{7e9f0f80921184cdf4c8cc421cbd11ef}
+      \strng{authorfullhash}{7e9f0f80921184cdf4c8cc421cbd11ef}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{A Grammar of Sierra Popoluca ({{Soteapanec}}, a {{Mixe-Zoquean Language}})}
+      \field{type}{phdthesis}
+      \field{year}{2009}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\HVQRX55N\Boudreault - 2018 - A grammar of sierra popoluca.pdf
+      \endverb
+    \endentry
     \entry{lacandon}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0ad3ffad73ca4b22bb57d5f2196d9370}{%
@@ -537,6 +699,37 @@
       \verb C:\Users\jesus\Zotero\storage\P8VZDBZR\Delgado Galván - 2004 - Descripción del orden básico de palabras en Yokot'.pdf
       \endverb
     \endentry
+    \entry{fwe}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0bdc1799c99790cdd9e2612f7760f54b}{%
+           family={Gunnink},
+           familyi={G\bibinitperiod},
+           given={Hilde},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{0bdc1799c99790cdd9e2612f7760f54b}
+      \strng{fullhash}{0bdc1799c99790cdd9e2612f7760f54b}
+      \strng{bibnamehash}{0bdc1799c99790cdd9e2612f7760f54b}
+      \strng{authorbibnamehash}{0bdc1799c99790cdd9e2612f7760f54b}
+      \strng{authornamehash}{0bdc1799c99790cdd9e2612f7760f54b}
+      \strng{authorfullhash}{0bdc1799c99790cdd9e2612f7760f54b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Fwe}
+      \field{year}{2022}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\4BLCXTSY\Gunnink - 2022 - A grammar of fwe.pdf
+      \endverb
+    \endentry
     \entry{chichimeco}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=edc3056db2661d18282feb107ee1f6ab}{%
@@ -598,6 +791,71 @@
       \field{year}{2014}
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\5IS97GGM\O'Connor - 2014 - Chontal de san pedro huamelula, sierra baja de oax.pdf
+      \endverb
+    \endentry
+    \entry{aguaruna}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=62ca29dfbf2ef43bfdbd20e6e4490483}{%
+           family={Overall},
+           familyi={O\bibinitperiod},
+           given={Simon\bibnamedelima E},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {La Trobe University}%
+      }
+      \strng{namehash}{62ca29dfbf2ef43bfdbd20e6e4490483}
+      \strng{fullhash}{62ca29dfbf2ef43bfdbd20e6e4490483}
+      \strng{bibnamehash}{62ca29dfbf2ef43bfdbd20e6e4490483}
+      \strng{authorbibnamehash}{62ca29dfbf2ef43bfdbd20e6e4490483}
+      \strng{authornamehash}{62ca29dfbf2ef43bfdbd20e6e4490483}
+      \strng{authorfullhash}{62ca29dfbf2ef43bfdbd20e6e4490483}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{A Grammar of Aguaruna}
+      \field{type}{phdthesis}
+      \field{year}{2007}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\6YG84V6J\Overall - 2007 - A grammar of aguaruna.pdf
+      \endverb
+    \endentry
+    \entry{Otomi}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7bf56e3554135edc8d0ecb49a3d15a71}{%
+           family={Palancar},
+           familyi={P\bibinitperiod},
+           given={Enrique\bibnamedelima L},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Autónoma de Querétaro}%
+      }
+      \strng{namehash}{7bf56e3554135edc8d0ecb49a3d15a71}
+      \strng{fullhash}{7bf56e3554135edc8d0ecb49a3d15a71}
+      \strng{bibnamehash}{7bf56e3554135edc8d0ecb49a3d15a71}
+      \strng{authorbibnamehash}{7bf56e3554135edc8d0ecb49a3d15a71}
+      \strng{authornamehash}{7bf56e3554135edc8d0ecb49a3d15a71}
+      \strng{authorfullhash}{7bf56e3554135edc8d0ecb49a3d15a71}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gramática y Textos Del Hñöñhö: Otomí de San Ildefonso Tultepec, Querétaro}
+      \field{volume}{1}
+      \field{year}{2009}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\VFRNB2W3\Palancar - 2009 - Gramática y textos del hñöñhö otomí de san ildefo.pdf
       \endverb
     \endentry
     \entry{Huichol}{thesis}{}

@@ -3077,6 +3077,10 @@
     <bcf:citekey order="16" intorder="1">Mixteco</bcf:citekey>
     <bcf:citekey order="17" intorder="1">Mixteco</bcf:citekey>
     <bcf:citekey order="18" intorder="1">Oluteco</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">Otomi</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">Popoluca</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">aguaruna</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">fwe</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
