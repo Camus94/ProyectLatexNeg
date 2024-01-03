@@ -83,6 +83,37 @@
       \verb C:\Users\jesus\Zotero\storage\QPH78NSX\Bruce - 2021 - Gramática del lacandón.pdf
       \endverb
     \endentry
+    \entry{tarahumara}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=63e556647db5c286fc7db050796c393b}{%
+           family={Caballero},
+           familyi={C\bibinitperiod},
+           given={Gabriela},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{63e556647db5c286fc7db050796c393b}
+      \strng{fullhash}{63e556647db5c286fc7db050796c393b}
+      \strng{bibnamehash}{63e556647db5c286fc7db050796c393b}
+      \strng{authorbibnamehash}{63e556647db5c286fc7db050796c393b}
+      \strng{authornamehash}{63e556647db5c286fc7db050796c393b}
+      \strng{authorfullhash}{63e556647db5c286fc7db050796c393b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Choguita Rarámuri: {{In}} Collaboration with Luz Elena León Ramírez, Sebastián Fuentes Holguín, Bertha Fuentes Loya and Other Choguita Rarámuri Language Experts}
+      \field{year}{2022}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\LYZFI5U9\Caballero - 2022 - A grammar of choguita rarámuri In collaboration w.pdf
+      \endverb
+    \endentry
     \entry{Huave}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=eea3c3e0b6d506c096701d9428ff9e3d}{%
@@ -178,6 +209,35 @@
       \verb C:\Users\jesus\Zotero\storage\P8VZDBZR\Delgado Galván - 2004 - Descripción del orden básico de palabras en Yokot'.pdf
       \endverb
     \endentry
+    \entry{Tepehuano}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8fd1b66ab88e1d7d3d8df2015ff2049a}{%
+           family={García\bibnamedelima Salido},
+           familyi={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Gabriela},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8fd1b66ab88e1d7d3d8df2015ff2049a}
+      \strng{fullhash}{8fd1b66ab88e1d7d3d8df2015ff2049a}
+      \strng{bibnamehash}{8fd1b66ab88e1d7d3d8df2015ff2049a}
+      \strng{authorbibnamehash}{8fd1b66ab88e1d7d3d8df2015ff2049a}
+      \strng{authornamehash}{8fd1b66ab88e1d7d3d8df2015ff2049a}
+      \strng{authorfullhash}{8fd1b66ab88e1d7d3d8df2015ff2049a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Clause Linkage in Southeastern Tepehuan: {{A}} Uto-Aztecan Language of Northern Mexico}
+      \field{type}{phdthesis}
+      \field{year}{2014}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\L6JQXTYE\García Salido - 2014 - Clause linkage in southeastern tepehuan A uto-azt.pdf
+      \endverb
+    \endentry
     \entry{fwe}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0bdc1799c99790cdd9e2612f7760f54b}{%
@@ -207,6 +267,39 @@
       \field{year}{2022}
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\4BLCXTSY\Gunnink - 2022 - A grammar of fwe.pdf
+      \endverb
+    \endentry
+    \entry{Tepehua}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=addad4fdb086fd988df902595f15c8e2}{%
+           family={Kung},
+           familyi={K\bibinitperiod},
+           given={Susan\bibnamedelima Smythe},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {The University of Texas at Austin}%
+      }
+      \strng{namehash}{addad4fdb086fd988df902595f15c8e2}
+      \strng{fullhash}{addad4fdb086fd988df902595f15c8e2}
+      \strng{bibnamehash}{addad4fdb086fd988df902595f15c8e2}
+      \strng{authorbibnamehash}{addad4fdb086fd988df902595f15c8e2}
+      \strng{authornamehash}{addad4fdb086fd988df902595f15c8e2}
+      \strng{authorfullhash}{addad4fdb086fd988df902595f15c8e2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{A Descriptive Grammar of Huehuetla Tepehua}
+      \field{type}{phdthesis}
+      \field{year}{2007}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\WG7P3HNY\Kung - 2007 - A descriptive grammar of huehuetla tepehua.pdf
       \endverb
     \endentry
     \entry{chichimeco}{thesis}{}
@@ -239,6 +332,38 @@
       \field{year}{2018}
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\GBSZP9ZH\Lizárraga y Glenda - 2018 - Morfología verbal de persona y número en chichimec.pdf
+      \endverb
+    \endentry
+    \entry{Seri}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1e41172a9798c7bc35cf8bb5747f16b0}{%
+           family={Marlett},
+           familyi={M\bibinitperiod},
+           given={Stephen\bibnamedelima Alan},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of California, San Diego}%
+      }
+      \strng{namehash}{1e41172a9798c7bc35cf8bb5747f16b0}
+      \strng{fullhash}{1e41172a9798c7bc35cf8bb5747f16b0}
+      \strng{bibnamehash}{1e41172a9798c7bc35cf8bb5747f16b0}
+      \strng{authorbibnamehash}{1e41172a9798c7bc35cf8bb5747f16b0}
+      \strng{authornamehash}{1e41172a9798c7bc35cf8bb5747f16b0}
+      \strng{authorfullhash}{1e41172a9798c7bc35cf8bb5747f16b0}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Structure of Seri}
+      \field{type}{phdthesis}
+      \field{year}{1981}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\S73WEC6R\Marlett - 1981 - The structure of seri.pdf
       \endverb
     \endentry
     \entry{ChontalOaxaca}{book}{}
@@ -604,6 +729,37 @@
       \verb C:\Users\jesus\Zotero\storage\QPH78NSX\Bruce - 2021 - Gramática del lacandón.pdf
       \endverb
     \endentry
+    \entry{tarahumara}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=63e556647db5c286fc7db050796c393b}{%
+           family={Caballero},
+           familyi={C\bibinitperiod},
+           given={Gabriela},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{63e556647db5c286fc7db050796c393b}
+      \strng{fullhash}{63e556647db5c286fc7db050796c393b}
+      \strng{bibnamehash}{63e556647db5c286fc7db050796c393b}
+      \strng{authorbibnamehash}{63e556647db5c286fc7db050796c393b}
+      \strng{authornamehash}{63e556647db5c286fc7db050796c393b}
+      \strng{authorfullhash}{63e556647db5c286fc7db050796c393b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Choguita Rarámuri: {{In}} Collaboration with Luz Elena León Ramírez, Sebastián Fuentes Holguín, Bertha Fuentes Loya and Other Choguita Rarámuri Language Experts}
+      \field{year}{2022}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\LYZFI5U9\Caballero - 2022 - A grammar of choguita rarámuri In collaboration w.pdf
+      \endverb
+    \endentry
     \entry{Huave}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=eea3c3e0b6d506c096701d9428ff9e3d}{%
@@ -699,6 +855,35 @@
       \verb C:\Users\jesus\Zotero\storage\P8VZDBZR\Delgado Galván - 2004 - Descripción del orden básico de palabras en Yokot'.pdf
       \endverb
     \endentry
+    \entry{Tepehuano}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8fd1b66ab88e1d7d3d8df2015ff2049a}{%
+           family={García\bibnamedelima Salido},
+           familyi={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Gabriela},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8fd1b66ab88e1d7d3d8df2015ff2049a}
+      \strng{fullhash}{8fd1b66ab88e1d7d3d8df2015ff2049a}
+      \strng{bibnamehash}{8fd1b66ab88e1d7d3d8df2015ff2049a}
+      \strng{authorbibnamehash}{8fd1b66ab88e1d7d3d8df2015ff2049a}
+      \strng{authornamehash}{8fd1b66ab88e1d7d3d8df2015ff2049a}
+      \strng{authorfullhash}{8fd1b66ab88e1d7d3d8df2015ff2049a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Clause Linkage in Southeastern Tepehuan: {{A}} Uto-Aztecan Language of Northern Mexico}
+      \field{type}{phdthesis}
+      \field{year}{2014}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\L6JQXTYE\García Salido - 2014 - Clause linkage in southeastern tepehuan A uto-azt.pdf
+      \endverb
+    \endentry
     \entry{fwe}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0bdc1799c99790cdd9e2612f7760f54b}{%
@@ -728,6 +913,39 @@
       \field{year}{2022}
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\4BLCXTSY\Gunnink - 2022 - A grammar of fwe.pdf
+      \endverb
+    \endentry
+    \entry{Tepehua}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=addad4fdb086fd988df902595f15c8e2}{%
+           family={Kung},
+           familyi={K\bibinitperiod},
+           given={Susan\bibnamedelima Smythe},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {The University of Texas at Austin}%
+      }
+      \strng{namehash}{addad4fdb086fd988df902595f15c8e2}
+      \strng{fullhash}{addad4fdb086fd988df902595f15c8e2}
+      \strng{bibnamehash}{addad4fdb086fd988df902595f15c8e2}
+      \strng{authorbibnamehash}{addad4fdb086fd988df902595f15c8e2}
+      \strng{authornamehash}{addad4fdb086fd988df902595f15c8e2}
+      \strng{authorfullhash}{addad4fdb086fd988df902595f15c8e2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{A Descriptive Grammar of Huehuetla Tepehua}
+      \field{type}{phdthesis}
+      \field{year}{2007}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\WG7P3HNY\Kung - 2007 - A descriptive grammar of huehuetla tepehua.pdf
       \endverb
     \endentry
     \entry{chichimeco}{thesis}{}
@@ -760,6 +978,38 @@
       \field{year}{2018}
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\GBSZP9ZH\Lizárraga y Glenda - 2018 - Morfología verbal de persona y número en chichimec.pdf
+      \endverb
+    \endentry
+    \entry{Seri}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1e41172a9798c7bc35cf8bb5747f16b0}{%
+           family={Marlett},
+           familyi={M\bibinitperiod},
+           given={Stephen\bibnamedelima Alan},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of California, San Diego}%
+      }
+      \strng{namehash}{1e41172a9798c7bc35cf8bb5747f16b0}
+      \strng{fullhash}{1e41172a9798c7bc35cf8bb5747f16b0}
+      \strng{bibnamehash}{1e41172a9798c7bc35cf8bb5747f16b0}
+      \strng{authorbibnamehash}{1e41172a9798c7bc35cf8bb5747f16b0}
+      \strng{authornamehash}{1e41172a9798c7bc35cf8bb5747f16b0}
+      \strng{authorfullhash}{1e41172a9798c7bc35cf8bb5747f16b0}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Structure of Seri}
+      \field{type}{phdthesis}
+      \field{year}{1981}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\S73WEC6R\Marlett - 1981 - The structure of seri.pdf
       \endverb
     \endentry
     \entry{ChontalOaxaca}{book}{}
