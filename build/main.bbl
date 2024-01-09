@@ -114,6 +114,38 @@
       \verb C:\Users\jesus\Zotero\storage\LYZFI5U9\Caballero - 2022 - A grammar of choguita rarámuri In collaboration w.pdf
       \endverb
     \endentry
+    \entry{Tlapaneco}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1e64e3c9adb145ef00ac003484567201}{%
+           family={Cano},
+           familyi={C\bibinitperiod},
+           given={Gregorio\bibnamedelima Tiburcio},
+           giveni={G\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Centro de Investigaciones y Estudios Superiores en Antropología Social}%
+      }
+      \strng{namehash}{1e64e3c9adb145ef00ac003484567201}
+      \strng{fullhash}{1e64e3c9adb145ef00ac003484567201}
+      \strng{bibnamehash}{1e64e3c9adb145ef00ac003484567201}
+      \strng{authorbibnamehash}{1e64e3c9adb145ef00ac003484567201}
+      \strng{authornamehash}{1e64e3c9adb145ef00ac003484567201}
+      \strng{authorfullhash}{1e64e3c9adb145ef00ac003484567201}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La Flexión Verbal Del Me'phaa de Zilacayotitlán}
+      \field{type}{Maestría}
+      \field{year}{2017}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\E7NMESES\CANO - 2017 - La flexión verbal del me'phaa de zilacayotitlán.pdf
+      \endverb
+    \endentry
     \entry{Huave}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=eea3c3e0b6d506c096701d9428ff9e3d}{%
@@ -395,6 +427,38 @@
       \field{year}{2014}
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\5IS97GGM\O'Connor - 2014 - Chontal de san pedro huamelula, sierra baja de oax.pdf
+      \endverb
+    \endentry
+    \entry{Tlahuica}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9260c4153fc763b4bd6a2ae93578c8a3}{%
+           family={Ortega},
+           familyi={O\bibinitperiod},
+           given={Aileen\bibnamedelimb Patricia\bibnamedelima Martínez},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {El Colegio de México}%
+      }
+      \strng{namehash}{9260c4153fc763b4bd6a2ae93578c8a3}
+      \strng{fullhash}{9260c4153fc763b4bd6a2ae93578c8a3}
+      \strng{bibnamehash}{9260c4153fc763b4bd6a2ae93578c8a3}
+      \strng{authorbibnamehash}{9260c4153fc763b4bd6a2ae93578c8a3}
+      \strng{authornamehash}{9260c4153fc763b4bd6a2ae93578c8a3}
+      \strng{authorfullhash}{9260c4153fc763b4bd6a2ae93578c8a3}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Clases Verbales, Transitividad y Valencia Verbal En El Pjyɇkakjó, Tlahuica de {{San Juan Atzingo}}}
+      \field{type}{phdthesis}
+      \field{year}{2012}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\JJDPVIVM\Ortega - 2012 - Clases verbales, transitividad y valencia verbal e.pdf
       \endverb
     \endentry
     \entry{aguaruna}{thesis}{}
@@ -760,6 +824,38 @@
       \verb C:\Users\jesus\Zotero\storage\LYZFI5U9\Caballero - 2022 - A grammar of choguita rarámuri In collaboration w.pdf
       \endverb
     \endentry
+    \entry{Tlapaneco}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1e64e3c9adb145ef00ac003484567201}{%
+           family={Cano},
+           familyi={C\bibinitperiod},
+           given={Gregorio\bibnamedelima Tiburcio},
+           giveni={G\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Centro de Investigaciones y Estudios Superiores en Antropología Social}%
+      }
+      \strng{namehash}{1e64e3c9adb145ef00ac003484567201}
+      \strng{fullhash}{1e64e3c9adb145ef00ac003484567201}
+      \strng{bibnamehash}{1e64e3c9adb145ef00ac003484567201}
+      \strng{authorbibnamehash}{1e64e3c9adb145ef00ac003484567201}
+      \strng{authornamehash}{1e64e3c9adb145ef00ac003484567201}
+      \strng{authorfullhash}{1e64e3c9adb145ef00ac003484567201}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La Flexión Verbal Del Me'phaa de Zilacayotitlán}
+      \field{type}{Maestría}
+      \field{year}{2017}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\E7NMESES\CANO - 2017 - La flexión verbal del me'phaa de zilacayotitlán.pdf
+      \endverb
+    \endentry
     \entry{Huave}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=eea3c3e0b6d506c096701d9428ff9e3d}{%
@@ -1041,6 +1137,38 @@
       \field{year}{2014}
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\5IS97GGM\O'Connor - 2014 - Chontal de san pedro huamelula, sierra baja de oax.pdf
+      \endverb
+    \endentry
+    \entry{Tlahuica}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9260c4153fc763b4bd6a2ae93578c8a3}{%
+           family={Ortega},
+           familyi={O\bibinitperiod},
+           given={Aileen\bibnamedelimb Patricia\bibnamedelima Martínez},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {El Colegio de México}%
+      }
+      \strng{namehash}{9260c4153fc763b4bd6a2ae93578c8a3}
+      \strng{fullhash}{9260c4153fc763b4bd6a2ae93578c8a3}
+      \strng{bibnamehash}{9260c4153fc763b4bd6a2ae93578c8a3}
+      \strng{authorbibnamehash}{9260c4153fc763b4bd6a2ae93578c8a3}
+      \strng{authornamehash}{9260c4153fc763b4bd6a2ae93578c8a3}
+      \strng{authorfullhash}{9260c4153fc763b4bd6a2ae93578c8a3}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Clases Verbales, Transitividad y Valencia Verbal En El Pjyɇkakjó, Tlahuica de {{San Juan Atzingo}}}
+      \field{type}{phdthesis}
+      \field{year}{2012}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\JJDPVIVM\Ortega - 2012 - Clases verbales, transitividad y valencia verbal e.pdf
       \endverb
     \endentry
     \entry{aguaruna}{thesis}{}

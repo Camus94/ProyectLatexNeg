@@ -3083,8 +3083,12 @@
     <bcf:citekey order="22" intorder="1">tarahumara</bcf:citekey>
     <bcf:citekey order="23" intorder="1">Tepehua</bcf:citekey>
     <bcf:citekey order="24" intorder="1">Tepehuano</bcf:citekey>
-    <bcf:citekey order="25" intorder="1">aguaruna</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">fwe</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">Tlahuica</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">Tlahuica</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">Tlahuica</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">Tlapaneco</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">aguaruna</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">fwe</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
