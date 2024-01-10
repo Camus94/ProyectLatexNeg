@@ -19,6 +19,38 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Tzotzil}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=00f3f87c1458df7a2bce6574fdaae55e}{%
+           family={Aissen},
+           familyi={A\bibinitperiod},
+           given={Judith},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Science \& Business Media}%
+      }
+      \strng{namehash}{00f3f87c1458df7a2bce6574fdaae55e}
+      \strng{fullhash}{00f3f87c1458df7a2bce6574fdaae55e}
+      \strng{bibnamehash}{00f3f87c1458df7a2bce6574fdaae55e}
+      \strng{authorbibnamehash}{00f3f87c1458df7a2bce6574fdaae55e}
+      \strng{authornamehash}{00f3f87c1458df7a2bce6574fdaae55e}
+      \strng{authorfullhash}{00f3f87c1458df7a2bce6574fdaae55e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tzotzil Clause Structure}
+      \field{volume}{7}
+      \field{year}{1987}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\2VBW6LJT\Aissen - 1987 - Tzotzil clause structure.pdf
+      \endverb
+    \endentry
     \entry{Popoluca}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=7e9f0f80921184cdf4c8cc421cbd11ef}{%
@@ -209,6 +241,39 @@
       \verb C:\Users\jesus\Zotero\storage\6YBYQKM6\de Ferguson Williams - 2006 - Gramática popular del mixteco del municipio de tez.pdf
       \endverb
     \endentry
+    \entry{Triqui}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d850dc54fca4d658fdc028db22e1af36}{%
+           family={Hollenbach},
+           familyi={H\bibinitperiod},
+           given={Elena\bibnamedelima Erickson},
+           giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Inst. Lingüístico de Verano}%
+      }
+      \strng{namehash}{d850dc54fca4d658fdc028db22e1af36}
+      \strng{fullhash}{d850dc54fca4d658fdc028db22e1af36}
+      \strng{bibnamehash}{d850dc54fca4d658fdc028db22e1af36}
+      \strng{authorbibnamehash}{d850dc54fca4d658fdc028db22e1af36}
+      \strng{authornamehash}{d850dc54fca4d658fdc028db22e1af36}
+      \strng{authorfullhash}{d850dc54fca4d658fdc028db22e1af36}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gramática Popular Del Triqui de {{Copala}}}
+      \field{year}{2005}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\EXCPBY5K\Hollenbach - 2005 - Gramática popular del triqui de Copala.pdf
+      \endverb
+    \endentry
     \entry{ChontalTabasco}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=785c254fe6e9293a1f022f52f58b6e24}{%
@@ -299,6 +364,38 @@
       \field{year}{2022}
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\4BLCXTSY\Gunnink - 2022 - A grammar of fwe.pdf
+      \endverb
+    \endentry
+    \entry{Totonaco}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a3fd26a591e8a6f9ccb94f4d79529aa9}{%
+           family={Juárez\bibnamedelima Esteban},
+           familyi={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={Adela},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Tesis de maestría en Lingüística Indoamericana. CIESAS, México}%
+      }
+      \strng{namehash}{a3fd26a591e8a6f9ccb94f4d79529aa9}
+      \strng{fullhash}{a3fd26a591e8a6f9ccb94f4d79529aa9}
+      \strng{bibnamehash}{a3fd26a591e8a6f9ccb94f4d79529aa9}
+      \strng{authorbibnamehash}{a3fd26a591e8a6f9ccb94f4d79529aa9}
+      \strng{authornamehash}{a3fd26a591e8a6f9ccb94f4d79529aa9}
+      \strng{authorfullhash}{a3fd26a591e8a6f9ccb94f4d79529aa9}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Los Predicados Complejos En El Totonaco de {{Tuxtla}}, {{Puebla}}}
+      \field{type}{phdthesis}
+      \field{year}{2016}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\9YNABANA\Juárez Esteban - 2016 - Los predicados complejos en el totonaco de Tuxtla,.pdf
       \endverb
     \endentry
     \entry{Tepehua}{thesis}{}
@@ -729,6 +826,38 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{Tzotzil}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=00f3f87c1458df7a2bce6574fdaae55e}{%
+           family={Aissen},
+           familyi={A\bibinitperiod},
+           given={Judith},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Science \& Business Media}%
+      }
+      \strng{namehash}{00f3f87c1458df7a2bce6574fdaae55e}
+      \strng{fullhash}{00f3f87c1458df7a2bce6574fdaae55e}
+      \strng{bibnamehash}{00f3f87c1458df7a2bce6574fdaae55e}
+      \strng{authorbibnamehash}{00f3f87c1458df7a2bce6574fdaae55e}
+      \strng{authornamehash}{00f3f87c1458df7a2bce6574fdaae55e}
+      \strng{authorfullhash}{00f3f87c1458df7a2bce6574fdaae55e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tzotzil Clause Structure}
+      \field{volume}{7}
+      \field{year}{1987}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\2VBW6LJT\Aissen - 1987 - Tzotzil clause structure.pdf
+      \endverb
+    \endentry
     \entry{Popoluca}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=7e9f0f80921184cdf4c8cc421cbd11ef}{%
@@ -919,6 +1048,39 @@
       \verb C:\Users\jesus\Zotero\storage\6YBYQKM6\de Ferguson Williams - 2006 - Gramática popular del mixteco del municipio de tez.pdf
       \endverb
     \endentry
+    \entry{Triqui}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d850dc54fca4d658fdc028db22e1af36}{%
+           family={Hollenbach},
+           familyi={H\bibinitperiod},
+           given={Elena\bibnamedelima Erickson},
+           giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Inst. Lingüístico de Verano}%
+      }
+      \strng{namehash}{d850dc54fca4d658fdc028db22e1af36}
+      \strng{fullhash}{d850dc54fca4d658fdc028db22e1af36}
+      \strng{bibnamehash}{d850dc54fca4d658fdc028db22e1af36}
+      \strng{authorbibnamehash}{d850dc54fca4d658fdc028db22e1af36}
+      \strng{authornamehash}{d850dc54fca4d658fdc028db22e1af36}
+      \strng{authorfullhash}{d850dc54fca4d658fdc028db22e1af36}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gramática Popular Del Triqui de {{Copala}}}
+      \field{year}{2005}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\EXCPBY5K\Hollenbach - 2005 - Gramática popular del triqui de Copala.pdf
+      \endverb
+    \endentry
     \entry{ChontalTabasco}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=785c254fe6e9293a1f022f52f58b6e24}{%
@@ -1009,6 +1171,38 @@
       \field{year}{2022}
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\4BLCXTSY\Gunnink - 2022 - A grammar of fwe.pdf
+      \endverb
+    \endentry
+    \entry{Totonaco}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a3fd26a591e8a6f9ccb94f4d79529aa9}{%
+           family={Juárez\bibnamedelima Esteban},
+           familyi={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={Adela},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Tesis de maestría en Lingüística Indoamericana. CIESAS, México}%
+      }
+      \strng{namehash}{a3fd26a591e8a6f9ccb94f4d79529aa9}
+      \strng{fullhash}{a3fd26a591e8a6f9ccb94f4d79529aa9}
+      \strng{bibnamehash}{a3fd26a591e8a6f9ccb94f4d79529aa9}
+      \strng{authorbibnamehash}{a3fd26a591e8a6f9ccb94f4d79529aa9}
+      \strng{authornamehash}{a3fd26a591e8a6f9ccb94f4d79529aa9}
+      \strng{authorfullhash}{a3fd26a591e8a6f9ccb94f4d79529aa9}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Los Predicados Complejos En El Totonaco de {{Tuxtla}}, {{Puebla}}}
+      \field{type}{phdthesis}
+      \field{year}{2016}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\9YNABANA\Juárez Esteban - 2016 - Los predicados complejos en el totonaco de Tuxtla,.pdf
       \endverb
     \endentry
     \entry{Tepehua}{thesis}{}
