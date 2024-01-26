@@ -366,6 +366,38 @@
       \verb C:\Users\jesus\Zotero\storage\4BLCXTSY\Gunnink - 2022 - A grammar of fwe.pdf
       \endverb
     \endentry
+    \entry{zoque}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ec047540723959fa04f823d784191140}{%
+           family={Jiménez},
+           familyi={J\bibinitperiod},
+           given={Silvano},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Centro de Investigaciones y Estudios Superiores en Antropología Social}%
+      }
+      \strng{namehash}{ec047540723959fa04f823d784191140}
+      \strng{fullhash}{ec047540723959fa04f823d784191140}
+      \strng{bibnamehash}{ec047540723959fa04f823d784191140}
+      \strng{authorbibnamehash}{ec047540723959fa04f823d784191140}
+      \strng{authornamehash}{ec047540723959fa04f823d784191140}
+      \strng{authorfullhash}{ec047540723959fa04f823d784191140}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Esbozo Gramatical y Oraciones de Relativo En El Zoque de {{San Miguel Chimalapa}}.}
+      \field{type}{phdthesis}
+      \field{year}{2014}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\DGMR4VJU\Jiménez - 2014 - Esbozo gramatical y oraciones de relativo en el zo.pdf
+      \endverb
+    \endentry
     \entry{Totonaco}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a3fd26a591e8a6f9ccb94f4d79529aa9}{%
@@ -1200,6 +1232,38 @@
       \field{year}{2022}
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\4BLCXTSY\Gunnink - 2022 - A grammar of fwe.pdf
+      \endverb
+    \endentry
+    \entry{zoque}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ec047540723959fa04f823d784191140}{%
+           family={Jiménez},
+           familyi={J\bibinitperiod},
+           given={Silvano},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Centro de Investigaciones y Estudios Superiores en Antropología Social}%
+      }
+      \strng{namehash}{ec047540723959fa04f823d784191140}
+      \strng{fullhash}{ec047540723959fa04f823d784191140}
+      \strng{bibnamehash}{ec047540723959fa04f823d784191140}
+      \strng{authorbibnamehash}{ec047540723959fa04f823d784191140}
+      \strng{authornamehash}{ec047540723959fa04f823d784191140}
+      \strng{authorfullhash}{ec047540723959fa04f823d784191140}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Esbozo Gramatical y Oraciones de Relativo En El Zoque de {{San Miguel Chimalapa}}.}
+      \field{type}{phdthesis}
+      \field{year}{2014}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\DGMR4VJU\Jiménez - 2014 - Esbozo gramatical y oraciones de relativo en el zo.pdf
       \endverb
     \endentry
     \entry{Totonaco}{thesis}{}
