@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.26)  26 JAN 2024 16:18
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.26)  7 FEB 2024 21:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -578,6 +578,16 @@ Capítulo 1.
 \openout2 = `mexico/acateco.aux'.
 
  (mexico/acateco.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 6.
 
 Package fontspec Info: Font family 'CharisSIL(0)' created for font 'Charis
 (fontspec)             SIL' with options [Ligatures=TeX].
@@ -603,21 +613,6 @@ Package fontspec Info: Font family 'CharisSIL(0)' created for font 'Charis
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
 (fontspec)             <->"Charis
 (fontspec)             SIL/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 8.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 8.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 8.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 37.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 37.
-
-Overfull \hbox (32.33461pt too wide) in paragraph at lines 37--43
-[]
- []
 
 ) [3
 
@@ -713,15 +708,15 @@ Package fontspec Info: Font family 'DoulosSIL(0)' created for font 'Doulos
 \openout2 = `mexico/mixteco.aux'.
 
  (mexico/mixteco.tex
-Overfull \hbox (17.77994pt too wide) in paragraph at lines 6--12
-[][]
+Overfull \hbox (2.12369pt too wide) in paragraph at lines 12--17
+[]  
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 36.
+(Font)              <10.95> on input line 41.
 
-Overfull \hbox (38.45825pt too wide) in paragraph at lines 36--42
-[][]
+Overfull \hbox (30.73991pt too wide) in paragraph at lines 41--47
+[]
  []
 
 ) [13
@@ -731,12 +726,7 @@ Overfull \hbox (38.45825pt too wide) in paragraph at lines 36--42
 ]
 \openout2 = `mexico/oluteco.aux'.
 
- (mexico/oluteco.tex
-Overfull \hbox (28.74179pt too wide) in paragraph at lines 11--17
-[]
- []
-
-) [14
+ (mexico/oluteco.tex) [14
 
 
 
@@ -778,7 +768,12 @@ Overfull \hbox (28.74179pt too wide) in paragraph at lines 11--17
 ]
 \openout2 = `mexico/tepehuano.aux'.
 
- (mexico/tepehuano.tex) [20
+ (mexico/tepehuano.tex
+Overfull \hbox (6.84045pt too wide) in paragraph at lines 43--48
+[][]
+ []
+
+) [20
 
 
 
@@ -886,12 +881,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15355 strings out of 409919
- 339637 string characters out of 5780119
- 1932674 words of memory out of 5000000
- 36758 multiletter control sequences out of 15000+600000
- 562081 words of font info for 93 fonts, out of 8000000 for 9000
+ 15369 strings out of 409919
+ 340094 string characters out of 5780119
+ 1933674 words of memory out of 5000000
+ 36763 multiletter control sequences out of 15000+600000
+ 562137 words of font info for 100 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  71i,10n,91p,1010b,5191s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.xdv (35 pages, 480724 bytes).
+Output written on c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.xdv (35 pages, 503504 bytes).

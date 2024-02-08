@@ -3060,43 +3060,42 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1">acateco</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">acateco</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">chatino</bcf:citekey>
     <bcf:citekey order="3" intorder="1">chatino</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">chatino</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">chichimeco</bcf:citekey>
     <bcf:citekey order="5" intorder="1">chichimeco</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">chichimeco</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">chinanteco</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">ChontalOaxaca</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">chinanteco</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">ChontalOaxaca</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">ChontalTabasco</bcf:citekey>
     <bcf:citekey order="9" intorder="1">ChontalTabasco</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">ChontalTabasco</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">Huave</bcf:citekey>
     <bcf:citekey order="11" intorder="1">Huave</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">Huave</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">Huichol</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">lacandon</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">mixe</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">Huichol</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">lacandon</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">mixe</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">Mixteco</bcf:citekey>
     <bcf:citekey order="16" intorder="1">Mixteco</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">Mixteco</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">Oluteco</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">Otomi</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">Popoluca</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">Seri</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">tarahumara</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">Tepehua</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">Tepehuano</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">Oluteco</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">Otomi</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">Popoluca</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">Seri</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">tarahumara</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">Tepehua</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">Tepehuano</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">Tlahuica</bcf:citekey>
     <bcf:citekey order="25" intorder="1">Tlahuica</bcf:citekey>
     <bcf:citekey order="26" intorder="1">Tlahuica</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">Tlahuica</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">Tlapaneco</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">Tlapaneco</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">Totonaco</bcf:citekey>
     <bcf:citekey order="29" intorder="1">Totonaco</bcf:citekey>
-    <bcf:citekey order="30" intorder="1">Totonaco</bcf:citekey>
-    <bcf:citekey order="31" intorder="1">Triqui</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">Triqui</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">Tzotzil</bcf:citekey>
     <bcf:citekey order="32" intorder="1">Tzotzil</bcf:citekey>
-    <bcf:citekey order="33" intorder="1">Tzotzil</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">zapoteco</bcf:citekey>
     <bcf:citekey order="34" intorder="1">zapoteco</bcf:citekey>
-    <bcf:citekey order="35" intorder="1">zapoteco</bcf:citekey>
-    <bcf:citekey order="36" intorder="1">zoque</bcf:citekey>
-    <bcf:citekey order="37" intorder="1">aguaruna</bcf:citekey>
-    <bcf:citekey order="38" intorder="1">fwe</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">zoque</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">aguaruna</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">fwe</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
