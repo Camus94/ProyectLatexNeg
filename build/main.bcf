@@ -3095,7 +3095,11 @@
     <bcf:citekey order="34" intorder="1">zapoteco</bcf:citekey>
     <bcf:citekey order="35" intorder="1">zoque</bcf:citekey>
     <bcf:citekey order="36" intorder="1">aguaruna</bcf:citekey>
-    <bcf:citekey order="37" intorder="1">fwe</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">awa</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">cavin</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">chimariko</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">choctaw</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">fwe</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

@@ -210,6 +210,37 @@
       \verb C:\Users\jesus\Zotero\storage\43YX79B8\Castro - 2016 - Sintaxis y semántica de la frase nominal en huave .pdf
       \endverb
     \endentry
+    \entry{awa}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1ca02227a8c4c23070cfdc3005b32a74}{%
+           family={Curnow},
+           familyi={C\bibinitperiod},
+           given={Timothy\bibnamedelima Jowan},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The Australian National University (Australia)}%
+      }
+      \strng{namehash}{1ca02227a8c4c23070cfdc3005b32a74}
+      \strng{fullhash}{1ca02227a8c4c23070cfdc3005b32a74}
+      \strng{bibnamehash}{1ca02227a8c4c23070cfdc3005b32a74}
+      \strng{authorbibnamehash}{1ca02227a8c4c23070cfdc3005b32a74}
+      \strng{authornamehash}{1ca02227a8c4c23070cfdc3005b32a74}
+      \strng{authorfullhash}{1ca02227a8c4c23070cfdc3005b32a74}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of {{Awa Pit}} ({{Cuaiquer}}): {{An}} Indigenous Language of South-Western {{Colombia}}}
+      \field{year}{1998}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\ICXT4SZL\Curnow - 1998 - A grammar of Awa Pit (Cuaiquer) An indigenous lan.pdf
+      \endverb
+    \endentry
     \entry{Mixteco}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8868237a1273b3f0b638709795794054}{%
@@ -335,6 +366,37 @@
       \verb C:\Users\jesus\Zotero\storage\L6JQXTYE\García Salido - 2014 - Clause linkage in southeastern tepehuan A uto-azt.pdf
       \endverb
     \endentry
+    \entry{cavin}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=90bc5f688dba7f6168cf2551c697e961}{%
+           family={Guillaume},
+           familyi={G\bibinitperiod},
+           given={Antoine},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{90bc5f688dba7f6168cf2551c697e961}
+      \strng{fullhash}{90bc5f688dba7f6168cf2551c697e961}
+      \strng{bibnamehash}{90bc5f688dba7f6168cf2551c697e961}
+      \strng{authorbibnamehash}{90bc5f688dba7f6168cf2551c697e961}
+      \strng{authornamehash}{90bc5f688dba7f6168cf2551c697e961}
+      \strng{authorfullhash}{90bc5f688dba7f6168cf2551c697e961}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Cavineña}
+      \field{year}{2008}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\REJGKLEU\Guillaume - 2008 - A grammar of cavineña.pdf
+      \endverb
+    \endentry
     \entry{fwe}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0bdc1799c99790cdd9e2612f7760f54b}{%
@@ -364,6 +426,38 @@
       \field{year}{2022}
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\4BLCXTSY\Gunnink - 2022 - A grammar of fwe.pdf
+      \endverb
+    \endentry
+    \entry{chimariko}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8958760425fcd43036bfce36dff05fd3}{%
+           family={Jany},
+           familyi={J\bibinitperiod},
+           given={Carmen},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Univ of California Press}%
+      }
+      \strng{namehash}{8958760425fcd43036bfce36dff05fd3}
+      \strng{fullhash}{8958760425fcd43036bfce36dff05fd3}
+      \strng{bibnamehash}{8958760425fcd43036bfce36dff05fd3}
+      \strng{authorbibnamehash}{8958760425fcd43036bfce36dff05fd3}
+      \strng{authornamehash}{8958760425fcd43036bfce36dff05fd3}
+      \strng{authorfullhash}{8958760425fcd43036bfce36dff05fd3}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Chimariko Grammar: {{Areal}} and Typological Perspective}
+      \field{volume}{142}
+      \field{year}{2009}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\FH9BY6XG\Jany - 2009 - Chimariko grammar Areal and typological perspecti.pdf
       \endverb
     \endentry
     \entry{zoque}{thesis}{}
@@ -1078,6 +1172,37 @@
       \verb C:\Users\jesus\Zotero\storage\43YX79B8\Castro - 2016 - Sintaxis y semántica de la frase nominal en huave .pdf
       \endverb
     \endentry
+    \entry{awa}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1ca02227a8c4c23070cfdc3005b32a74}{%
+           family={Curnow},
+           familyi={C\bibinitperiod},
+           given={Timothy\bibnamedelima Jowan},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The Australian National University (Australia)}%
+      }
+      \strng{namehash}{1ca02227a8c4c23070cfdc3005b32a74}
+      \strng{fullhash}{1ca02227a8c4c23070cfdc3005b32a74}
+      \strng{bibnamehash}{1ca02227a8c4c23070cfdc3005b32a74}
+      \strng{authorbibnamehash}{1ca02227a8c4c23070cfdc3005b32a74}
+      \strng{authornamehash}{1ca02227a8c4c23070cfdc3005b32a74}
+      \strng{authorfullhash}{1ca02227a8c4c23070cfdc3005b32a74}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of {{Awa Pit}} ({{Cuaiquer}}): {{An}} Indigenous Language of South-Western {{Colombia}}}
+      \field{year}{1998}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\ICXT4SZL\Curnow - 1998 - A grammar of Awa Pit (Cuaiquer) An indigenous lan.pdf
+      \endverb
+    \endentry
     \entry{Mixteco}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8868237a1273b3f0b638709795794054}{%
@@ -1203,6 +1328,37 @@
       \verb C:\Users\jesus\Zotero\storage\L6JQXTYE\García Salido - 2014 - Clause linkage in southeastern tepehuan A uto-azt.pdf
       \endverb
     \endentry
+    \entry{cavin}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=90bc5f688dba7f6168cf2551c697e961}{%
+           family={Guillaume},
+           familyi={G\bibinitperiod},
+           given={Antoine},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{90bc5f688dba7f6168cf2551c697e961}
+      \strng{fullhash}{90bc5f688dba7f6168cf2551c697e961}
+      \strng{bibnamehash}{90bc5f688dba7f6168cf2551c697e961}
+      \strng{authorbibnamehash}{90bc5f688dba7f6168cf2551c697e961}
+      \strng{authornamehash}{90bc5f688dba7f6168cf2551c697e961}
+      \strng{authorfullhash}{90bc5f688dba7f6168cf2551c697e961}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Cavineña}
+      \field{year}{2008}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\REJGKLEU\Guillaume - 2008 - A grammar of cavineña.pdf
+      \endverb
+    \endentry
     \entry{fwe}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0bdc1799c99790cdd9e2612f7760f54b}{%
@@ -1232,6 +1388,38 @@
       \field{year}{2022}
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\4BLCXTSY\Gunnink - 2022 - A grammar of fwe.pdf
+      \endverb
+    \endentry
+    \entry{chimariko}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8958760425fcd43036bfce36dff05fd3}{%
+           family={Jany},
+           familyi={J\bibinitperiod},
+           given={Carmen},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Univ of California Press}%
+      }
+      \strng{namehash}{8958760425fcd43036bfce36dff05fd3}
+      \strng{fullhash}{8958760425fcd43036bfce36dff05fd3}
+      \strng{bibnamehash}{8958760425fcd43036bfce36dff05fd3}
+      \strng{authorbibnamehash}{8958760425fcd43036bfce36dff05fd3}
+      \strng{authornamehash}{8958760425fcd43036bfce36dff05fd3}
+      \strng{authorfullhash}{8958760425fcd43036bfce36dff05fd3}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Chimariko Grammar: {{Areal}} and Typological Perspective}
+      \field{volume}{142}
+      \field{year}{2009}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\FH9BY6XG\Jany - 2009 - Chimariko grammar Areal and typological perspecti.pdf
       \endverb
     \endentry
     \entry{zoque}{thesis}{}
@@ -1754,6 +1942,7 @@
       \endverb
     \endentry
   \enddatalist
+  \missing{choctaw}
 \endrefsection
 \endinput
 

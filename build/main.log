@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.26)  7 FEB 2024 21:56
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.26)  8 FEB 2024 23:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -424,7 +424,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.aux
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
- (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/acateco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chatino.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chichimeco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chinanteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalOaxaca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalTabasco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huave.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huichol.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/lacandon.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/oluteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/otomí.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/popoluca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/seri.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tarahumara.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehua.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehuano.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlahuica.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlapaneco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/totonaco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/triqui.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tsotsil.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zapoteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zoque.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/aguaruna.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/fwe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/cuadro.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/referencias.aux))
+ (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/acateco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chatino.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chichimeco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chinanteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalOaxaca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalTabasco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huave.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huichol.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/lacandon.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/oluteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/otomí.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/popoluca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/seri.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tarahumara.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehua.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehuano.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlahuica.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlapaneco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/totonaco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/triqui.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tsotsil.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zapoteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zoque.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/aguaruna.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/awapit.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/cavinena.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/chimariko.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/choctaw.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/garifuna.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/fwe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/cuadro.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/referencias.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -469,7 +469,15 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.bbl)
+ (c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                choctaw
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 5.
 Package biblatex Info: Reference segment=0 on input line 5.
 
@@ -838,40 +846,89 @@ Capítulo 2.
  (america/aguaruna.tex) [29
 
 ]
+\openout2 = `america/awapit.aux'.
+
+ (america/awapit.tex) [30
+
+
+
+]
+\openout2 = `america/cavinena.aux'.
+
+ (america/cavinena.tex [31
+
+
+
+]
+Overfull \hbox (9.86964pt too wide) in paragraph at lines 69--75
+[][]
+ []
+
+) [32]
+\openout2 = `america/chimariko.aux'.
+
+ (america/chimariko.tex
+Overfull \hbox (51.688pt too wide) in paragraph at lines 40--45
+[][]
+ []
+
+) [33
+
+
+
+]
+\openout2 = `america/choctaw.aux'.
+
+ (america/choctaw.tex
+
+LaTeX Warning: Citation 'choctaw' on page 34 undefined on input line 48.
+
+) [34
+
+
+
+]
+\openout2 = `america/garifuna.aux'.
+
+ (america/garifuna.tex) [35
+
+
+
+]
 Capítulo 3.
-[30
+[36
 
 
 
 ]
 \openout2 = `mundo/fwe.aux'.
 
- (mundo/fwe.tex) [31
+ (mundo/fwe.tex) [37
 
-] [32
+] [38
 
 
 
 ]
 \openout2 = `otros/cuadro.aux'.
 
- (otros/cuadro.tex) [33
+ (otros/cuadro.tex) [39
 
 ]
 \openout2 = `otros/referencias.aux'.
 
- (otros/referencias.tex) [34
+ (otros/referencias.tex) [40
 
 
 
 
 ]
 Missing character: There is no ɇ in font [lmroman12-italic]:mapping=tex-text;!
-[35] (c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.aux
+[41] (c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.aux
 LaTeX Info: Redefining \sptext on input line 9.
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
- (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/acateco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chatino.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chichimeco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chinanteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalOaxaca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalTabasco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huave.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huichol.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/lacandon.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/oluteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/otomí.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/popoluca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/seri.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tarahumara.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehua.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehuano.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlahuica.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlapaneco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/totonaco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/triqui.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tsotsil.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zapoteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zoque.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/aguaruna.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/fwe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/cuadro.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/referencias.aux))
+ (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/acateco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chatino.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chichimeco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chinanteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalOaxaca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalTabasco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huave.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huichol.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/lacandon.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/oluteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/otomí.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/popoluca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/seri.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tarahumara.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehua.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehuano.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlahuica.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlapaneco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/totonaco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/triqui.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tsotsil.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zapoteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zoque.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/aguaruna.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/awapit.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/cavinena.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/chimariko.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/choctaw.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/garifuna.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/fwe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/cuadro.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/referencias.aux))
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-10>
@@ -881,12 +938,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15369 strings out of 409919
- 340094 string characters out of 5780119
+ 15513 strings out of 409919
+ 344845 string characters out of 5780119
  1933674 words of memory out of 5000000
- 36763 multiletter control sequences out of 15000+600000
+ 36872 multiletter control sequences out of 15000+600000
  562137 words of font info for 100 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  71i,10n,91p,1010b,5191s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.xdv (35 pages, 503504 bytes).
+Output written on c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.xdv (41 pages, 586968 bytes).
