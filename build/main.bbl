@@ -337,6 +337,40 @@
       \verb C:\Users\jesus\Zotero\storage\P8VZDBZR\Delgado Galván - 2004 - Descripción del orden básico de palabras en Yokot'.pdf
       \endverb
     \endentry
+    \entry{hup}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7b02acfcee0a054b8d133740023b60c8}{%
+           family={Epps},
+           familyi={E\bibinitperiod},
+           given={Patience},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Berlín / New York}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{7b02acfcee0a054b8d133740023b60c8}
+      \strng{fullhash}{7b02acfcee0a054b8d133740023b60c8}
+      \strng{bibnamehash}{7b02acfcee0a054b8d133740023b60c8}
+      \strng{authorbibnamehash}{7b02acfcee0a054b8d133740023b60c8}
+      \strng{authornamehash}{7b02acfcee0a054b8d133740023b60c8}
+      \strng{authorfullhash}{7b02acfcee0a054b8d133740023b60c8}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Hup}
+      \field{year}{2008}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\IAPQX569\Epps - 2008 - A grammar of hup.pdf
+      \endverb
+    \endentry
     \entry{Tepehuano}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8fd1b66ab88e1d7d3d8df2015ff2049a}{%
@@ -778,6 +812,39 @@
       \verb C:\Users\jesus\Zotero\storage\VFRNB2W3\Palancar - 2009 - Gramática y textos del hñöñhö otomí de san ildefo.pdf
       \endverb
     \endentry
+    \entry{garifuna}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6b78708e31145028bd078a2e8b0b7ca3}{%
+           family={Quesada},
+           familyi={Q\bibinitperiod},
+           given={J.\bibnamedelimi Diego},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad de Sonora}%
+      }
+      \strng{namehash}{6b78708e31145028bd078a2e8b0b7ca3}
+      \strng{fullhash}{6b78708e31145028bd078a2e8b0b7ca3}
+      \strng{bibnamehash}{6b78708e31145028bd078a2e8b0b7ca3}
+      \strng{authorbibnamehash}{6b78708e31145028bd078a2e8b0b7ca3}
+      \strng{authornamehash}{6b78708e31145028bd078a2e8b0b7ca3}
+      \strng{authorfullhash}{6b78708e31145028bd078a2e8b0b7ca3}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{9}
+      \field{series}{Gramáticas}
+      \field{title}{Gramática de La Lengua Garífuna}
+      \field{year}{2017}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\5D2WC4L2\Quesada - Diego. 2017.pdf
+      \endverb
+    \endentry
     \entry{Huichol}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=34efac45d3a3f44c918dede1ce7028d6}{%
@@ -906,6 +973,42 @@
       \field{year}{2009}
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\VHI6GYC3\Villard - 2008 - Grammatical sketch of zacatepec chatino.pdf
+      \endverb
+    \endentry
+    \entry{kakataibo}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=91c7dc78e2fa4b24e1a5e30e560f641f}{%
+           family={Zariquiey\bibnamedelima Biondi},
+           familyi={Z\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {La Trobe}%
+      }
+      \list{location}{1}{%
+        {Australia}%
+      }
+      \strng{namehash}{91c7dc78e2fa4b24e1a5e30e560f641f}
+      \strng{fullhash}{91c7dc78e2fa4b24e1a5e30e560f641f}
+      \strng{bibnamehash}{91c7dc78e2fa4b24e1a5e30e560f641f}
+      \strng{authorbibnamehash}{91c7dc78e2fa4b24e1a5e30e560f641f}
+      \strng{authornamehash}{91c7dc78e2fa4b24e1a5e30e560f641f}
+      \strng{authorfullhash}{91c7dc78e2fa4b24e1a5e30e560f641f}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{A Grammar of Kashibo-Kakataibo}
+      \field{type}{phdthesis}
+      \field{year}{2011}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\4RX6L2DN\Zariquiey Biondi - 2011 - A grammar of kashibo-kakataibo.pdf
       \endverb
     \endentry
     \entry{Oluteco}{article}{}
@@ -1299,6 +1402,40 @@
       \verb C:\Users\jesus\Zotero\storage\P8VZDBZR\Delgado Galván - 2004 - Descripción del orden básico de palabras en Yokot'.pdf
       \endverb
     \endentry
+    \entry{hup}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7b02acfcee0a054b8d133740023b60c8}{%
+           family={Epps},
+           familyi={E\bibinitperiod},
+           given={Patience},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Berlín / New York}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{7b02acfcee0a054b8d133740023b60c8}
+      \strng{fullhash}{7b02acfcee0a054b8d133740023b60c8}
+      \strng{bibnamehash}{7b02acfcee0a054b8d133740023b60c8}
+      \strng{authorbibnamehash}{7b02acfcee0a054b8d133740023b60c8}
+      \strng{authornamehash}{7b02acfcee0a054b8d133740023b60c8}
+      \strng{authorfullhash}{7b02acfcee0a054b8d133740023b60c8}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Hup}
+      \field{year}{2008}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\IAPQX569\Epps - 2008 - A grammar of hup.pdf
+      \endverb
+    \endentry
     \entry{Tepehuano}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8fd1b66ab88e1d7d3d8df2015ff2049a}{%
@@ -1740,6 +1877,39 @@
       \verb C:\Users\jesus\Zotero\storage\VFRNB2W3\Palancar - 2009 - Gramática y textos del hñöñhö otomí de san ildefo.pdf
       \endverb
     \endentry
+    \entry{garifuna}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6b78708e31145028bd078a2e8b0b7ca3}{%
+           family={Quesada},
+           familyi={Q\bibinitperiod},
+           given={J.\bibnamedelimi Diego},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad de Sonora}%
+      }
+      \strng{namehash}{6b78708e31145028bd078a2e8b0b7ca3}
+      \strng{fullhash}{6b78708e31145028bd078a2e8b0b7ca3}
+      \strng{bibnamehash}{6b78708e31145028bd078a2e8b0b7ca3}
+      \strng{authorbibnamehash}{6b78708e31145028bd078a2e8b0b7ca3}
+      \strng{authornamehash}{6b78708e31145028bd078a2e8b0b7ca3}
+      \strng{authorfullhash}{6b78708e31145028bd078a2e8b0b7ca3}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{9}
+      \field{series}{Gramáticas}
+      \field{title}{Gramática de La Lengua Garífuna}
+      \field{year}{2017}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\5D2WC4L2\Quesada - Diego. 2017.pdf
+      \endverb
+    \endentry
     \entry{Huichol}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=34efac45d3a3f44c918dede1ce7028d6}{%
@@ -1868,6 +2038,42 @@
       \field{year}{2009}
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\VHI6GYC3\Villard - 2008 - Grammatical sketch of zacatepec chatino.pdf
+      \endverb
+    \endentry
+    \entry{kakataibo}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=91c7dc78e2fa4b24e1a5e30e560f641f}{%
+           family={Zariquiey\bibnamedelima Biondi},
+           familyi={Z\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {La Trobe}%
+      }
+      \list{location}{1}{%
+        {Australia}%
+      }
+      \strng{namehash}{91c7dc78e2fa4b24e1a5e30e560f641f}
+      \strng{fullhash}{91c7dc78e2fa4b24e1a5e30e560f641f}
+      \strng{bibnamehash}{91c7dc78e2fa4b24e1a5e30e560f641f}
+      \strng{authorbibnamehash}{91c7dc78e2fa4b24e1a5e30e560f641f}
+      \strng{authornamehash}{91c7dc78e2fa4b24e1a5e30e560f641f}
+      \strng{authorfullhash}{91c7dc78e2fa4b24e1a5e30e560f641f}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{A Grammar of Kashibo-Kakataibo}
+      \field{type}{phdthesis}
+      \field{year}{2011}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\4RX6L2DN\Zariquiey Biondi - 2011 - A grammar of kashibo-kakataibo.pdf
       \endverb
     \endentry
     \entry{Oluteco}{article}{}
