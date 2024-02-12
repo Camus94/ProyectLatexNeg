@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.26)  9 FEB 2024 23:36
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.26)  11 FEB 2024 20:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -405,7 +405,7 @@ Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \bigstrutjot=\dimen153
 ) (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-)) (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/fncychap\fncychap.sty
+) (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/fncychap\fncychap.sty
 Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
 \RW=\skip74
 \mylen=\skip75
@@ -414,17 +414,70 @@ Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
 \py=\skip78
 \pyy=\skip79
 \pxx=\skip80
+) (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip81
+\cftbeforetoctitleskip=\skip82
+\cftaftertoctitleskip=\skip83
+\cftbeforepartskip=\skip84
+\cftpartnumwidth=\skip85
+\cftpartindent=\skip86
+\cftbeforechapskip=\skip87
+\cftchapindent=\skip88
+\cftchapnumwidth=\skip89
+\cftbeforesecskip=\skip90
+\cftsecindent=\skip91
+\cftsecnumwidth=\skip92
+\cftbeforesubsecskip=\skip93
+\cftsubsecindent=\skip94
+\cftsubsecnumwidth=\skip95
+\cftbeforesubsubsecskip=\skip96
+\cftsubsubsecindent=\skip97
+\cftsubsubsecnumwidth=\skip98
+\cftbeforeparaskip=\skip99
+\cftparaindent=\skip100
+\cftparanumwidth=\skip101
+\cftbeforesubparaskip=\skip102
+\cftsubparaindent=\skip103
+\cftsubparanumwidth=\skip104
+\cftbeforeloftitleskip=\skip105
+\cftafterloftitleskip=\skip106
+\cftbeforefigskip=\skip107
+\cftfigindent=\skip108
+\cftfignumwidth=\skip109
+\c@lofdepth=\count415
+\c@lotdepth=\count416
+\cftbeforelottitleskip=\skip110
+\cftafterlottitleskip=\skip111
+\cftbeforetabskip=\skip112
+\cfttabindent=\skip113
+\cfttabnumwidth=\skip114
+)) (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
+\csq@reset=\count417
+\csq@gtype=\count418
+\csq@glevel=\count419
+\csq@qlevel=\count420
+\csq@maxlvl=\count421
+\csq@tshold=\count422
+\csq@ltx@everypar=\toks20
+ (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
 )
-
-Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
-(biblatex)                Loading 'csquotes' recommended.
-
-\@quotelevel=\count415
-\@quotereset=\count416
-(c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.aux
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
- (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/acateco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chatino.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chichimeco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chinanteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalOaxaca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalTabasco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huave.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huichol.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/lacandon.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/oluteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/otomí.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/popoluca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/seri.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tarahumara.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehua.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehuano.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlahuica.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlapaneco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/totonaco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/triqui.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tsotsil.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zapoteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zoque.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/aguaruna.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/awapit.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/cavinena.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/chimariko.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/choctaw.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/garifuna.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/hup.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/kakataibo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/kamsa.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/fwe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/cuadro.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/referencias.aux))
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+ (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+))
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'spanish'.
+ (c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.aux (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/portada.aux)
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
+ (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/introduccion.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/acateco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chatino.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chichimeco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chinanteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalOaxaca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalTabasco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huave.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huichol.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/lacandon.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/oluteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/otomí.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/popoluca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/seri.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tarahumara.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehua.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehuano.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlahuica.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlapaneco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/totonaco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/triqui.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tsotsil.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zapoteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zoque.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/aguaruna.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/awapit.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/cavinena.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/chimariko.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/choctaw.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/garifuna.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/hup.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/kakataibo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/kamsa.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/mapuche.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/maricopa.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/namtrik.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/ngabere.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/pimabajo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/sabane.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/wampis.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/wappo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/wari.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/yauyos.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/fwe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/cuadro.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/referencias.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -469,15 +522,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                choctaw
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+ (c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.bbl)
 Package biblatex Info: Reference section=0 on input line 5.
 Package biblatex Info: Reference segment=0 on input line 5.
 
@@ -575,27 +620,51 @@ LaTeX Info: Redefining \% on input line 5.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-[1
+\openout2 = `otros/portada.aux'.
+
+(otros/portada.tex [1
+
+
+]) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.toc
+LaTeX Info: Redefining \sptext on input line 1.
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+ [1
+
+
+])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [2]
+\openout2 = `otros/introduccion.aux'.
+
+ (otros/introduccion.tex [3
+
+]) [4] [5
+
 
 
 ]
 Capítulo 1.
-[2
+[6
 
 ]
 \openout2 = `mexico/acateco.aux'.
 
  (mexico/acateco.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 6.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 6.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 6.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 6.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 6.
+(Font)              <5> on input line 7.
 
 Package fontspec Info: Font family 'CharisSIL(0)' created for font 'Charis
 (fontspec)             SIL' with options [Ligatures=TeX].
@@ -622,12 +691,12 @@ Package fontspec Info: Font family 'CharisSIL(0)' created for font 'Charis
 (fontspec)             <->"Charis
 (fontspec)             SIL/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 
-) [3
+) [7
 
 ]
 \openout2 = `mexico/chatino.aux'.
 
- (mexico/chatino.tex) [4
+ (mexico/chatino.tex) [8
 
 
 
@@ -659,56 +728,56 @@ Package fontspec Info: Font family 'DoulosSIL(0)' created for font 'Doulos
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Doulos
 (fontspec)             SIL/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 
-) [5
+) [9
 
 
 
 ]
 \openout2 = `mexico/chinanteco.aux'.
 
- (mexico/chinanteco.tex) [6
+ (mexico/chinanteco.tex) [10
 
 
 
 ]
 \openout2 = `mexico/chontalOaxaca.aux'.
 
- (mexico/chontalOaxaca.tex) [7
+ (mexico/chontalOaxaca.tex) [11
 
 
 
 ]
 \openout2 = `mexico/chontalTabasco.aux'.
 
- (mexico/chontalTabasco.tex) [8
+ (mexico/chontalTabasco.tex) [12
 
 
 
 ]
 \openout2 = `mexico/huave.aux'.
 
- (mexico/huave.tex) [9
+ (mexico/huave.tex) [13
 
 
 
 ]
 \openout2 = `mexico/huichol.aux'.
 
- (mexico/huichol.tex) [10
+ (mexico/huichol.tex) [14
 
 
 
 ]
 \openout2 = `mexico/lacandon.aux'.
 
- (mexico/lacandon.tex) [11
+ (mexico/lacandon.tex) [15
 
 
 
 ]
 \openout2 = `mexico/mixe.aux'.
 
- (mexico/mixe.tex) [12
+ (mexico/mixe.tex) [16
 
 
 
@@ -716,240 +785,280 @@ Package fontspec Info: Font family 'DoulosSIL(0)' created for font 'Doulos
 \openout2 = `mexico/mixteco.aux'.
 
  (mexico/mixteco.tex
-Overfull \hbox (2.12369pt too wide) in paragraph at lines 12--17
-[]  
- []
-
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 41.
-
-Overfull \hbox (30.73991pt too wide) in paragraph at lines 41--47
-[]
- []
-
-) [13
+(Font)              <10.95> on input line 14.
+) [17
 
 
 
 ]
 \openout2 = `mexico/oluteco.aux'.
 
- (mexico/oluteco.tex) [14
+ (mexico/oluteco.tex) [18
 
 
 
 ]
 \openout2 = `mexico/otomí.aux'.
 
- (mexico/otomí.tex) [15
+ (mexico/otomí.tex) [19
 
 
 
 ]
 \openout2 = `mexico/popoluca.aux'.
 
- (mexico/popoluca.tex) [16
+ (mexico/popoluca.tex) [20
 
 
 
 ]
 \openout2 = `mexico/seri.aux'.
 
- (mexico/seri.tex) [17
+ (mexico/seri.tex) [21
 
 
 
 ]
 \openout2 = `mexico/tarahumara.aux'.
 
- (mexico/tarahumara.tex) [18
+ (mexico/tarahumara.tex) [22
 
 
 
 ]
 \openout2 = `mexico/tepehua.aux'.
 
- (mexico/tepehua.tex) [19
+ (mexico/tepehua.tex) [23
 
 
 
 ]
 \openout2 = `mexico/tepehuano.aux'.
 
- (mexico/tepehuano.tex
-Overfull \hbox (6.84045pt too wide) in paragraph at lines 43--48
-[][]
- []
-
-) [20
+ (mexico/tepehuano.tex) [24
 
 
 
 ]
 \openout2 = `mexico/tlahuica.aux'.
 
- (mexico/tlahuica.tex) [21
+ (mexico/tlahuica.tex) [25
 
 
 
 ]
 \openout2 = `mexico/tlapaneco.aux'.
 
- (mexico/tlapaneco.tex) [22
+ (mexico/tlapaneco.tex) [26
 
 
 
 ]
 \openout2 = `mexico/totonaco.aux'.
 
- (mexico/totonaco.tex) [23
+ (mexico/totonaco.tex) [27
 
 
 
 ]
 \openout2 = `mexico/triqui.aux'.
 
- (mexico/triqui.tex) [24
+ (mexico/triqui.tex) [28
 
 
 
 ]
 \openout2 = `mexico/tsotsil.aux'.
 
- (mexico/tsotsil.tex) [25
+ (mexico/tsotsil.tex) [29
 
 
 
 ]
 \openout2 = `mexico/zapoteco.aux'.
 
- (mexico/zapoteco.tex) [26
+ (mexico/zapoteco.tex) [30
 
 
 
 ]
 \openout2 = `mexico/zoque.aux'.
 
- (mexico/zoque.tex) [27
+ (mexico/zoque.tex) [31
 
 
 
 ]
 Capítulo 2.
-[28
+[32
 
 
 
 ]
 \openout2 = `america/aguaruna.aux'.
 
- (america/aguaruna.tex) [29
+ (america/aguaruna.tex) [33
 
 ]
 \openout2 = `america/awapit.aux'.
 
- (america/awapit.tex) [30
+ (america/awapit.tex) [34
 
 
 
 ]
 \openout2 = `america/cavinena.aux'.
 
- (america/cavinena.tex [31
+ (america/cavinena.tex [35
 
 
 
-]
-Overfull \hbox (9.86964pt too wide) in paragraph at lines 69--75
-[][]
- []
-
-) [32]
+]) [36]
 \openout2 = `america/chimariko.aux'.
 
- (america/chimariko.tex
-Overfull \hbox (51.688pt too wide) in paragraph at lines 40--45
-[][]
- []
-
-) [33
+ (america/chimariko.tex) [37
 
 
 
 ]
 \openout2 = `america/choctaw.aux'.
 
- (america/choctaw.tex
-
-LaTeX Warning: Citation 'choctaw' on page 34 undefined on input line 48.
-
-) [34
+ (america/choctaw.tex) [38
 
 
 
 ]
 \openout2 = `america/garifuna.aux'.
 
- (america/garifuna.tex) [35
+ (america/garifuna.tex) [39
 
 
 
 ]
 \openout2 = `america/hup.aux'.
 
- (america/hup.tex) [36
+ (america/hup.tex) [40
 
 
 
 ]
 \openout2 = `america/kakataibo.aux'.
 
- (america/kakataibo.tex) [37
+ (america/kakataibo.tex) [41
 
 
 
 ]
 \openout2 = `america/kamsa.aux'.
 
- (america/kamsa.tex) [38
+ (america/kamsa.tex) [42
+
+
+
+]
+\openout2 = `america/mapuche.aux'.
+
+ (america/mapuche.tex) [43
+
+
+
+]
+\openout2 = `america/maricopa.aux'.
+
+ (america/maricopa.tex) [44
+
+
+
+]
+\openout2 = `america/namtrik.aux'.
+
+ (america/namtrik.tex) [45
+
+
+
+]
+\openout2 = `america/ngabere.aux'.
+
+ (america/ngabere.tex) [46
+
+
+
+]
+\openout2 = `america/pimabajo.aux'.
+
+ (america/pimabajo.tex) [47
+
+
+
+]
+\openout2 = `america/sabane.aux'.
+
+ (america/sabane.tex) [48
+
+
+
+]
+\openout2 = `america/wampis.aux'.
+
+ (america/wampis.tex) [49
+
+
+
+]
+\openout2 = `america/wappo.aux'.
+
+ (america/wappo.tex) [50
+
+
+
+]
+\openout2 = `america/wari.aux'.
+
+ (america/wari.tex) [51
+
+
+
+]
+\openout2 = `america/yauyos.aux'.
+
+ (america/yauyos.tex) [52
 
 
 
 ]
 Capítulo 3.
-[39
+[53
 
 
 
 ]
 \openout2 = `mundo/fwe.aux'.
 
- (mundo/fwe.tex) [40
+ (mundo/fwe.tex) [54
 
-] [41
+] [55
 
 
 
 ]
 \openout2 = `otros/cuadro.aux'.
 
- (otros/cuadro.tex) [42
+ (otros/cuadro.tex) [56
 
 ]
 \openout2 = `otros/referencias.aux'.
 
- (otros/referencias.tex) [43
+ (otros/referencias.tex [57
 
 
 
 
-]
-Missing character: There is no ɇ in font [lmroman12-italic]:mapping=tex-text;!
-[44] [45] (c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.aux
-LaTeX Info: Redefining \sptext on input line 9.
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
- (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/acateco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chatino.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chichimeco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chinanteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalOaxaca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalTabasco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huave.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huichol.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/lacandon.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/oluteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/otomí.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/popoluca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/seri.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tarahumara.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehua.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehuano.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlahuica.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlapaneco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/totonaco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/triqui.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tsotsil.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zapoteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zoque.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/aguaruna.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/awapit.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/cavinena.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/chimariko.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/choctaw.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/garifuna.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/hup.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/kakataibo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/kamsa.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/fwe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/cuadro.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/referencias.aux))
+] [58]) [59] (c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.aux (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/portada.aux)
+LaTeX Info: Redefining \sptext on input line 10.
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
+ (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/introduccion.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/acateco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chatino.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chichimeco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chinanteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalOaxaca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalTabasco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huave.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huichol.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/lacandon.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/oluteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/otomí.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/popoluca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/seri.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tarahumara.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehua.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehuano.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlahuica.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlapaneco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/totonaco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/triqui.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tsotsil.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zapoteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zoque.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/aguaruna.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/awapit.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/cavinena.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/chimariko.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/choctaw.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/garifuna.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/hup.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/kakataibo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/kamsa.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/mapuche.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/maricopa.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/namtrik.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/ngabere.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/pimabajo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/sabane.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/wampis.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/wappo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/wari.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/yauyos.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/fwe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/cuadro.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/referencias.aux))
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-10>
@@ -959,12 +1068,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15609 strings out of 409919
- 347822 string characters out of 5780119
+ 16912 strings out of 409919
+ 375862 string characters out of 5780119
  1933674 words of memory out of 5000000
- 36947 multiletter control sequences out of 15000+600000
- 562137 words of font info for 100 fonts, out of 8000000 for 9000
+ 38149 multiletter control sequences out of 15000+600000
+ 563082 words of font info for 107 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 71i,10n,91p,1010b,5192s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 71i,10n,91p,1014b,5217s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.xdv (45 pages, 636884 bytes).
+Output written on c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.xdv (60 pages, 942112 bytes).
