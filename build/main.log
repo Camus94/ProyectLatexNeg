@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.26)  11 FEB 2024 20:56
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.26)  12 FEB 2024 22:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -453,7 +453,7 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforetabskip=\skip112
 \cfttabindent=\skip113
 \cfttabnumwidth=\skip114
-)) (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+) (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
 Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
 \csq@reset=\count417
 \csq@gtype=\count418
@@ -469,15 +469,103 @@ Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
  (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
 File: csquotes.cfg 
+))) (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
+ (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
+ (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count423
+)
+\@linkdim=\dimen154
+\Hy@linkcounter=\count424
+\Hy@pagecounter=\count425
+ (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
+) (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count426
+ (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4434.
+\c@Hy@tempcnt=\count427
+LaTeX Info: Redefining \url on input line 4772.
+\XeTeXLinkMargin=\dimen155
+ (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
+\Fld@menulength=\count428
+\Field@Width=\dimen156
+\Fld@charsize=\dimen157
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring OFF on input line 6071.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
+ (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count429
+\c@Item=\count430
+\c@Hfootnote=\count431
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+ (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
+File: hxetex.def 2023-07-08 v7.01b Hyperref driver for XeTeX
+ (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\pdfm@box=\box52
+\c@Hy@AnnotLevel=\count432
+\HyField@AnnotCount=\count433
+\Fld@listcount=\count434
+\c@bookmark@seq@number=\count435
+ (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+) (C:\Users\jesus\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip115
+)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
  (c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.aux (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/portada.aux)
-LaTeX Info: Redefining \. on input line 10.
-LaTeX Info: Redefining \% on input line 10.
- (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/introduccion.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/acateco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chatino.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chichimeco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chinanteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalOaxaca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalTabasco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huave.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huichol.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/lacandon.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/oluteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/otomí.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/popoluca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/seri.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tarahumara.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehua.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehuano.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlahuica.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlapaneco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/totonaco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/triqui.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tsotsil.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zapoteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zoque.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/aguaruna.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/awapit.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/cavinena.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/chimariko.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/choctaw.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/garifuna.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/hup.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/kakataibo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/kamsa.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/mapuche.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/maricopa.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/namtrik.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/ngabere.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/pimabajo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/sabane.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/wampis.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/wappo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/wari.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/yauyos.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/fwe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/cuadro.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/referencias.aux))
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+ (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/abreviaturas.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/introduccion.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/acateco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chatino.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chichimeco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chinanteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalOaxaca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalTabasco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huave.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huichol.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/lacandon.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/oluteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/otomí.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/popoluca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/seri.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tarahumara.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehua.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehuano.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlahuica.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlapaneco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/totonaco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/triqui.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tsotsil.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zapoteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zoque.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/aguaruna.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/awapit.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/cavinena.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/chimariko.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/choctaw.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/garifuna.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/hup.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/kakataibo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/kamsa.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/mapuche.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/maricopa.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/namtrik.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/ngabere.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/pimabajo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/sabane.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/wampis.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/wappo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/wari.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/yauyos.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/fwe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/gyeli.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/jamsay.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/japhug.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/kalamang.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/komnzo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/madurese.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/mauwake.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/moloko.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/mongsen.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/palula.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/papuan.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/pichi.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/toqabaqita.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/cuadrosMexico.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/cuadrosAmerica.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/cuadrosMundo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/conclusiones.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/referencias.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -499,6 +587,10 @@ LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 Package biblatex Info: Trying to load language 'spanish' -> 'spanish-apa'...
 Package biblatex Info: ... file 'spanish-apa.lbx' found.
@@ -620,9 +712,14 @@ LaTeX Info: Redefining \% on input line 5.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+Package hyperref Info: Link coloring OFF on input line 5.
+(c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.out) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
 \openout2 = `otros/portada.aux'.
 
-(otros/portada.tex [1
+ (otros/portada.tex [1
 
 
 ]) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.toc
@@ -636,28 +733,35 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 4.
+(Font)              <14.4> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 4.
+(Font)              <7> on input line 5.
  [1
 
 
-])
-\tf@toc=\write4
-\openout4 = `main.toc'.
+] [2])
+\tf@toc=\write5
+\openout5 = `main.toc'.
 
- [2]
+ [3]
+\openout2 = `otros/abreviaturas.aux'.
+
+ (otros/abreviaturas.tex) [4
+
+]
 \openout2 = `otros/introduccion.aux'.
 
- (otros/introduccion.tex [3
+ (otros/introduccion.tex [5
 
-]) [4] [5
+
+
+]) [6] [7
 
 
 
 ]
 Capítulo 1.
-[6
+[8
 
 ]
 \openout2 = `mexico/acateco.aux'.
@@ -691,12 +795,12 @@ Package fontspec Info: Font family 'CharisSIL(0)' created for font 'Charis
 (fontspec)             <->"Charis
 (fontspec)             SIL/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 
-) [7
+) [9
 
 ]
 \openout2 = `mexico/chatino.aux'.
 
- (mexico/chatino.tex) [8
+ (mexico/chatino.tex) [10
 
 
 
@@ -728,56 +832,56 @@ Package fontspec Info: Font family 'DoulosSIL(0)' created for font 'Doulos
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Doulos
 (fontspec)             SIL/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 
-) [9
+) [11
 
 
 
 ]
 \openout2 = `mexico/chinanteco.aux'.
 
- (mexico/chinanteco.tex) [10
+ (mexico/chinanteco.tex) [12
 
 
 
 ]
 \openout2 = `mexico/chontalOaxaca.aux'.
 
- (mexico/chontalOaxaca.tex) [11
+ (mexico/chontalOaxaca.tex) [13
 
 
 
 ]
 \openout2 = `mexico/chontalTabasco.aux'.
 
- (mexico/chontalTabasco.tex) [12
+ (mexico/chontalTabasco.tex) [14
 
 
 
 ]
 \openout2 = `mexico/huave.aux'.
 
- (mexico/huave.tex) [13
+ (mexico/huave.tex) [15
 
 
 
 ]
 \openout2 = `mexico/huichol.aux'.
 
- (mexico/huichol.tex) [14
+ (mexico/huichol.tex) [16
 
 
 
 ]
 \openout2 = `mexico/lacandon.aux'.
 
- (mexico/lacandon.tex) [15
+ (mexico/lacandon.tex) [17
 
 
 
 ]
 \openout2 = `mexico/mixe.aux'.
 
- (mexico/mixe.tex) [16
+ (mexico/mixe.tex) [18
 
 
 
@@ -787,293 +891,419 @@ Package fontspec Info: Font family 'DoulosSIL(0)' created for font 'Doulos
  (mexico/mixteco.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 14.
-) [17
+) [19
 
 
 
 ]
 \openout2 = `mexico/oluteco.aux'.
 
- (mexico/oluteco.tex) [18
+ (mexico/oluteco.tex) [20
 
 
 
 ]
 \openout2 = `mexico/otomí.aux'.
 
- (mexico/otomí.tex) [19
+ (mexico/otomí.tex) [21
 
 
 
 ]
 \openout2 = `mexico/popoluca.aux'.
 
- (mexico/popoluca.tex) [20
+ (mexico/popoluca.tex) [22
 
 
 
 ]
 \openout2 = `mexico/seri.aux'.
 
- (mexico/seri.tex) [21
+ (mexico/seri.tex) [23
 
 
 
 ]
 \openout2 = `mexico/tarahumara.aux'.
 
- (mexico/tarahumara.tex) [22
+ (mexico/tarahumara.tex) [24
 
 
 
 ]
 \openout2 = `mexico/tepehua.aux'.
 
- (mexico/tepehua.tex) [23
+ (mexico/tepehua.tex) [25
 
 
 
 ]
 \openout2 = `mexico/tepehuano.aux'.
 
- (mexico/tepehuano.tex) [24
+ (mexico/tepehuano.tex) [26
 
 
 
 ]
 \openout2 = `mexico/tlahuica.aux'.
 
- (mexico/tlahuica.tex) [25
+ (mexico/tlahuica.tex) [27
 
 
 
 ]
 \openout2 = `mexico/tlapaneco.aux'.
 
- (mexico/tlapaneco.tex) [26
+ (mexico/tlapaneco.tex) [28
 
 
 
 ]
 \openout2 = `mexico/totonaco.aux'.
 
- (mexico/totonaco.tex) [27
+ (mexico/totonaco.tex) [29
 
 
 
 ]
 \openout2 = `mexico/triqui.aux'.
 
- (mexico/triqui.tex) [28
+ (mexico/triqui.tex) [30
 
 
 
 ]
 \openout2 = `mexico/tsotsil.aux'.
 
- (mexico/tsotsil.tex) [29
+ (mexico/tsotsil.tex) [31
 
 
 
 ]
 \openout2 = `mexico/zapoteco.aux'.
 
- (mexico/zapoteco.tex) [30
+ (mexico/zapoteco.tex) [32
 
 
 
 ]
 \openout2 = `mexico/zoque.aux'.
 
- (mexico/zoque.tex) [31
+ (mexico/zoque.tex) [33
 
 
 
 ]
 Capítulo 2.
-[32
+[34
 
 
 
 ]
 \openout2 = `america/aguaruna.aux'.
 
- (america/aguaruna.tex) [33
+ (america/aguaruna.tex) [35
 
 ]
 \openout2 = `america/awapit.aux'.
 
- (america/awapit.tex) [34
+ (america/awapit.tex) [36
 
 
 
 ]
 \openout2 = `america/cavinena.aux'.
 
- (america/cavinena.tex [35
+ (america/cavinena.tex [37
 
 
 
-]) [36]
+]) [38]
 \openout2 = `america/chimariko.aux'.
 
- (america/chimariko.tex) [37
+ (america/chimariko.tex) [39
 
 
 
 ]
 \openout2 = `america/choctaw.aux'.
 
- (america/choctaw.tex) [38
+ (america/choctaw.tex) [40
 
 
 
 ]
 \openout2 = `america/garifuna.aux'.
 
- (america/garifuna.tex) [39
+ (america/garifuna.tex) [41
 
 
 
 ]
 \openout2 = `america/hup.aux'.
 
- (america/hup.tex) [40
+ (america/hup.tex) [42
 
 
 
 ]
 \openout2 = `america/kakataibo.aux'.
 
- (america/kakataibo.tex) [41
+ (america/kakataibo.tex) [43
 
 
 
 ]
 \openout2 = `america/kamsa.aux'.
 
- (america/kamsa.tex) [42
+ (america/kamsa.tex) [44
 
 
 
 ]
 \openout2 = `america/mapuche.aux'.
 
- (america/mapuche.tex) [43
+ (america/mapuche.tex) [45
 
 
 
 ]
 \openout2 = `america/maricopa.aux'.
 
- (america/maricopa.tex) [44
+ (america/maricopa.tex) [46
 
 
 
 ]
 \openout2 = `america/namtrik.aux'.
 
- (america/namtrik.tex) [45
+ (america/namtrik.tex) [47
 
 
 
 ]
 \openout2 = `america/ngabere.aux'.
 
- (america/ngabere.tex) [46
+ (america/ngabere.tex) [48
 
 
 
 ]
 \openout2 = `america/pimabajo.aux'.
 
- (america/pimabajo.tex) [47
+ (america/pimabajo.tex) [49
 
 
 
 ]
 \openout2 = `america/sabane.aux'.
 
- (america/sabane.tex) [48
+ (america/sabane.tex) [50
 
 
 
 ]
 \openout2 = `america/wampis.aux'.
 
- (america/wampis.tex) [49
+ (america/wampis.tex) [51
 
 
 
 ]
 \openout2 = `america/wappo.aux'.
 
- (america/wappo.tex) [50
+ (america/wappo.tex) [52
 
 
 
 ]
 \openout2 = `america/wari.aux'.
 
- (america/wari.tex) [51
+ (america/wari.tex) [53
 
 
 
 ]
 \openout2 = `america/yauyos.aux'.
 
- (america/yauyos.tex) [52
+ (america/yauyos.tex) [54
 
 
 
 ]
 Capítulo 3.
-[53
+[55
 
 
 
 ]
 \openout2 = `mundo/fwe.aux'.
 
- (mundo/fwe.tex) [54
+ (mundo/fwe.tex) [56
 
-] [55
+]
+\openout2 = `mundo/gyeli.aux'.
+
+ (mundo/gyeli.tex) [57
 
 
 
 ]
-\openout2 = `otros/cuadro.aux'.
+\openout2 = `mundo/jamsay.aux'.
 
- (otros/cuadro.tex) [56
+ (mundo/jamsay.tex) [58
+
+
+
+]
+\openout2 = `mundo/japhug.aux'.
+
+ (mundo/japhug.tex) [59
+
+
+
+]
+\openout2 = `mundo/kalamang.aux'.
+
+ (mundo/kalamang.tex) [60
+
+
+
+]
+\openout2 = `mundo/komnzo.aux'.
+
+ (mundo/komnzo.tex) [61
+
+
+
+]
+\openout2 = `mundo/madurese.aux'.
+
+ (mundo/madurese.tex) [62
+
+
+
+]
+\openout2 = `mundo/mauwake.aux'.
+
+ (mundo/mauwake.tex) [63
+
+
+
+]
+\openout2 = `mundo/moloko.aux'.
+
+ (mundo/moloko.tex) [64
+
+
+
+]
+\openout2 = `mundo/mongsen.aux'.
+
+ (mundo/mongsen.tex) [65
+
+
+
+]
+\openout2 = `mundo/palula.aux'.
+
+ (mundo/palula.tex) [66
+
+
+
+]
+\openout2 = `mundo/papuan.aux'.
+
+ (mundo/papuan.tex) [67
+
+
+
+]
+\openout2 = `mundo/pichi.aux'.
+
+ (mundo/pichi.tex) [68
+
+
+
+]
+\openout2 = `mundo/toqabaqita.aux'.
+
+ (mundo/toqabaqita.tex) [69
+
+
+
+] [70
+
+
+
+]
+\openout2 = `otros/cuadrosMexico.aux'.
+
+ (otros/cuadrosMexico.tex
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 2.
+
+) [71
+
+] [72]
+\openout2 = `otros/cuadrosAmerica.aux'.
+
+ (otros/cuadrosAmerica.tex) [73
+
+
+
+] [74]
+\openout2 = `otros/cuadrosMundo.aux'.
+
+ (otros/cuadrosMundo.tex) [75
+
+
+
+] [76] [77
+
+
+
+]
+\openout2 = `otros/conclusiones.aux'.
+
+ (otros/conclusiones.tex
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 2.
+
+) [78
 
 ]
 \openout2 = `otros/referencias.aux'.
 
- (otros/referencias.tex [57
+ (otros/referencias.tex [79
 
 
 
 
-] [58]) [59] (c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.aux (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/portada.aux)
-LaTeX Info: Redefining \sptext on input line 10.
-LaTeX Info: Redefining \. on input line 10.
-LaTeX Info: Redefining \% on input line 10.
- (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/introduccion.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/acateco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chatino.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chichimeco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chinanteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalOaxaca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalTabasco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huave.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huichol.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/lacandon.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/oluteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/otomí.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/popoluca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/seri.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tarahumara.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehua.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehuano.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlahuica.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlapaneco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/totonaco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/triqui.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tsotsil.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zapoteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zoque.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/aguaruna.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/awapit.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/cavinena.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/chimariko.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/choctaw.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/garifuna.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/hup.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/kakataibo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/kamsa.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/mapuche.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/maricopa.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/namtrik.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/ngabere.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/pimabajo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/sabane.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/wampis.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/wappo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/wari.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/yauyos.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/fwe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/cuadro.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/referencias.aux))
+] [80] [81]) [82] (c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.aux (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/portada.aux)
+LaTeX Info: Redefining \sptext on input line 24.
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+ (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/abreviaturas.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/introduccion.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/acateco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chatino.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chichimeco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chinanteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalOaxaca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/chontalTabasco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huave.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/huichol.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/lacandon.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/mixteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/oluteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/otomí.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/popoluca.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/seri.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tarahumara.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehua.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tepehuano.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlahuica.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tlapaneco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/totonaco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/triqui.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/tsotsil.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zapoteco.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico/zoque.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/aguaruna.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/awapit.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/cavinena.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/chimariko.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/choctaw.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/garifuna.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/hup.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/kakataibo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/kamsa.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/mapuche.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/maricopa.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/namtrik.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/ngabere.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/pimabajo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/sabane.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/wampis.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/wappo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/wari.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\america/yauyos.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/fwe.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/gyeli.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/jamsay.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/japhug.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/kalamang.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/komnzo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/madurese.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/mauwake.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/moloko.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/mongsen.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/palula.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/papuan.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/pichi.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\mundo/toqabaqita.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/cuadrosMexico.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/cuadrosAmerica.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/cuadrosMundo.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/conclusiones.aux) (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/referencias.aux))
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-10>
  ***********
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: B999841595C6A307C15C9CE7B670B94E;9361.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16912 strings out of 409919
- 375862 string characters out of 5780119
+ 23623 strings out of 409919
+ 486912 string characters out of 5780119
  1933674 words of memory out of 5000000
- 38149 multiletter control sequences out of 15000+600000
- 563082 words of font info for 107 fonts, out of 8000000 for 9000
+ 44675 multiletter control sequences out of 15000+600000
+ 563442 words of font info for 108 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 71i,10n,91p,1014b,5217s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 71i,10n,91p,1075b,5217s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.xdv (60 pages, 942112 bytes).
+Output written on c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.xdv (83 pages, 1300776 bytes).

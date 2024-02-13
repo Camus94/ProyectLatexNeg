@@ -51,6 +51,37 @@
       \verb C:\Users\jesus\Zotero\storage\2VBW6LJT\Aissen - 1987 - Tzotzil clause structure.pdf
       \endverb
     \endentry
+    \entry{mauwake}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0f71f0af70b7eb6f9d207b29d438b95b}{%
+           family={Berghäll},
+           familyi={B\bibinitperiod},
+           given={Liisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{0f71f0af70b7eb6f9d207b29d438b95b}
+      \strng{fullhash}{0f71f0af70b7eb6f9d207b29d438b95b}
+      \strng{bibnamehash}{0f71f0af70b7eb6f9d207b29d438b95b}
+      \strng{authorbibnamehash}{0f71f0af70b7eb6f9d207b29d438b95b}
+      \strng{authornamehash}{0f71f0af70b7eb6f9d207b29d438b95b}
+      \strng{authorfullhash}{0f71f0af70b7eb6f9d207b29d438b95b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Mauwake}
+      \field{year}{2015}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\JYSAUYFW\Berghäll - 2015 - A grammar of mauwake.pdf
+      \endverb
+    \endentry
     \entry{Popoluca}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=7e9f0f80921184cdf4c8cc421cbd11ef}{%
@@ -269,6 +300,37 @@
       \verb C:\Users\jesus\Zotero\storage\43YX79B8\Castro - 2016 - Sintaxis y semántica de la frase nominal en huave .pdf
       \endverb
     \endentry
+    \entry{Coupe}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9925e198e9cf86af87458d9274498918}{%
+           family={Coupe},
+           familyi={C\bibinitperiod},
+           given={Alexander\bibnamedelima Robertson},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{9925e198e9cf86af87458d9274498918}
+      \strng{fullhash}{9925e198e9cf86af87458d9274498918}
+      \strng{bibnamehash}{9925e198e9cf86af87458d9274498918}
+      \strng{authorbibnamehash}{9925e198e9cf86af87458d9274498918}
+      \strng{authornamehash}{9925e198e9cf86af87458d9274498918}
+      \strng{authorfullhash}{9925e198e9cf86af87458d9274498918}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Mongsen Ao}
+      \field{year}{2007}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\3BJ7TCKM\Coupe - 2007 - A grammar of mongsen ao.pdf
+      \endverb
+    \endentry
     \entry{awa}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1ca02227a8c4c23070cfdc3005b32a74}{%
@@ -298,6 +360,37 @@
       \field{year}{1998}
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\ICXT4SZL\Curnow - 1998 - A grammar of Awa Pit (Cuaiquer) An indigenous lan.pdf
+      \endverb
+    \endentry
+    \entry{madu}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=62163f97cdca057c5c0c8e79a14042e3}{%
+           family={Davies},
+           familyi={D\bibinitperiod},
+           given={William\bibnamedelima D},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter Mouton}%
+      }
+      \strng{namehash}{62163f97cdca057c5c0c8e79a14042e3}
+      \strng{fullhash}{62163f97cdca057c5c0c8e79a14042e3}
+      \strng{bibnamehash}{62163f97cdca057c5c0c8e79a14042e3}
+      \strng{authorbibnamehash}{62163f97cdca057c5c0c8e79a14042e3}
+      \strng{authornamehash}{62163f97cdca057c5c0c8e79a14042e3}
+      \strng{authorfullhash}{62163f97cdca057c5c0c8e79a14042e3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Madurese}
+      \field{year}{2010}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\386CK7IX\Davies - 2010 - A grammar of madurese.pdf
       \endverb
     \endentry
     \entry{sabane}{book}{}
@@ -425,6 +518,38 @@
       \field{year}{2004}
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\P8VZDBZR\Delgado Galván - 2004 - Descripción del orden básico de palabras en Yokot'.pdf
+      \endverb
+    \endentry
+    \entry{komzo}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=02747349fbd4dbe92ee3530f460abea1}{%
+           family={Döhler},
+           familyi={D\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{02747349fbd4dbe92ee3530f460abea1}
+      \strng{fullhash}{02747349fbd4dbe92ee3530f460abea1}
+      \strng{bibnamehash}{02747349fbd4dbe92ee3530f460abea1}
+      \strng{authorbibnamehash}{02747349fbd4dbe92ee3530f460abea1}
+      \strng{authornamehash}{02747349fbd4dbe92ee3530f460abea1}
+      \strng{authorfullhash}{02747349fbd4dbe92ee3530f460abea1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Komnzo}
+      \field{volume}{22}
+      \field{year}{2018}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\P4D6887Z\Döhler - 2018 - A grammar of komnzo.pdf
       \endverb
     \endentry
     \entry{morfemas}{inbook}{}
@@ -584,6 +709,37 @@
       \verb C:\Users\jesus\Zotero\storage\ETUMCXWF\Fernandez - 2014 - Gramática de referencia de pima bajo.pdf
       \endverb
     \endentry
+    \entry{moloko}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1918de63f871d0fee7d5212ff1534968}{%
+           family={Friesen},
+           familyi={F\bibinitperiod},
+           given={Dianne},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{1918de63f871d0fee7d5212ff1534968}
+      \strng{fullhash}{1918de63f871d0fee7d5212ff1534968}
+      \strng{bibnamehash}{1918de63f871d0fee7d5212ff1534968}
+      \strng{authorbibnamehash}{1918de63f871d0fee7d5212ff1534968}
+      \strng{authornamehash}{1918de63f871d0fee7d5212ff1534968}
+      \strng{authorfullhash}{1918de63f871d0fee7d5212ff1534968}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Moloko}
+      \field{year}{2017}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\C32ZAA3C\Friesen - 2017 - A grammar of moloko.pdf
+      \endverb
+    \endentry
     \entry{Tepehuano}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8fd1b66ab88e1d7d3d8df2015ff2049a}{%
@@ -677,6 +833,37 @@
       \verb C:\Users\jesus\Zotero\storage\7PHRRQUB\Gordon - 1986 - Maricopa morphology and syntax.pdf
       \endverb
     \endentry
+    \entry{gyeli}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=924cb603146da2ca092d0daf5d49c34f}{%
+           family={Grimm},
+           familyi={G\bibinitperiod},
+           given={Nadine},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{924cb603146da2ca092d0daf5d49c34f}
+      \strng{fullhash}{924cb603146da2ca092d0daf5d49c34f}
+      \strng{bibnamehash}{924cb603146da2ca092d0daf5d49c34f}
+      \strng{authorbibnamehash}{924cb603146da2ca092d0daf5d49c34f}
+      \strng{authornamehash}{924cb603146da2ca092d0daf5d49c34f}
+      \strng{authorfullhash}{924cb603146da2ca092d0daf5d49c34f}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Gyeli (Volume 2)}
+      \field{year}{2021}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\KAHBZGRQ\Grimm - 2021 - A grammar of gyeli (volume 2).pdf
+      \endverb
+    \endentry
     \entry{cavin}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=90bc5f688dba7f6168cf2551c697e961}{%
@@ -739,6 +926,37 @@
       \verb C:\Users\jesus\Zotero\storage\4BLCXTSY\Gunnink - 2022 - A grammar of fwe.pdf
       \endverb
     \endentry
+    \entry{jamsay}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=faa9d3ecd0dec9e164f3e408e2538ab7}{%
+           family={Heath},
+           familyi={H\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{faa9d3ecd0dec9e164f3e408e2538ab7}
+      \strng{fullhash}{faa9d3ecd0dec9e164f3e408e2538ab7}
+      \strng{bibnamehash}{faa9d3ecd0dec9e164f3e408e2538ab7}
+      \strng{authorbibnamehash}{faa9d3ecd0dec9e164f3e408e2538ab7}
+      \strng{authornamehash}{faa9d3ecd0dec9e164f3e408e2538ab7}
+      \strng{authorfullhash}{faa9d3ecd0dec9e164f3e408e2538ab7}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Jamsay}
+      \field{year}{2008}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\QL6ABMCF\Heath - 2008 - A grammar of jamsay.pdf
+      \endverb
+    \endentry
     \entry{hornKato}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=20b7f0ec7651845064253a2e769ec69d}{%
@@ -775,6 +993,37 @@
       \field{year}{2000}
       \field{pages}{1\bibrangedash 19}
       \range{pages}{19}
+    \endentry
+    \entry{japhug}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4db10f67c6c2058d7275b9a186d7016e}{%
+           family={Jacques},
+           familyi={J\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{4db10f67c6c2058d7275b9a186d7016e}
+      \strng{fullhash}{4db10f67c6c2058d7275b9a186d7016e}
+      \strng{bibnamehash}{4db10f67c6c2058d7275b9a186d7016e}
+      \strng{authorbibnamehash}{4db10f67c6c2058d7275b9a186d7016e}
+      \strng{authornamehash}{4db10f67c6c2058d7275b9a186d7016e}
+      \strng{authorfullhash}{4db10f67c6c2058d7275b9a186d7016e}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Japhug}
+      \field{year}{2021}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\7M2UKVA9\Jacques - 2021 - A grammar of japhug.pdf
+      \endverb
     \endentry
     \entry{chimariko}{book}{}
       \name{author}{1}{}{%
@@ -913,6 +1162,37 @@
       \field{title}{The Expression of Negation}
       \field{year}{2010}
     \endentry
+    \entry{papuan}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=15ac646ff7854eb4c847073342237f4a}{%
+           family={Kluge},
+           familyi={K\bibinitperiod},
+           given={Angela},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{15ac646ff7854eb4c847073342237f4a}
+      \strng{fullhash}{15ac646ff7854eb4c847073342237f4a}
+      \strng{bibnamehash}{15ac646ff7854eb4c847073342237f4a}
+      \strng{authorbibnamehash}{15ac646ff7854eb4c847073342237f4a}
+      \strng{authornamehash}{15ac646ff7854eb4c847073342237f4a}
+      \strng{authorfullhash}{15ac646ff7854eb4c847073342237f4a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Papuan Malay}
+      \field{year}{2017}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\ZHP5ZBKW\Kluge - 2017 - A grammar of papuan malay.pdf
+      \endverb
+    \endentry
     \entry{Tepehua}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=addad4fdb086fd988df902595f15c8e2}{%
@@ -996,6 +1276,68 @@
       \endverb
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\E8733TA9\Zeijlstra - 2013 - Negationand negativepolarity.pdf
+      \endverb
+    \endentry
+    \entry{toqabaqita}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=56a66f9d5ca369abe658967f2bd7a584}{%
+           family={Lichtenberk},
+           familyi={L\bibinitperiod},
+           given={Frantisek},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter Mouton}%
+      }
+      \strng{namehash}{56a66f9d5ca369abe658967f2bd7a584}
+      \strng{fullhash}{56a66f9d5ca369abe658967f2bd7a584}
+      \strng{bibnamehash}{56a66f9d5ca369abe658967f2bd7a584}
+      \strng{authorbibnamehash}{56a66f9d5ca369abe658967f2bd7a584}
+      \strng{authornamehash}{56a66f9d5ca369abe658967f2bd7a584}
+      \strng{authorfullhash}{56a66f9d5ca369abe658967f2bd7a584}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Toqabaqita}
+      \field{year}{2008}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\KAI3MFVZ\Lichtenberk - 2008 - A grammar of toqabaqita.pdf
+      \endverb
+    \endentry
+    \entry{palula}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7143edf6d9963b5b5769400f496994de}{%
+           family={Liljegren},
+           familyi={L\bibinitperiod},
+           given={Henrik},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{7143edf6d9963b5b5769400f496994de}
+      \strng{fullhash}{7143edf6d9963b5b5769400f496994de}
+      \strng{bibnamehash}{7143edf6d9963b5b5769400f496994de}
+      \strng{authorbibnamehash}{7143edf6d9963b5b5769400f496994de}
+      \strng{authornamehash}{7143edf6d9963b5b5769400f496994de}
+      \strng{authorfullhash}{7143edf6d9963b5b5769400f496994de}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Palula}
+      \field{year}{2016}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\HCKE2XYE\Liljegren - 2016 - A grammar of palula.pdf
       \endverb
     \endentry
     \entry{chichimeco}{thesis}{}
@@ -1672,6 +2014,68 @@
       \field{year}{2009}
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\VHI6GYC3\Villard - 2008 - Grammatical sketch of zacatepec chatino.pdf
+      \endverb
+    \endentry
+    \entry{vaisser}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fc37b3c59d7332836a06f7f0cf0b2ccb}{%
+           family={Visser},
+           familyi={V\bibinitperiod},
+           given={Eline},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{fc37b3c59d7332836a06f7f0cf0b2ccb}
+      \strng{fullhash}{fc37b3c59d7332836a06f7f0cf0b2ccb}
+      \strng{bibnamehash}{fc37b3c59d7332836a06f7f0cf0b2ccb}
+      \strng{authorbibnamehash}{fc37b3c59d7332836a06f7f0cf0b2ccb}
+      \strng{authornamehash}{fc37b3c59d7332836a06f7f0cf0b2ccb}
+      \strng{authorfullhash}{fc37b3c59d7332836a06f7f0cf0b2ccb}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Kalamang}
+      \field{year}{2022}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\6MRTZI7A\Visser - 2022 - A grammar of kalamang.pdf
+      \endverb
+    \endentry
+    \entry{pichi}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bd3925c76040c0e55b24012268837784}{%
+           family={Yakpo},
+           familyi={Y\bibinitperiod},
+           given={Kofi},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{bd3925c76040c0e55b24012268837784}
+      \strng{fullhash}{bd3925c76040c0e55b24012268837784}
+      \strng{bibnamehash}{bd3925c76040c0e55b24012268837784}
+      \strng{authorbibnamehash}{bd3925c76040c0e55b24012268837784}
+      \strng{authornamehash}{bd3925c76040c0e55b24012268837784}
+      \strng{authorfullhash}{bd3925c76040c0e55b24012268837784}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Pichi}
+      \field{year}{2019}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\IEB84WUT\Yakpo - 2019 - A grammar of pichi.pdf
       \endverb
     \endentry
     \entry{kakataibo}{thesis}{}
@@ -1815,6 +2219,37 @@
       \verb C:\Users\jesus\Zotero\storage\2VBW6LJT\Aissen - 1987 - Tzotzil clause structure.pdf
       \endverb
     \endentry
+    \entry{mauwake}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0f71f0af70b7eb6f9d207b29d438b95b}{%
+           family={Berghäll},
+           familyi={B\bibinitperiod},
+           given={Liisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{0f71f0af70b7eb6f9d207b29d438b95b}
+      \strng{fullhash}{0f71f0af70b7eb6f9d207b29d438b95b}
+      \strng{bibnamehash}{0f71f0af70b7eb6f9d207b29d438b95b}
+      \strng{authorbibnamehash}{0f71f0af70b7eb6f9d207b29d438b95b}
+      \strng{authornamehash}{0f71f0af70b7eb6f9d207b29d438b95b}
+      \strng{authorfullhash}{0f71f0af70b7eb6f9d207b29d438b95b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Mauwake}
+      \field{year}{2015}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\JYSAUYFW\Berghäll - 2015 - A grammar of mauwake.pdf
+      \endverb
+    \endentry
     \entry{Popoluca}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=7e9f0f80921184cdf4c8cc421cbd11ef}{%
@@ -2033,6 +2468,37 @@
       \verb C:\Users\jesus\Zotero\storage\43YX79B8\Castro - 2016 - Sintaxis y semántica de la frase nominal en huave .pdf
       \endverb
     \endentry
+    \entry{Coupe}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9925e198e9cf86af87458d9274498918}{%
+           family={Coupe},
+           familyi={C\bibinitperiod},
+           given={Alexander\bibnamedelima Robertson},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{9925e198e9cf86af87458d9274498918}
+      \strng{fullhash}{9925e198e9cf86af87458d9274498918}
+      \strng{bibnamehash}{9925e198e9cf86af87458d9274498918}
+      \strng{authorbibnamehash}{9925e198e9cf86af87458d9274498918}
+      \strng{authornamehash}{9925e198e9cf86af87458d9274498918}
+      \strng{authorfullhash}{9925e198e9cf86af87458d9274498918}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Mongsen Ao}
+      \field{year}{2007}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\3BJ7TCKM\Coupe - 2007 - A grammar of mongsen ao.pdf
+      \endverb
+    \endentry
     \entry{awa}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1ca02227a8c4c23070cfdc3005b32a74}{%
@@ -2062,6 +2528,37 @@
       \field{year}{1998}
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\ICXT4SZL\Curnow - 1998 - A grammar of Awa Pit (Cuaiquer) An indigenous lan.pdf
+      \endverb
+    \endentry
+    \entry{madu}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=62163f97cdca057c5c0c8e79a14042e3}{%
+           family={Davies},
+           familyi={D\bibinitperiod},
+           given={William\bibnamedelima D},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter Mouton}%
+      }
+      \strng{namehash}{62163f97cdca057c5c0c8e79a14042e3}
+      \strng{fullhash}{62163f97cdca057c5c0c8e79a14042e3}
+      \strng{bibnamehash}{62163f97cdca057c5c0c8e79a14042e3}
+      \strng{authorbibnamehash}{62163f97cdca057c5c0c8e79a14042e3}
+      \strng{authornamehash}{62163f97cdca057c5c0c8e79a14042e3}
+      \strng{authorfullhash}{62163f97cdca057c5c0c8e79a14042e3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Madurese}
+      \field{year}{2010}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\386CK7IX\Davies - 2010 - A grammar of madurese.pdf
       \endverb
     \endentry
     \entry{sabane}{book}{}
@@ -2189,6 +2686,38 @@
       \field{year}{2004}
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\P8VZDBZR\Delgado Galván - 2004 - Descripción del orden básico de palabras en Yokot'.pdf
+      \endverb
+    \endentry
+    \entry{komzo}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=02747349fbd4dbe92ee3530f460abea1}{%
+           family={Döhler},
+           familyi={D\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{02747349fbd4dbe92ee3530f460abea1}
+      \strng{fullhash}{02747349fbd4dbe92ee3530f460abea1}
+      \strng{bibnamehash}{02747349fbd4dbe92ee3530f460abea1}
+      \strng{authorbibnamehash}{02747349fbd4dbe92ee3530f460abea1}
+      \strng{authornamehash}{02747349fbd4dbe92ee3530f460abea1}
+      \strng{authorfullhash}{02747349fbd4dbe92ee3530f460abea1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Komnzo}
+      \field{volume}{22}
+      \field{year}{2018}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\P4D6887Z\Döhler - 2018 - A grammar of komnzo.pdf
       \endverb
     \endentry
     \entry{morfemas}{inbook}{}
@@ -2348,6 +2877,37 @@
       \verb C:\Users\jesus\Zotero\storage\ETUMCXWF\Fernandez - 2014 - Gramática de referencia de pima bajo.pdf
       \endverb
     \endentry
+    \entry{moloko}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1918de63f871d0fee7d5212ff1534968}{%
+           family={Friesen},
+           familyi={F\bibinitperiod},
+           given={Dianne},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{1918de63f871d0fee7d5212ff1534968}
+      \strng{fullhash}{1918de63f871d0fee7d5212ff1534968}
+      \strng{bibnamehash}{1918de63f871d0fee7d5212ff1534968}
+      \strng{authorbibnamehash}{1918de63f871d0fee7d5212ff1534968}
+      \strng{authornamehash}{1918de63f871d0fee7d5212ff1534968}
+      \strng{authorfullhash}{1918de63f871d0fee7d5212ff1534968}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Moloko}
+      \field{year}{2017}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\C32ZAA3C\Friesen - 2017 - A grammar of moloko.pdf
+      \endverb
+    \endentry
     \entry{Tepehuano}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8fd1b66ab88e1d7d3d8df2015ff2049a}{%
@@ -2441,6 +3001,37 @@
       \verb C:\Users\jesus\Zotero\storage\7PHRRQUB\Gordon - 1986 - Maricopa morphology and syntax.pdf
       \endverb
     \endentry
+    \entry{gyeli}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=924cb603146da2ca092d0daf5d49c34f}{%
+           family={Grimm},
+           familyi={G\bibinitperiod},
+           given={Nadine},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{924cb603146da2ca092d0daf5d49c34f}
+      \strng{fullhash}{924cb603146da2ca092d0daf5d49c34f}
+      \strng{bibnamehash}{924cb603146da2ca092d0daf5d49c34f}
+      \strng{authorbibnamehash}{924cb603146da2ca092d0daf5d49c34f}
+      \strng{authornamehash}{924cb603146da2ca092d0daf5d49c34f}
+      \strng{authorfullhash}{924cb603146da2ca092d0daf5d49c34f}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Gyeli (Volume 2)}
+      \field{year}{2021}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\KAHBZGRQ\Grimm - 2021 - A grammar of gyeli (volume 2).pdf
+      \endverb
+    \endentry
     \entry{cavin}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=90bc5f688dba7f6168cf2551c697e961}{%
@@ -2503,6 +3094,37 @@
       \verb C:\Users\jesus\Zotero\storage\4BLCXTSY\Gunnink - 2022 - A grammar of fwe.pdf
       \endverb
     \endentry
+    \entry{jamsay}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=faa9d3ecd0dec9e164f3e408e2538ab7}{%
+           family={Heath},
+           familyi={H\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{faa9d3ecd0dec9e164f3e408e2538ab7}
+      \strng{fullhash}{faa9d3ecd0dec9e164f3e408e2538ab7}
+      \strng{bibnamehash}{faa9d3ecd0dec9e164f3e408e2538ab7}
+      \strng{authorbibnamehash}{faa9d3ecd0dec9e164f3e408e2538ab7}
+      \strng{authornamehash}{faa9d3ecd0dec9e164f3e408e2538ab7}
+      \strng{authorfullhash}{faa9d3ecd0dec9e164f3e408e2538ab7}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Jamsay}
+      \field{year}{2008}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\QL6ABMCF\Heath - 2008 - A grammar of jamsay.pdf
+      \endverb
+    \endentry
     \entry{hornKato}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=20b7f0ec7651845064253a2e769ec69d}{%
@@ -2539,6 +3161,37 @@
       \field{year}{2000}
       \field{pages}{1\bibrangedash 19}
       \range{pages}{19}
+    \endentry
+    \entry{japhug}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4db10f67c6c2058d7275b9a186d7016e}{%
+           family={Jacques},
+           familyi={J\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{4db10f67c6c2058d7275b9a186d7016e}
+      \strng{fullhash}{4db10f67c6c2058d7275b9a186d7016e}
+      \strng{bibnamehash}{4db10f67c6c2058d7275b9a186d7016e}
+      \strng{authorbibnamehash}{4db10f67c6c2058d7275b9a186d7016e}
+      \strng{authornamehash}{4db10f67c6c2058d7275b9a186d7016e}
+      \strng{authorfullhash}{4db10f67c6c2058d7275b9a186d7016e}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Japhug}
+      \field{year}{2021}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\7M2UKVA9\Jacques - 2021 - A grammar of japhug.pdf
+      \endverb
     \endentry
     \entry{chimariko}{book}{}
       \name{author}{1}{}{%
@@ -2677,6 +3330,37 @@
       \field{title}{The Expression of Negation}
       \field{year}{2010}
     \endentry
+    \entry{papuan}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=15ac646ff7854eb4c847073342237f4a}{%
+           family={Kluge},
+           familyi={K\bibinitperiod},
+           given={Angela},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{15ac646ff7854eb4c847073342237f4a}
+      \strng{fullhash}{15ac646ff7854eb4c847073342237f4a}
+      \strng{bibnamehash}{15ac646ff7854eb4c847073342237f4a}
+      \strng{authorbibnamehash}{15ac646ff7854eb4c847073342237f4a}
+      \strng{authornamehash}{15ac646ff7854eb4c847073342237f4a}
+      \strng{authorfullhash}{15ac646ff7854eb4c847073342237f4a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Papuan Malay}
+      \field{year}{2017}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\ZHP5ZBKW\Kluge - 2017 - A grammar of papuan malay.pdf
+      \endverb
+    \endentry
     \entry{Tepehua}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=addad4fdb086fd988df902595f15c8e2}{%
@@ -2760,6 +3444,68 @@
       \endverb
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\E8733TA9\Zeijlstra - 2013 - Negationand negativepolarity.pdf
+      \endverb
+    \endentry
+    \entry{toqabaqita}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=56a66f9d5ca369abe658967f2bd7a584}{%
+           family={Lichtenberk},
+           familyi={L\bibinitperiod},
+           given={Frantisek},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter Mouton}%
+      }
+      \strng{namehash}{56a66f9d5ca369abe658967f2bd7a584}
+      \strng{fullhash}{56a66f9d5ca369abe658967f2bd7a584}
+      \strng{bibnamehash}{56a66f9d5ca369abe658967f2bd7a584}
+      \strng{authorbibnamehash}{56a66f9d5ca369abe658967f2bd7a584}
+      \strng{authornamehash}{56a66f9d5ca369abe658967f2bd7a584}
+      \strng{authorfullhash}{56a66f9d5ca369abe658967f2bd7a584}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Toqabaqita}
+      \field{year}{2008}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\KAI3MFVZ\Lichtenberk - 2008 - A grammar of toqabaqita.pdf
+      \endverb
+    \endentry
+    \entry{palula}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7143edf6d9963b5b5769400f496994de}{%
+           family={Liljegren},
+           familyi={L\bibinitperiod},
+           given={Henrik},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{7143edf6d9963b5b5769400f496994de}
+      \strng{fullhash}{7143edf6d9963b5b5769400f496994de}
+      \strng{bibnamehash}{7143edf6d9963b5b5769400f496994de}
+      \strng{authorbibnamehash}{7143edf6d9963b5b5769400f496994de}
+      \strng{authornamehash}{7143edf6d9963b5b5769400f496994de}
+      \strng{authorfullhash}{7143edf6d9963b5b5769400f496994de}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Palula}
+      \field{year}{2016}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\HCKE2XYE\Liljegren - 2016 - A grammar of palula.pdf
       \endverb
     \endentry
     \entry{chichimeco}{thesis}{}
@@ -3436,6 +4182,68 @@
       \field{year}{2009}
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\VHI6GYC3\Villard - 2008 - Grammatical sketch of zacatepec chatino.pdf
+      \endverb
+    \endentry
+    \entry{vaisser}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fc37b3c59d7332836a06f7f0cf0b2ccb}{%
+           family={Visser},
+           familyi={V\bibinitperiod},
+           given={Eline},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{fc37b3c59d7332836a06f7f0cf0b2ccb}
+      \strng{fullhash}{fc37b3c59d7332836a06f7f0cf0b2ccb}
+      \strng{bibnamehash}{fc37b3c59d7332836a06f7f0cf0b2ccb}
+      \strng{authorbibnamehash}{fc37b3c59d7332836a06f7f0cf0b2ccb}
+      \strng{authornamehash}{fc37b3c59d7332836a06f7f0cf0b2ccb}
+      \strng{authorfullhash}{fc37b3c59d7332836a06f7f0cf0b2ccb}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Kalamang}
+      \field{year}{2022}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\6MRTZI7A\Visser - 2022 - A grammar of kalamang.pdf
+      \endverb
+    \endentry
+    \entry{pichi}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bd3925c76040c0e55b24012268837784}{%
+           family={Yakpo},
+           familyi={Y\bibinitperiod},
+           given={Kofi},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{bd3925c76040c0e55b24012268837784}
+      \strng{fullhash}{bd3925c76040c0e55b24012268837784}
+      \strng{bibnamehash}{bd3925c76040c0e55b24012268837784}
+      \strng{authorbibnamehash}{bd3925c76040c0e55b24012268837784}
+      \strng{authornamehash}{bd3925c76040c0e55b24012268837784}
+      \strng{authorfullhash}{bd3925c76040c0e55b24012268837784}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of Pichi}
+      \field{year}{2019}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\IEB84WUT\Yakpo - 2019 - A grammar of pichi.pdf
       \endverb
     \endentry
     \entry{kakataibo}{thesis}{}

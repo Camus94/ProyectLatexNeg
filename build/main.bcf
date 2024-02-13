@@ -3125,6 +3125,23 @@
     <bcf:citekey order="62" intorder="1">wari</bcf:citekey>
     <bcf:citekey order="63" intorder="1">yauyos</bcf:citekey>
     <bcf:citekey order="64" intorder="1">fwe</bcf:citekey>
+    <bcf:citekey order="65" intorder="1">gyeli</bcf:citekey>
+    <bcf:citekey order="66" intorder="1">jamsay</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">japhug</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">vaisser</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">vaisser</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">komzo</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">madu</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">madu</bcf:citekey>
+    <bcf:citekey order="73" intorder="1">mauwake</bcf:citekey>
+    <bcf:citekey order="74" intorder="1">moloko</bcf:citekey>
+    <bcf:citekey order="75" intorder="1">Coupe</bcf:citekey>
+    <bcf:citekey order="76" intorder="1">Coupe</bcf:citekey>
+    <bcf:citekey order="77" intorder="1">palula</bcf:citekey>
+    <bcf:citekey order="78" intorder="1">papuan</bcf:citekey>
+    <bcf:citekey order="79" intorder="1">papuan</bcf:citekey>
+    <bcf:citekey order="80" intorder="1">pichi</bcf:citekey>
+    <bcf:citekey order="81" intorder="1">toqabaqita</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
