@@ -195,6 +195,9 @@ INPUT c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros\abreviaturas.aux
 INPUT c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros\introduccion.aux
 INPUT c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros\introduccion.aux
 INPUT c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros\introduccion.aux
+INPUT c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros\teoria.aux
+INPUT c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros\teoria.aux
+INPUT c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros\teoria.aux
 INPUT c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico\acateco.aux
 INPUT c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico\acateco.aux
 INPUT c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico\acateco.aux
@@ -445,6 +448,12 @@ OUTPUT c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros\introduccion.aux
 INPUT .\otros\introduccion.tex
 INPUT .\otros\introduccion.tex
 INPUT otros\introduccion.tex
+INPUT .\otros\teoria.tex
+INPUT .\otros\teoria.tex
+OUTPUT c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros\teoria.aux
+INPUT .\otros\teoria.tex
+INPUT .\otros\teoria.tex
+INPUT otros\teoria.tex
 INPUT .\mexico\acateco.tex
 INPUT .\mexico\acateco.tex
 OUTPUT c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico\acateco.aux
@@ -836,6 +845,9 @@ INPUT c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros\abreviaturas.aux
 INPUT c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros\introduccion.aux
 INPUT c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros\introduccion.aux
 INPUT c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros\introduccion.aux
+INPUT c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros\teoria.aux
+INPUT c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros\teoria.aux
+INPUT c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros\teoria.aux
 INPUT c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico\acateco.aux
 INPUT c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico\acateco.aux
 INPUT c:\Users\jesus\Desktop\ProyectLatexNeg\build\mexico\acateco.aux

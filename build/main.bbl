@@ -362,6 +362,35 @@
       \verb C:\Users\jesus\Zotero\storage\ICXT4SZL\Curnow - 1998 - A grammar of Awa Pit (Cuaiquer) An indigenous lan.pdf
       \endverb
     \endentry
+    \entry{Dahl1979}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f559201717fa43fb909f1d5a668ae42b}{%
+           family={Dahl},
+           familyi={D\bibinitperiod},
+           given={Östen},
+           giveni={Ö\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Walter de Gruyter, Berlin/New York Berlin, New York}%
+      }
+      \strng{namehash}{f559201717fa43fb909f1d5a668ae42b}
+      \strng{fullhash}{f559201717fa43fb909f1d5a668ae42b}
+      \strng{bibnamehash}{f559201717fa43fb909f1d5a668ae42b}
+      \strng{authorbibnamehash}{f559201717fa43fb909f1d5a668ae42b}
+      \strng{authornamehash}{f559201717fa43fb909f1d5a668ae42b}
+      \strng{authorfullhash}{f559201717fa43fb909f1d5a668ae42b}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0024-3949}
+      \field{title}{Typology of Sentence Negation}
+      \field{year}{1979}
+    \endentry
     \entry{madu}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=62163f97cdca057c5c0c8e79a14042e3}{%
@@ -1057,6 +1086,35 @@
       \verb C:\Users\jesus\Zotero\storage\FH9BY6XG\Jany - 2009 - Chimariko grammar Areal and typological perspecti.pdf
       \endverb
     \endentry
+    \entry{Jespersen1917}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1c4ac42331deb86deb53c2a3e012ec08}{%
+           family={Jespersen},
+           familyi={J\bibinitperiod},
+           given={Otto},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {H{ø}st}%
+      }
+      \strng{namehash}{1c4ac42331deb86deb53c2a3e012ec08}
+      \strng{fullhash}{1c4ac42331deb86deb53c2a3e012ec08}
+      \strng{bibnamehash}{1c4ac42331deb86deb53c2a3e012ec08}
+      \strng{authorbibnamehash}{1c4ac42331deb86deb53c2a3e012ec08}
+      \strng{authornamehash}{1c4ac42331deb86deb53c2a3e012ec08}
+      \strng{authorfullhash}{1c4ac42331deb86deb53c2a3e012ec08}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Negation in {{English}} and Other Languages}
+      \field{volume}{1}
+      \field{year}{1917}
+    \endentry
     \entry{zoque}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ec047540723959fa04f823d784191140}{%
@@ -1404,6 +1462,36 @@
       \verb C:\Users\jesus\Zotero\storage\S73WEC6R\Marlett - 1981 - The structure of seri.pdf
       \endverb
     \endentry
+    \entry{Miestamo2005}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=898dbabcab452b2f2856a7bd9d9875db}{%
+           family={Miestamo},
+           familyi={M\bibinitperiod},
+           given={Matti},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{fullhash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{bibnamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authorbibnamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authornamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authorfullhash}{898dbabcab452b2f2856a7bd9d9875db}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{3-11-018579-2}
+      \field{title}{Standard Negation: {{The}} Negation of Declarative Verbal Main Clauses in a Typological Perspective}
+      \field{year}{2005}
+    \endentry
     \entry{negStandar}{inbook}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=898dbabcab452b2f2856a7bd9d9875db}{%
@@ -1437,6 +1525,7 @@
       \strng{editorbibnamehash}{fe62fbc91518e882ff47d9bf1a75e3ee}
       \strng{editornamehash}{fe62fbc91518e882ff47d9bf1a75e3ee}
       \strng{editorfullhash}{fe62fbc91518e882ff47d9bf1a75e3ee}
+      \field{extraname}{2}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
@@ -1680,6 +1769,48 @@
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\VFRNB2W3\Palancar - 2009 - Gramática y textos del hñöñhö otomí de san ildefo.pdf
       \endverb
+    \endentry
+    \entry{Payne85}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5cda42dee046d70182112cf8bc4256ff}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={John\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=e2f37d5dd7d9d1b76ac61b7f4f2669f4}{%
+           family={Shopen},
+           familyi={S\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{5cda42dee046d70182112cf8bc4256ff}
+      \strng{fullhash}{5cda42dee046d70182112cf8bc4256ff}
+      \strng{bibnamehash}{5cda42dee046d70182112cf8bc4256ff}
+      \strng{authorbibnamehash}{5cda42dee046d70182112cf8bc4256ff}
+      \strng{authornamehash}{5cda42dee046d70182112cf8bc4256ff}
+      \strng{authorfullhash}{5cda42dee046d70182112cf8bc4256ff}
+      \strng{editorbibnamehash}{e2f37d5dd7d9d1b76ac61b7f4f2669f4}
+      \strng{editornamehash}{e2f37d5dd7d9d1b76ac61b7f4f2669f4}
+      \strng{editorfullhash}{e2f37d5dd7d9d1b76ac61b7f4f2669f4}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Language Typology and Syntactic Descripción}
+      \field{title}{Negation}
+      \field{volume}{I. Clauses structure}
+      \field{year}{1985}
+      \field{pages}{197\bibrangedash 242}
+      \range{pages}{46}
     \endentry
     \entry{wampis}{thesis}{}
       \name{author}{1}{}{%
@@ -1955,6 +2086,65 @@
       \verb C:\Users\jesus\Zotero\storage\5KB7GQYD\Thompson et al. - 2006 - A reference grammar of Wappo.pdf
       \endverb
     \endentry
+    \entry{VanAlsenoy2014}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ef136c6fd6edf5b856cf54a1e88960ae}{%
+           family={Van\bibnamedelima Alsenoy},
+           familyi={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Lauren},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Antwerp}%
+      }
+      \strng{namehash}{ef136c6fd6edf5b856cf54a1e88960ae}
+      \strng{fullhash}{ef136c6fd6edf5b856cf54a1e88960ae}
+      \strng{bibnamehash}{ef136c6fd6edf5b856cf54a1e88960ae}
+      \strng{authorbibnamehash}{ef136c6fd6edf5b856cf54a1e88960ae}
+      \strng{authornamehash}{ef136c6fd6edf5b856cf54a1e88960ae}
+      \strng{authorfullhash}{ef136c6fd6edf5b856cf54a1e88960ae}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A New Typology of Indefinite Pronouns, with a Focus on Negative Indefinites}
+      \field{year}{2014}
+    \endentry
+    \entry{Auwera2020}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=82a11fb556cd66806ce9d63efd114e9b}{%
+           family={{Van der Auwera}},
+           familyi={V\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d21934a164889c2f4e73747fcbac7b7}{%
+           family={Krasnoukhova},
+           familyi={K\bibinitperiod},
+           given={Olga},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{50e8f13a82fb1fa52ca1d499c22d40f3}
+      \strng{fullhash}{50e8f13a82fb1fa52ca1d499c22d40f3}
+      \strng{bibnamehash}{50e8f13a82fb1fa52ca1d499c22d40f3}
+      \strng{authorbibnamehash}{50e8f13a82fb1fa52ca1d499c22d40f3}
+      \strng{authornamehash}{50e8f13a82fb1fa52ca1d499c22d40f3}
+      \strng{authorfullhash}{50e8f13a82fb1fa52ca1d499c22d40f3}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Typology of Negation}
+      \field{year}{2020}
+    \endentry
     \entry{Valin}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=aa0aa4b93e495611588204465efc3c1b}{%
@@ -2046,6 +2236,34 @@
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\6MRTZI7A\Visser - 2022 - A grammar of kalamang.pdf
       \endverb
+    \endentry
+    \entry{Vossen2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=680f977d053fab513196442ae2c40637}{%
+           family={Vossen},
+           familyi={V\bibinitperiod},
+           given={Frens},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Antwerp}%
+      }
+      \strng{namehash}{680f977d053fab513196442ae2c40637}
+      \strng{fullhash}{680f977d053fab513196442ae2c40637}
+      \strng{bibnamehash}{680f977d053fab513196442ae2c40637}
+      \strng{authorbibnamehash}{680f977d053fab513196442ae2c40637}
+      \strng{authornamehash}{680f977d053fab513196442ae2c40637}
+      \strng{authorfullhash}{680f977d053fab513196442ae2c40637}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{On the Typology of the {{Jespersen}} Cycles}
+      \field{year}{2016}
     \endentry
     \entry{pichi}{book}{}
       \name{author}{1}{}{%
@@ -2530,6 +2748,35 @@
       \verb C:\Users\jesus\Zotero\storage\ICXT4SZL\Curnow - 1998 - A grammar of Awa Pit (Cuaiquer) An indigenous lan.pdf
       \endverb
     \endentry
+    \entry{Dahl1979}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f559201717fa43fb909f1d5a668ae42b}{%
+           family={Dahl},
+           familyi={D\bibinitperiod},
+           given={Östen},
+           giveni={Ö\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Walter de Gruyter, Berlin/New York Berlin, New York}%
+      }
+      \strng{namehash}{f559201717fa43fb909f1d5a668ae42b}
+      \strng{fullhash}{f559201717fa43fb909f1d5a668ae42b}
+      \strng{bibnamehash}{f559201717fa43fb909f1d5a668ae42b}
+      \strng{authorbibnamehash}{f559201717fa43fb909f1d5a668ae42b}
+      \strng{authornamehash}{f559201717fa43fb909f1d5a668ae42b}
+      \strng{authorfullhash}{f559201717fa43fb909f1d5a668ae42b}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0024-3949}
+      \field{title}{Typology of Sentence Negation}
+      \field{year}{1979}
+    \endentry
     \entry{madu}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=62163f97cdca057c5c0c8e79a14042e3}{%
@@ -3225,6 +3472,35 @@
       \verb C:\Users\jesus\Zotero\storage\FH9BY6XG\Jany - 2009 - Chimariko grammar Areal and typological perspecti.pdf
       \endverb
     \endentry
+    \entry{Jespersen1917}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1c4ac42331deb86deb53c2a3e012ec08}{%
+           family={Jespersen},
+           familyi={J\bibinitperiod},
+           given={Otto},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {H{ø}st}%
+      }
+      \strng{namehash}{1c4ac42331deb86deb53c2a3e012ec08}
+      \strng{fullhash}{1c4ac42331deb86deb53c2a3e012ec08}
+      \strng{bibnamehash}{1c4ac42331deb86deb53c2a3e012ec08}
+      \strng{authorbibnamehash}{1c4ac42331deb86deb53c2a3e012ec08}
+      \strng{authornamehash}{1c4ac42331deb86deb53c2a3e012ec08}
+      \strng{authorfullhash}{1c4ac42331deb86deb53c2a3e012ec08}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Negation in {{English}} and Other Languages}
+      \field{volume}{1}
+      \field{year}{1917}
+    \endentry
     \entry{zoque}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ec047540723959fa04f823d784191140}{%
@@ -3572,6 +3848,36 @@
       \verb C:\Users\jesus\Zotero\storage\S73WEC6R\Marlett - 1981 - The structure of seri.pdf
       \endverb
     \endentry
+    \entry{Miestamo2005}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=898dbabcab452b2f2856a7bd9d9875db}{%
+           family={Miestamo},
+           familyi={M\bibinitperiod},
+           given={Matti},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{fullhash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{bibnamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authorbibnamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authornamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authorfullhash}{898dbabcab452b2f2856a7bd9d9875db}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{3-11-018579-2}
+      \field{title}{Standard Negation: {{The}} Negation of Declarative Verbal Main Clauses in a Typological Perspective}
+      \field{year}{2005}
+    \endentry
     \entry{negStandar}{inbook}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=898dbabcab452b2f2856a7bd9d9875db}{%
@@ -3605,6 +3911,7 @@
       \strng{editorbibnamehash}{fe62fbc91518e882ff47d9bf1a75e3ee}
       \strng{editornamehash}{fe62fbc91518e882ff47d9bf1a75e3ee}
       \strng{editorfullhash}{fe62fbc91518e882ff47d9bf1a75e3ee}
+      \field{extraname}{2}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
@@ -3848,6 +4155,48 @@
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\VFRNB2W3\Palancar - 2009 - Gramática y textos del hñöñhö otomí de san ildefo.pdf
       \endverb
+    \endentry
+    \entry{Payne85}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5cda42dee046d70182112cf8bc4256ff}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={John\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=e2f37d5dd7d9d1b76ac61b7f4f2669f4}{%
+           family={Shopen},
+           familyi={S\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{5cda42dee046d70182112cf8bc4256ff}
+      \strng{fullhash}{5cda42dee046d70182112cf8bc4256ff}
+      \strng{bibnamehash}{5cda42dee046d70182112cf8bc4256ff}
+      \strng{authorbibnamehash}{5cda42dee046d70182112cf8bc4256ff}
+      \strng{authornamehash}{5cda42dee046d70182112cf8bc4256ff}
+      \strng{authorfullhash}{5cda42dee046d70182112cf8bc4256ff}
+      \strng{editorbibnamehash}{e2f37d5dd7d9d1b76ac61b7f4f2669f4}
+      \strng{editornamehash}{e2f37d5dd7d9d1b76ac61b7f4f2669f4}
+      \strng{editorfullhash}{e2f37d5dd7d9d1b76ac61b7f4f2669f4}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Language Typology and Syntactic Descripción}
+      \field{title}{Negation}
+      \field{volume}{I. Clauses structure}
+      \field{year}{1985}
+      \field{pages}{197\bibrangedash 242}
+      \range{pages}{46}
     \endentry
     \entry{wampis}{thesis}{}
       \name{author}{1}{}{%
@@ -4123,6 +4472,65 @@
       \verb C:\Users\jesus\Zotero\storage\5KB7GQYD\Thompson et al. - 2006 - A reference grammar of Wappo.pdf
       \endverb
     \endentry
+    \entry{VanAlsenoy2014}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ef136c6fd6edf5b856cf54a1e88960ae}{%
+           family={Van\bibnamedelima Alsenoy},
+           familyi={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Lauren},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Antwerp}%
+      }
+      \strng{namehash}{ef136c6fd6edf5b856cf54a1e88960ae}
+      \strng{fullhash}{ef136c6fd6edf5b856cf54a1e88960ae}
+      \strng{bibnamehash}{ef136c6fd6edf5b856cf54a1e88960ae}
+      \strng{authorbibnamehash}{ef136c6fd6edf5b856cf54a1e88960ae}
+      \strng{authornamehash}{ef136c6fd6edf5b856cf54a1e88960ae}
+      \strng{authorfullhash}{ef136c6fd6edf5b856cf54a1e88960ae}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A New Typology of Indefinite Pronouns, with a Focus on Negative Indefinites}
+      \field{year}{2014}
+    \endentry
+    \entry{Auwera2020}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=82a11fb556cd66806ce9d63efd114e9b}{%
+           family={{Van der Auwera}},
+           familyi={V\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d21934a164889c2f4e73747fcbac7b7}{%
+           family={Krasnoukhova},
+           familyi={K\bibinitperiod},
+           given={Olga},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{50e8f13a82fb1fa52ca1d499c22d40f3}
+      \strng{fullhash}{50e8f13a82fb1fa52ca1d499c22d40f3}
+      \strng{bibnamehash}{50e8f13a82fb1fa52ca1d499c22d40f3}
+      \strng{authorbibnamehash}{50e8f13a82fb1fa52ca1d499c22d40f3}
+      \strng{authornamehash}{50e8f13a82fb1fa52ca1d499c22d40f3}
+      \strng{authorfullhash}{50e8f13a82fb1fa52ca1d499c22d40f3}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Typology of Negation}
+      \field{year}{2020}
+    \endentry
     \entry{Valin}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=aa0aa4b93e495611588204465efc3c1b}{%
@@ -4214,6 +4622,34 @@
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\6MRTZI7A\Visser - 2022 - A grammar of kalamang.pdf
       \endverb
+    \endentry
+    \entry{Vossen2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=680f977d053fab513196442ae2c40637}{%
+           family={Vossen},
+           familyi={V\bibinitperiod},
+           given={Frens},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Antwerp}%
+      }
+      \strng{namehash}{680f977d053fab513196442ae2c40637}
+      \strng{fullhash}{680f977d053fab513196442ae2c40637}
+      \strng{bibnamehash}{680f977d053fab513196442ae2c40637}
+      \strng{authorbibnamehash}{680f977d053fab513196442ae2c40637}
+      \strng{authornamehash}{680f977d053fab513196442ae2c40637}
+      \strng{authorfullhash}{680f977d053fab513196442ae2c40637}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{On the Typology of the {{Jespersen}} Cycles}
+      \field{year}{2016}
     \endentry
     \entry{pichi}{book}{}
       \name{author}{1}{}{%

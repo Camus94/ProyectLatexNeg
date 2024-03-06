@@ -2,72 +2,73 @@
 \contentsline {section}{Lista de abreviaturas}{4}{section*.1}%
 \contentsline {section}{Introducción}{5}{section*.2}%
 \contentsline {subsection}{Sobre la definición de negación}{6}{section*.3}%
-\contentsline {part}{I\hspace {1em}Ejemplos sobre el fenómeno de la negación}{7}{part.1}%
-\contentsline {chapter}{\numberline {1}Lenguas de México}{8}{chapter.1}%
-\contentsline {section}{Acateco de la frontera sur}{9}{section*.4}%
-\contentsline {section}{Chatino de Zacatepec}{10}{section*.5}%
-\contentsline {section}{Chichimeco Jonaz}{11}{section*.6}%
-\contentsline {section}{Chinanteco de Lealao}{12}{section*.7}%
-\contentsline {section}{Chontal de san Pedro Huamelula}{13}{section*.8}%
-\contentsline {section}{Chontal de Tabasco}{14}{section*.9}%
-\contentsline {section}{Huave de San Mateo del Mar}{15}{section*.10}%
-\contentsline {section}{Huichol}{16}{section*.11}%
-\contentsline {section}{Lacandon}{17}{section*.12}%
-\contentsline {section}{Mixe de Ayutla}{18}{section*.13}%
-\contentsline {section}{Mixteco de San Andrés Yutatío}{19}{section*.14}%
-\contentsline {section}{Oluteco}{20}{section*.15}%
-\contentsline {section}{Otomí de San Ildefonso}{21}{section*.16}%
-\contentsline {section}{Sierra Popoluca}{22}{section*.17}%
-\contentsline {section}{Seri}{23}{section*.18}%
-\contentsline {section}{Tarahumara}{24}{section*.19}%
-\contentsline {section}{Tepehua de Huehuetla}{25}{section*.20}%
-\contentsline {section}{Tepehuano del sur}{26}{section*.21}%
-\contentsline {section}{Tlahuica de San Juan Atzingo}{27}{section*.22}%
-\contentsline {section}{Tlapaneco}{28}{section*.23}%
-\contentsline {section}{Totonaco de Tuxtla}{29}{section*.24}%
-\contentsline {section}{Triqui de Copala}{30}{section*.25}%
-\contentsline {section}{Tsotsil}{31}{section*.26}%
-\contentsline {section}{Zapoteco de Zoochina}{32}{section*.27}%
-\contentsline {section}{Zoque de San Miguel Chimalapa}{33}{section*.28}%
-\contentsline {chapter}{\numberline {2}Lenguas del resto del continente americano}{34}{chapter.2}%
-\contentsline {section}{Aguaruna}{35}{section*.29}%
-\contentsline {section}{Awa Pit}{36}{section*.30}%
-\contentsline {section}{Cavineña}{37}{section*.31}%
-\contentsline {section}{Chimariko}{39}{section*.32}%
-\contentsline {section}{Choctaw}{40}{section*.33}%
-\contentsline {section}{Garífuna}{41}{section*.34}%
-\contentsline {section}{Hup}{42}{section*.35}%
-\contentsline {section}{Kakataibo}{43}{section*.36}%
-\contentsline {section}{Kamsá}{44}{section*.37}%
-\contentsline {section}{Mapuche}{45}{section*.38}%
-\contentsline {section}{Maricopa}{46}{section*.39}%
-\contentsline {section}{Namtrik de Totoró}{47}{section*.40}%
-\contentsline {section}{Ngäbére}{48}{section*.41}%
-\contentsline {section}{Pima bajo}{49}{section*.42}%
-\contentsline {section}{Sabanê}{50}{section*.43}%
-\contentsline {section}{Wampis}{51}{section*.44}%
-\contentsline {section}{Wappo}{52}{section*.45}%
-\contentsline {section}{Wari'}{53}{section*.46}%
-\contentsline {section}{Yauyos Quechua}{54}{section*.47}%
-\contentsline {chapter}{\numberline {3}Lenguas del resto del mundo}{55}{chapter.3}%
-\contentsline {section}{Fwe}{56}{section*.48}%
-\contentsline {section}{Gyeli}{57}{section*.49}%
-\contentsline {section}{Jamsay}{58}{section*.50}%
-\contentsline {section}{Japhug}{59}{section*.51}%
-\contentsline {section}{Kalamang}{60}{section*.52}%
-\contentsline {section}{Komnzo}{61}{section*.53}%
-\contentsline {section}{Madurese}{62}{section*.54}%
-\contentsline {section}{Mauwake}{63}{section*.55}%
-\contentsline {section}{Moloko}{64}{section*.56}%
-\contentsline {section}{Mongsen}{65}{section*.57}%
-\contentsline {section}{Palula}{66}{section*.58}%
-\contentsline {section}{Papuan Malay}{67}{section*.59}%
-\contentsline {section}{Pichi}{68}{section*.60}%
-\contentsline {section}{Toqabaqita}{69}{section*.61}%
-\contentsline {part}{II\hspace {1em}Síntesis de las estrategias}{70}{part.2}%
-\contentsline {section}{Lenguas de México - Estrategias}{71}{section*.62}%
-\contentsline {section}{Lenguas del resto de américa}{73}{section*.63}%
-\contentsline {section}{Lenguas del resto del mundo}{75}{section*.64}%
-\contentsline {part}{III\hspace {1em}Conclusiones}{77}{part.3}%
-\contentsline {section}{Conclusiones}{78}{section*.65}%
-\contentsline {section}{Bibliografía}{82}{chapter*.66}%
+\contentsline {part}{I\hspace {1em}Presupuestos teóricos}{8}{part.1}%
+\contentsline {part}{II\hspace {1em}Ejemplos sobre el fenómeno de la negación}{10}{part.2}%
+\contentsline {chapter}{\numberline {1}Lenguas de México}{11}{chapter.1}%
+\contentsline {section}{Acateco de la frontera sur}{12}{section*.5}%
+\contentsline {section}{Chatino de Zacatepec}{13}{section*.6}%
+\contentsline {section}{Chichimeco Jonaz}{14}{section*.7}%
+\contentsline {section}{Chinanteco de Lealao}{15}{section*.8}%
+\contentsline {section}{Chontal de san Pedro Huamelula}{16}{section*.9}%
+\contentsline {section}{Chontal de Tabasco}{17}{section*.10}%
+\contentsline {section}{Huave de San Mateo del Mar}{18}{section*.11}%
+\contentsline {section}{Huichol}{19}{section*.12}%
+\contentsline {section}{Lacandon}{20}{section*.13}%
+\contentsline {section}{Mixe de Ayutla}{21}{section*.14}%
+\contentsline {section}{Mixteco de San Andrés Yutatío}{22}{section*.15}%
+\contentsline {section}{Oluteco}{23}{section*.16}%
+\contentsline {section}{Otomí de San Ildefonso}{24}{section*.17}%
+\contentsline {section}{Sierra Popoluca}{25}{section*.18}%
+\contentsline {section}{Seri}{26}{section*.19}%
+\contentsline {section}{Tarahumara}{27}{section*.20}%
+\contentsline {section}{Tepehua de Huehuetla}{28}{section*.21}%
+\contentsline {section}{Tepehuano del sur}{29}{section*.22}%
+\contentsline {section}{Tlahuica de San Juan Atzingo}{30}{section*.23}%
+\contentsline {section}{Tlapaneco}{31}{section*.24}%
+\contentsline {section}{Totonaco de Tuxtla}{32}{section*.25}%
+\contentsline {section}{Triqui de Copala}{33}{section*.26}%
+\contentsline {section}{Tsotsil}{34}{section*.27}%
+\contentsline {section}{Zapoteco de Zoochina}{35}{section*.28}%
+\contentsline {section}{Zoque de San Miguel Chimalapa}{36}{section*.29}%
+\contentsline {chapter}{\numberline {2}Lenguas del resto del continente americano}{37}{chapter.2}%
+\contentsline {section}{Aguaruna}{38}{section*.30}%
+\contentsline {section}{Awa Pit}{39}{section*.31}%
+\contentsline {section}{Cavineña}{40}{section*.32}%
+\contentsline {section}{Chimariko}{42}{section*.33}%
+\contentsline {section}{Choctaw}{43}{section*.34}%
+\contentsline {section}{Garífuna}{44}{section*.35}%
+\contentsline {section}{Hup}{45}{section*.36}%
+\contentsline {section}{Kakataibo}{46}{section*.37}%
+\contentsline {section}{Kamsá}{47}{section*.38}%
+\contentsline {section}{Mapuche}{48}{section*.39}%
+\contentsline {section}{Maricopa}{49}{section*.40}%
+\contentsline {section}{Namtrik de Totoró}{50}{section*.41}%
+\contentsline {section}{Ngäbére}{51}{section*.42}%
+\contentsline {section}{Pima bajo}{52}{section*.43}%
+\contentsline {section}{Sabanê}{53}{section*.44}%
+\contentsline {section}{Wampis}{54}{section*.45}%
+\contentsline {section}{Wappo}{55}{section*.46}%
+\contentsline {section}{Wari'}{56}{section*.47}%
+\contentsline {section}{Yauyos Quechua}{57}{section*.48}%
+\contentsline {chapter}{\numberline {3}Lenguas del resto del mundo}{58}{chapter.3}%
+\contentsline {section}{Fwe}{59}{section*.49}%
+\contentsline {section}{Gyeli}{60}{section*.50}%
+\contentsline {section}{Jamsay}{61}{section*.51}%
+\contentsline {section}{Japhug}{62}{section*.52}%
+\contentsline {section}{Kalamang}{63}{section*.53}%
+\contentsline {section}{Komnzo}{64}{section*.54}%
+\contentsline {section}{Madurese}{65}{section*.55}%
+\contentsline {section}{Mauwake}{66}{section*.56}%
+\contentsline {section}{Moloko}{67}{section*.57}%
+\contentsline {section}{Mongsen}{68}{section*.58}%
+\contentsline {section}{Palula}{69}{section*.59}%
+\contentsline {section}{Papuan Malay}{70}{section*.60}%
+\contentsline {section}{Pichi}{71}{section*.61}%
+\contentsline {section}{Toqabaqita}{72}{section*.62}%
+\contentsline {part}{III\hspace {1em}Síntesis de las estrategias}{73}{part.3}%
+\contentsline {section}{Lenguas de México - Estrategias}{74}{section*.63}%
+\contentsline {section}{Lenguas del resto de américa}{76}{section*.64}%
+\contentsline {section}{Lenguas del resto del mundo}{78}{section*.65}%
+\contentsline {part}{IV\hspace {1em}Conclusiones}{80}{part.4}%
+\contentsline {section}{Conclusiones}{81}{section*.66}%
+\contentsline {section}{Bibliografía}{85}{chapter*.67}%
