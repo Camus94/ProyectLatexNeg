@@ -549,6 +549,46 @@
       \verb C:\Users\jesus\Zotero\storage\P8VZDBZR\Delgado Galván - 2004 - Descripción del orden básico de palabras en Yokot'.pdf
       \endverb
     \endentry
+    \entry{Devos2013}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3fedf8e73ffa7d4df8783c259161266d}{%
+           family={Devos},
+           familyi={D\bibinitperiod},
+           given={Maud},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82a11fb556cd66806ce9d63efd114e9b}{%
+           family={{Van der Auwera}},
+           familyi={V\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter Mouton}%
+      }
+      \strng{namehash}{66702a78e46848eda6dfa4ccc5eba2f8}
+      \strng{fullhash}{66702a78e46848eda6dfa4ccc5eba2f8}
+      \strng{bibnamehash}{66702a78e46848eda6dfa4ccc5eba2f8}
+      \strng{authorbibnamehash}{66702a78e46848eda6dfa4ccc5eba2f8}
+      \strng{authornamehash}{66702a78e46848eda6dfa4ccc5eba2f8}
+      \strng{authorfullhash}{66702a78e46848eda6dfa4ccc5eba2f8}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1613-3811}
+      \field{journaltitle}{Journal of African Languages and Linguistics}
+      \field{number}{2}
+      \field{title}{Jespersen Cycles in {{Bantu}}: {{Double}} and Triple Negation}
+      \field{volume}{34}
+      \field{year}{2013}
+      \field{pages}{205\bibrangedash 274}
+      \range{pages}{70}
+    \endentry
     \entry{komzo}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=02747349fbd4dbe92ee3530f460abea1}{%
@@ -580,6 +620,35 @@
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\P4D6887Z\Döhler - 2018 - A grammar of komnzo.pdf
       \endverb
+    \endentry
+    \entry{Doornenbal2009}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0e703b8d0a9e3fdb92ddd3850750abd2}{%
+           family={Doornenbal},
+           familyi={D\bibinitperiod},
+           given={Marius},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Leiden University}%
+      }
+      \strng{namehash}{0e703b8d0a9e3fdb92ddd3850750abd2}
+      \strng{fullhash}{0e703b8d0a9e3fdb92ddd3850750abd2}
+      \strng{bibnamehash}{0e703b8d0a9e3fdb92ddd3850750abd2}
+      \strng{authorbibnamehash}{0e703b8d0a9e3fdb92ddd3850750abd2}
+      \strng{authornamehash}{0e703b8d0a9e3fdb92ddd3850750abd2}
+      \strng{authorfullhash}{0e703b8d0a9e3fdb92ddd3850750abd2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of {{Bantawa}}: {{Grammar}}, Paradigm Tables, Glossary and Texts of a {{Rai}} Language of {{Eastern Nepal}}}
+      \field{type}{Php}
+      \field{year}{2009}
     \endentry
     \entry{morfemas}{inbook}{}
       \name{author}{1}{}{%
@@ -632,6 +701,35 @@
       \verb{doi}
       \verb 10.5281/zenodo.7385533
       \endverb
+    \endentry
+    \entry{Early1994}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=14d89e103dd67a865f846ad225a20188}{%
+           family={Early},
+           familyi={E\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {The Australian National University (Australia)}%
+      }
+      \strng{namehash}{14d89e103dd67a865f846ad225a20188}
+      \strng{fullhash}{14d89e103dd67a865f846ad225a20188}
+      \strng{bibnamehash}{14d89e103dd67a865f846ad225a20188}
+      \strng{authorbibnamehash}{14d89e103dd67a865f846ad225a20188}
+      \strng{authornamehash}{14d89e103dd67a865f846ad225a20188}
+      \strng{authorfullhash}{14d89e103dd67a865f846ad225a20188}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of {{Lewo}}, {{Vanuatu}}}
+      \field{type}{phdthesis}
+      \field{year}{1994}
     \endentry
     \entry{hup}{book}{}
       \name{author}{1}{}{%
@@ -1462,6 +1560,56 @@
       \verb C:\Users\jesus\Zotero\storage\S73WEC6R\Marlett - 1981 - The structure of seri.pdf
       \endverb
     \endentry
+    \entry{Michael2014}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c399a76a33bed66f5757b6d25d15bc3d}{%
+           family={Michael},
+           familyi={M\bibinitperiod},
+           given={Lev},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=c399a76a33bed66f5757b6d25d15bc3d}{%
+           family={Michael},
+           familyi={M\bibinitperiod},
+           given={Lev},
+           giveni={L\bibinitperiod}}}%
+        {{hash=87b31e4565ab5e3699093e6dae7ac32f}{%
+           family={Granadillo},
+           familyi={G\bibinitperiod},
+           given={Tania},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{c399a76a33bed66f5757b6d25d15bc3d}
+      \strng{fullhash}{c399a76a33bed66f5757b6d25d15bc3d}
+      \strng{bibnamehash}{c399a76a33bed66f5757b6d25d15bc3d}
+      \strng{authorbibnamehash}{c399a76a33bed66f5757b6d25d15bc3d}
+      \strng{authornamehash}{c399a76a33bed66f5757b6d25d15bc3d}
+      \strng{authorfullhash}{c399a76a33bed66f5757b6d25d15bc3d}
+      \strng{editorbibnamehash}{8b21fdbaf4107b2bd5b97c068732b7e8}
+      \strng{editornamehash}{8b21fdbaf4107b2bd5b97c068732b7e8}
+      \strng{editorfullhash}{8b21fdbaf4107b2bd5b97c068732b7e8}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Negation in {{Arawak}} Languages}
+      \field{isbn}{90-04-25702-0}
+      \field{title}{Negation in {{Nanti}}}
+      \field{year}{2014}
+      \field{pages}{184\bibrangedash 215}
+      \range{pages}{32}
+    \endentry
     \entry{Miestamo2005}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=898dbabcab452b2f2856a7bd9d9875db}{%
@@ -1544,6 +1692,68 @@
       \verb{doi}
       \verb 10.5281/zenodo.7385533
       \endverb
+    \endentry
+    \entry{Mosonyi2000}{inbook}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2910064ae38d5b607915b036b0c748f3}{%
+           family={Mosonyi},
+           familyi={M\bibinitperiod},
+           given={Esteban\bibnamedelima Emilio},
+           giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d217b6d9dd7f6c899f6bedc5e48b4b70}{%
+           family={Monsoyi},
+           familyi={M\bibinitperiod},
+           given={Jorge\bibnamedelima Carlos},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed09cdc841defa8547bd012dbefe7547}{%
+           family={Tamainco},
+           familyi={T\bibinitperiod},
+           given={Pedro\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=e01ab2954c6a23e14fdf5f5a97aadd74}{%
+           family={Monsoyi},
+           familyi={M\bibinitperiod},
+           given={Esteban\bibnamedelima Emilio},
+           giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=d217b6d9dd7f6c899f6bedc5e48b4b70}{%
+           family={Monsoyi},
+           familyi={M\bibinitperiod},
+           given={Jorge\bibnamedelima Carlos},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Caracas}%
+      }
+      \list{publisher}{1}{%
+        {Fundación Bigott}%
+      }
+      \strng{namehash}{4dfb7b4d0f9bfac666839b0de4dd2f20}
+      \strng{fullhash}{82ac4656739c40f87714827c7306464b}
+      \strng{bibnamehash}{82ac4656739c40f87714827c7306464b}
+      \strng{authorbibnamehash}{82ac4656739c40f87714827c7306464b}
+      \strng{authornamehash}{4dfb7b4d0f9bfac666839b0de4dd2f20}
+      \strng{authorfullhash}{82ac4656739c40f87714827c7306464b}
+      \strng{editorbibnamehash}{64f8854787a5b1f3be97882697bd2532}
+      \strng{editornamehash}{64f8854787a5b1f3be97882697bd2532}
+      \strng{editorfullhash}{64f8854787a5b1f3be97882697bd2532}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Manual de Lenguas Indígenas de {{Venezuela}}}
+      \field{title}{Kariña}
+      \field{volume}{2}
+      \field{year}{2000}
+      \field{pages}{398\bibrangedash 450}
+      \range{pages}{53}
     \endentry
     \entry{ngabere}{article}{}
       \name{author}{1}{}{%
@@ -2935,6 +3145,46 @@
       \verb C:\Users\jesus\Zotero\storage\P8VZDBZR\Delgado Galván - 2004 - Descripción del orden básico de palabras en Yokot'.pdf
       \endverb
     \endentry
+    \entry{Devos2013}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3fedf8e73ffa7d4df8783c259161266d}{%
+           family={Devos},
+           familyi={D\bibinitperiod},
+           given={Maud},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82a11fb556cd66806ce9d63efd114e9b}{%
+           family={{Van der Auwera}},
+           familyi={V\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter Mouton}%
+      }
+      \strng{namehash}{66702a78e46848eda6dfa4ccc5eba2f8}
+      \strng{fullhash}{66702a78e46848eda6dfa4ccc5eba2f8}
+      \strng{bibnamehash}{66702a78e46848eda6dfa4ccc5eba2f8}
+      \strng{authorbibnamehash}{66702a78e46848eda6dfa4ccc5eba2f8}
+      \strng{authornamehash}{66702a78e46848eda6dfa4ccc5eba2f8}
+      \strng{authorfullhash}{66702a78e46848eda6dfa4ccc5eba2f8}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1613-3811}
+      \field{journaltitle}{Journal of African Languages and Linguistics}
+      \field{number}{2}
+      \field{title}{Jespersen Cycles in {{Bantu}}: {{Double}} and Triple Negation}
+      \field{volume}{34}
+      \field{year}{2013}
+      \field{pages}{205\bibrangedash 274}
+      \range{pages}{70}
+    \endentry
     \entry{komzo}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=02747349fbd4dbe92ee3530f460abea1}{%
@@ -2966,6 +3216,35 @@
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\P4D6887Z\Döhler - 2018 - A grammar of komnzo.pdf
       \endverb
+    \endentry
+    \entry{Doornenbal2009}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0e703b8d0a9e3fdb92ddd3850750abd2}{%
+           family={Doornenbal},
+           familyi={D\bibinitperiod},
+           given={Marius},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Leiden University}%
+      }
+      \strng{namehash}{0e703b8d0a9e3fdb92ddd3850750abd2}
+      \strng{fullhash}{0e703b8d0a9e3fdb92ddd3850750abd2}
+      \strng{bibnamehash}{0e703b8d0a9e3fdb92ddd3850750abd2}
+      \strng{authorbibnamehash}{0e703b8d0a9e3fdb92ddd3850750abd2}
+      \strng{authornamehash}{0e703b8d0a9e3fdb92ddd3850750abd2}
+      \strng{authorfullhash}{0e703b8d0a9e3fdb92ddd3850750abd2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of {{Bantawa}}: {{Grammar}}, Paradigm Tables, Glossary and Texts of a {{Rai}} Language of {{Eastern Nepal}}}
+      \field{type}{Php}
+      \field{year}{2009}
     \endentry
     \entry{morfemas}{inbook}{}
       \name{author}{1}{}{%
@@ -3018,6 +3297,35 @@
       \verb{doi}
       \verb 10.5281/zenodo.7385533
       \endverb
+    \endentry
+    \entry{Early1994}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=14d89e103dd67a865f846ad225a20188}{%
+           family={Early},
+           familyi={E\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {The Australian National University (Australia)}%
+      }
+      \strng{namehash}{14d89e103dd67a865f846ad225a20188}
+      \strng{fullhash}{14d89e103dd67a865f846ad225a20188}
+      \strng{bibnamehash}{14d89e103dd67a865f846ad225a20188}
+      \strng{authorbibnamehash}{14d89e103dd67a865f846ad225a20188}
+      \strng{authornamehash}{14d89e103dd67a865f846ad225a20188}
+      \strng{authorfullhash}{14d89e103dd67a865f846ad225a20188}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Grammar of {{Lewo}}, {{Vanuatu}}}
+      \field{type}{phdthesis}
+      \field{year}{1994}
     \endentry
     \entry{hup}{book}{}
       \name{author}{1}{}{%
@@ -3848,6 +4156,56 @@
       \verb C:\Users\jesus\Zotero\storage\S73WEC6R\Marlett - 1981 - The structure of seri.pdf
       \endverb
     \endentry
+    \entry{Michael2014}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c399a76a33bed66f5757b6d25d15bc3d}{%
+           family={Michael},
+           familyi={M\bibinitperiod},
+           given={Lev},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=c399a76a33bed66f5757b6d25d15bc3d}{%
+           family={Michael},
+           familyi={M\bibinitperiod},
+           given={Lev},
+           giveni={L\bibinitperiod}}}%
+        {{hash=87b31e4565ab5e3699093e6dae7ac32f}{%
+           family={Granadillo},
+           familyi={G\bibinitperiod},
+           given={Tania},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{c399a76a33bed66f5757b6d25d15bc3d}
+      \strng{fullhash}{c399a76a33bed66f5757b6d25d15bc3d}
+      \strng{bibnamehash}{c399a76a33bed66f5757b6d25d15bc3d}
+      \strng{authorbibnamehash}{c399a76a33bed66f5757b6d25d15bc3d}
+      \strng{authornamehash}{c399a76a33bed66f5757b6d25d15bc3d}
+      \strng{authorfullhash}{c399a76a33bed66f5757b6d25d15bc3d}
+      \strng{editorbibnamehash}{8b21fdbaf4107b2bd5b97c068732b7e8}
+      \strng{editornamehash}{8b21fdbaf4107b2bd5b97c068732b7e8}
+      \strng{editorfullhash}{8b21fdbaf4107b2bd5b97c068732b7e8}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Negation in {{Arawak}} Languages}
+      \field{isbn}{90-04-25702-0}
+      \field{title}{Negation in {{Nanti}}}
+      \field{year}{2014}
+      \field{pages}{184\bibrangedash 215}
+      \range{pages}{32}
+    \endentry
     \entry{Miestamo2005}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=898dbabcab452b2f2856a7bd9d9875db}{%
@@ -3930,6 +4288,68 @@
       \verb{doi}
       \verb 10.5281/zenodo.7385533
       \endverb
+    \endentry
+    \entry{Mosonyi2000}{inbook}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2910064ae38d5b607915b036b0c748f3}{%
+           family={Mosonyi},
+           familyi={M\bibinitperiod},
+           given={Esteban\bibnamedelima Emilio},
+           giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d217b6d9dd7f6c899f6bedc5e48b4b70}{%
+           family={Monsoyi},
+           familyi={M\bibinitperiod},
+           given={Jorge\bibnamedelima Carlos},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed09cdc841defa8547bd012dbefe7547}{%
+           family={Tamainco},
+           familyi={T\bibinitperiod},
+           given={Pedro\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=e01ab2954c6a23e14fdf5f5a97aadd74}{%
+           family={Monsoyi},
+           familyi={M\bibinitperiod},
+           given={Esteban\bibnamedelima Emilio},
+           giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=d217b6d9dd7f6c899f6bedc5e48b4b70}{%
+           family={Monsoyi},
+           familyi={M\bibinitperiod},
+           given={Jorge\bibnamedelima Carlos},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Caracas}%
+      }
+      \list{publisher}{1}{%
+        {Fundación Bigott}%
+      }
+      \strng{namehash}{4dfb7b4d0f9bfac666839b0de4dd2f20}
+      \strng{fullhash}{82ac4656739c40f87714827c7306464b}
+      \strng{bibnamehash}{82ac4656739c40f87714827c7306464b}
+      \strng{authorbibnamehash}{82ac4656739c40f87714827c7306464b}
+      \strng{authornamehash}{4dfb7b4d0f9bfac666839b0de4dd2f20}
+      \strng{authorfullhash}{82ac4656739c40f87714827c7306464b}
+      \strng{editorbibnamehash}{64f8854787a5b1f3be97882697bd2532}
+      \strng{editornamehash}{64f8854787a5b1f3be97882697bd2532}
+      \strng{editorfullhash}{64f8854787a5b1f3be97882697bd2532}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Manual de Lenguas Indígenas de {{Venezuela}}}
+      \field{title}{Kariña}
+      \field{volume}{2}
+      \field{year}{2000}
+      \field{pages}{398\bibrangedash 450}
+      \range{pages}{53}
     \endentry
     \entry{ngabere}{article}{}
       \name{author}{1}{}{%
