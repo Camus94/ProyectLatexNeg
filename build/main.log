@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.26)  7 MAR 2024 23:37
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.26)  20 MAR 2024 16:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -799,13 +799,13 @@ Package fontspec Info: Font family 'CharisSIL(0)' created for font 'Charis
 
 [9
 
-] [10]) [11] [12] [13
+] [10] [11] [12]) [13] [14
 
 
 
 ]
 Capítulo 1.
-[14
+[15
 
 ]
 \openout2 = `mexico/acateco.aux'.
@@ -813,12 +813,12 @@ Capítulo 1.
  (mexico/acateco.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 6.
-) [15
+) [16
 
 ]
 \openout2 = `mexico/chatino.aux'.
 
- (mexico/chatino.tex) [16
+ (mexico/chatino.tex) [17
 
 
 
@@ -850,56 +850,56 @@ Package fontspec Info: Font family 'DoulosSIL(0)' created for font 'Doulos
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Doulos
 (fontspec)             SIL/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 
-) [17
+) [18
 
 
 
 ]
 \openout2 = `mexico/chinanteco.aux'.
 
- (mexico/chinanteco.tex) [18
+ (mexico/chinanteco.tex) [19
 
 
 
 ]
 \openout2 = `mexico/chontalOaxaca.aux'.
 
- (mexico/chontalOaxaca.tex) [19
+ (mexico/chontalOaxaca.tex) [20
 
 
 
 ]
 \openout2 = `mexico/chontalTabasco.aux'.
 
- (mexico/chontalTabasco.tex) [20
+ (mexico/chontalTabasco.tex) [21
 
 
 
 ]
 \openout2 = `mexico/huave.aux'.
 
- (mexico/huave.tex) [21
+ (mexico/huave.tex) [22
 
 
 
 ]
 \openout2 = `mexico/huichol.aux'.
 
- (mexico/huichol.tex) [22
+ (mexico/huichol.tex) [23
 
 
 
 ]
 \openout2 = `mexico/lacandon.aux'.
 
- (mexico/lacandon.tex) [23
+ (mexico/lacandon.tex) [24
 
 
 
 ]
 \openout2 = `mexico/mixe.aux'.
 
- (mexico/mixe.tex) [24
+ (mexico/mixe.tex) [25
 
 
 
@@ -909,348 +909,348 @@ Package fontspec Info: Font family 'DoulosSIL(0)' created for font 'Doulos
  (mexico/mixteco.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 14.
-) [25
+) [26
 
 
 
 ]
 \openout2 = `mexico/oluteco.aux'.
 
- (mexico/oluteco.tex) [26
+ (mexico/oluteco.tex) [27
 
 
 
 ]
 \openout2 = `mexico/otomí.aux'.
 
- (mexico/otomí.tex) [27
+ (mexico/otomí.tex) [28
 
 
 
 ]
 \openout2 = `mexico/popoluca.aux'.
 
- (mexico/popoluca.tex) [28
+ (mexico/popoluca.tex) [29
 
 
 
 ]
 \openout2 = `mexico/seri.aux'.
 
- (mexico/seri.tex) [29
+ (mexico/seri.tex) [30
 
 
 
 ]
 \openout2 = `mexico/tarahumara.aux'.
 
- (mexico/tarahumara.tex) [30
+ (mexico/tarahumara.tex) [31
 
 
 
 ]
 \openout2 = `mexico/tepehua.aux'.
 
- (mexico/tepehua.tex) [31
+ (mexico/tepehua.tex) [32
 
 
 
 ]
 \openout2 = `mexico/tepehuano.aux'.
 
- (mexico/tepehuano.tex) [32
+ (mexico/tepehuano.tex) [33
 
 
 
 ]
 \openout2 = `mexico/tlahuica.aux'.
 
- (mexico/tlahuica.tex) [33
+ (mexico/tlahuica.tex) [34
 
 
 
 ]
 \openout2 = `mexico/tlapaneco.aux'.
 
- (mexico/tlapaneco.tex) [34
+ (mexico/tlapaneco.tex) [35
 
 
 
 ]
 \openout2 = `mexico/totonaco.aux'.
 
- (mexico/totonaco.tex) [35
+ (mexico/totonaco.tex) [36
 
 
 
 ]
 \openout2 = `mexico/triqui.aux'.
 
- (mexico/triqui.tex) [36
+ (mexico/triqui.tex) [37
 
 
 
 ]
 \openout2 = `mexico/tsotsil.aux'.
 
- (mexico/tsotsil.tex) [37
+ (mexico/tsotsil.tex) [38
 
 
 
 ]
 \openout2 = `mexico/zapoteco.aux'.
 
- (mexico/zapoteco.tex) [38
+ (mexico/zapoteco.tex) [39
 
 
 
 ]
 \openout2 = `mexico/zoque.aux'.
 
- (mexico/zoque.tex) [39
+ (mexico/zoque.tex) [40
 
 
 
 ]
 Capítulo 2.
-[40
+[41
 
 
 
 ]
 \openout2 = `america/aguaruna.aux'.
 
- (america/aguaruna.tex) [41
+ (america/aguaruna.tex) [42
 
 ]
 \openout2 = `america/awapit.aux'.
 
- (america/awapit.tex) [42
+ (america/awapit.tex) [43
 
 
 
 ]
 \openout2 = `america/cavinena.aux'.
 
- (america/cavinena.tex [43
+ (america/cavinena.tex [44
 
 
 
-]) [44]
+]) [45]
 \openout2 = `america/chimariko.aux'.
 
- (america/chimariko.tex) [45
+ (america/chimariko.tex) [46
 
 
 
 ]
 \openout2 = `america/choctaw.aux'.
 
- (america/choctaw.tex) [46
+ (america/choctaw.tex) [47
 
 
 
 ]
 \openout2 = `america/garifuna.aux'.
 
- (america/garifuna.tex) [47
+ (america/garifuna.tex) [48
 
 
 
 ]
 \openout2 = `america/hup.aux'.
 
- (america/hup.tex) [48
+ (america/hup.tex) [49
 
 
 
 ]
 \openout2 = `america/kakataibo.aux'.
 
- (america/kakataibo.tex) [49
+ (america/kakataibo.tex) [50
 
 
 
 ]
 \openout2 = `america/kamsa.aux'.
 
- (america/kamsa.tex) [50
+ (america/kamsa.tex) [51
 
 
 
 ]
 \openout2 = `america/mapuche.aux'.
 
- (america/mapuche.tex) [51
+ (america/mapuche.tex) [52
 
 
 
 ]
 \openout2 = `america/maricopa.aux'.
 
- (america/maricopa.tex) [52
+ (america/maricopa.tex) [53
 
 
 
 ]
 \openout2 = `america/namtrik.aux'.
 
- (america/namtrik.tex) [53
+ (america/namtrik.tex) [54
 
 
 
 ]
 \openout2 = `america/ngabere.aux'.
 
- (america/ngabere.tex) [54
+ (america/ngabere.tex) [55
 
 
 
 ]
 \openout2 = `america/pimabajo.aux'.
 
- (america/pimabajo.tex) [55
+ (america/pimabajo.tex) [56
 
 
 
 ]
 \openout2 = `america/sabane.aux'.
 
- (america/sabane.tex) [56
+ (america/sabane.tex) [57
 
 
 
 ]
 \openout2 = `america/wampis.aux'.
 
- (america/wampis.tex) [57
+ (america/wampis.tex) [58
 
 
 
 ]
 \openout2 = `america/wappo.aux'.
 
- (america/wappo.tex) [58
+ (america/wappo.tex) [59
 
 
 
 ]
 \openout2 = `america/wari.aux'.
 
- (america/wari.tex) [59
+ (america/wari.tex) [60
 
 
 
 ]
 \openout2 = `america/yauyos.aux'.
 
- (america/yauyos.tex) [60
+ (america/yauyos.tex) [61
 
 
 
 ]
 Capítulo 3.
-[61
+[62
 
 
 
 ]
 \openout2 = `mundo/fwe.aux'.
 
- (mundo/fwe.tex) [62
+ (mundo/fwe.tex) [63
 
 ]
 \openout2 = `mundo/gyeli.aux'.
 
- (mundo/gyeli.tex) [63
+ (mundo/gyeli.tex) [64
 
 
 
 ]
 \openout2 = `mundo/jamsay.aux'.
 
- (mundo/jamsay.tex) [64
+ (mundo/jamsay.tex) [65
 
 
 
 ]
 \openout2 = `mundo/japhug.aux'.
 
- (mundo/japhug.tex) [65
+ (mundo/japhug.tex) [66
 
 
 
 ]
 \openout2 = `mundo/kalamang.aux'.
 
- (mundo/kalamang.tex) [66
+ (mundo/kalamang.tex) [67
 
 
 
 ]
 \openout2 = `mundo/komnzo.aux'.
 
- (mundo/komnzo.tex) [67
+ (mundo/komnzo.tex) [68
 
 
 
 ]
 \openout2 = `mundo/madurese.aux'.
 
- (mundo/madurese.tex) [68
+ (mundo/madurese.tex) [69
 
 
 
 ]
 \openout2 = `mundo/mauwake.aux'.
 
- (mundo/mauwake.tex) [69
+ (mundo/mauwake.tex) [70
 
 
 
 ]
 \openout2 = `mundo/moloko.aux'.
 
- (mundo/moloko.tex) [70
+ (mundo/moloko.tex) [71
 
 
 
 ]
 \openout2 = `mundo/mongsen.aux'.
 
- (mundo/mongsen.tex) [71
+ (mundo/mongsen.tex) [72
 
 
 
 ]
 \openout2 = `mundo/palula.aux'.
 
- (mundo/palula.tex) [72
+ (mundo/palula.tex) [73
 
 
 
 ]
 \openout2 = `mundo/papuan.aux'.
 
- (mundo/papuan.tex) [73
+ (mundo/papuan.tex) [74
 
 
 
 ]
 \openout2 = `mundo/pichi.aux'.
 
- (mundo/pichi.tex) [74
+ (mundo/pichi.tex) [75
 
 
 
 ]
 \openout2 = `mundo/toqabaqita.aux'.
 
- (mundo/toqabaqita.tex) [75
+ (mundo/toqabaqita.tex) [76
 
 
 
-] [76
+] [77
 
 
 
@@ -1262,23 +1262,23 @@ Capítulo 3.
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 2.
 
-) [77
+) [78
 
-] [78]
+] [79]
 \openout2 = `otros/cuadrosAmerica.aux'.
 
- (otros/cuadrosAmerica.tex) [79
+ (otros/cuadrosAmerica.tex) [80
 
 
 
-] [80]
+] [81]
 \openout2 = `otros/cuadrosMundo.aux'.
 
- (otros/cuadrosMundo.tex) [81
+ (otros/cuadrosMundo.tex) [82
 
 
 
-] [82] [83
+] [83] [84
 
 
 
@@ -1290,17 +1290,17 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 2.
 
-) [84
+) [85
 
 ]
 \openout2 = `otros/referencias.aux'.
 
- (otros/referencias.tex [85
+ (otros/referencias.tex [86
 
 
 
 
-] [86] [87]) [88] (c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.aux (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/portada.aux)
+] [87] [88] [89]) [90] (c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.aux (c:\Users\jesus\Desktop\ProyectLatexNeg\build\otros/portada.aux)
 LaTeX Info: Redefining \sptext on input line 24.
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
@@ -1310,18 +1310,18 @@ LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-10>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: FB8FEDB61710D7BFE970C182AFDF5141;10188.
+(rerunfilecheck)             Checksum: 9224C6572354BFA609496F6606CBB3E4;10533.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23728 strings out of 409919
- 490229 string characters out of 5780119
+ 23769 strings out of 409919
+ 491618 string characters out of 5780119
  1933674 words of memory out of 5000000
- 44773 multiletter control sequences out of 15000+600000
+ 44814 multiletter control sequences out of 15000+600000
  563442 words of font info for 108 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 71i,10n,91p,1075b,5223s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 71i,10n,91p,1075b,5313s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.xdv (89 pages, 1304364 bytes).
+Output written on c:\Users\jesus\Desktop\ProyectLatexNeg\build\main.xdv (91 pages, 1354180 bytes).

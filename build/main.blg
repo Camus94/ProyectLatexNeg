@@ -1,19 +1,19 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'build/main.blg'
-[177] biber-MSWIN64:340> INFO - === 
-[228] Biber.pm:419> INFO - Reading 'build/main.bcf'
-[440] Biber.pm:979> INFO - Found 77 citekeys in bib section 0
-[468] Biber.pm:4419> INFO - Processing section 0
-[482] Biber.pm:4610> INFO - Looking for bibtex file 'otros/library.bib' for section 0
-[567] bibtex.pm:1713> INFO - LaTeX decoding ...
-[715] bibtex.pm:1519> INFO - Found BibTeX data source 'otros/library.bib'
-[1188] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1189] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1189] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
-[1335] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1335] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1336] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
-[1420] bbl.pm:660> INFO - Writing 'build/main.bbl' with encoding 'UTF-8'
-[1504] bbl.pm:763> INFO - Output to build/main.bbl
-[1504] Biber.pm:131> WARN - ISBN '978-0-511-80457-1 978-0-521-76986-0' in entry 'lawler' is invalid - run biber with '--validate_datamodel' for details.
-[1504] Biber.pm:133> INFO - WARNINGS: 1
+[190] biber-MSWIN64:340> INFO - === 
+[246] Biber.pm:419> INFO - Reading 'build/main.bcf'
+[484] Biber.pm:979> INFO - Found 83 citekeys in bib section 0
+[521] Biber.pm:4419> INFO - Processing section 0
+[536] Biber.pm:4610> INFO - Looking for bibtex file 'otros/library.bib' for section 0
+[626] bibtex.pm:1713> INFO - LaTeX decoding ...
+[802] bibtex.pm:1519> INFO - Found BibTeX data source 'otros/library.bib'
+[1394] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1394] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1394] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[1582] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1582] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1582] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[1688] bbl.pm:660> INFO - Writing 'build/main.bbl' with encoding 'UTF-8'
+[1792] bbl.pm:763> INFO - Output to build/main.bbl
+[1793] Biber.pm:131> WARN - ISBN '978-0-511-80457-1 978-0-521-76986-0' in entry 'lawler' is invalid - run biber with '--validate_datamodel' for details.
+[1793] Biber.pm:133> INFO - WARNINGS: 1

@@ -208,6 +208,38 @@
       \verb C:\Users\jesus\Zotero\storage\LYZFI5U9\Caballero - 2022 - A grammar of choguita rarámuri In collaboration w.pdf
       \endverb
     \endentry
+    \entry{CaleroVaquera1986}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6534f4dd2480b038b740ff31a37d1e5e}{%
+           family={Calero\bibnamedelima Vaquera},
+           familyi={C\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={María\bibnamedelima Luisa},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17935d2006db35e019e3cb23d7f96034}{%
+           family={{de Molina Redondo}},
+           familyi={d\bibinitperiod},
+           given={José\bibnamedelima Andrés},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b4ce17d683360018eafbb7d171f82147}
+      \strng{fullhash}{b4ce17d683360018eafbb7d171f82147}
+      \strng{bibnamehash}{b4ce17d683360018eafbb7d171f82147}
+      \strng{authorbibnamehash}{b4ce17d683360018eafbb7d171f82147}
+      \strng{authornamehash}{b4ce17d683360018eafbb7d171f82147}
+      \strng{authorfullhash}{b4ce17d683360018eafbb7d171f82147}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{(No Title)}
+      \field{title}{Historia de La Gramática Española, 1847-1920: De {{A}}. {{Bello}} a {{R}}. {{Lenz}}}
+      \field{year}{1986}
+    \endentry
     \entry{Tlapaneco}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1e64e3c9adb145ef00ac003484567201}{%
@@ -896,6 +928,64 @@
       \verb C:\Users\jesus\Zotero\storage\L6JQXTYE\García Salido - 2014 - Clause linkage in southeastern tepehuan A uto-azt.pdf
       \endverb
     \endentry
+    \entry{GiliGaya1973}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f833131ef4b51f0b85f56c56f10ccfcf}{%
+           family={Gili\bibnamedelima Gaya},
+           familyi={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Biblioteca Hernán Malo González}%
+      }
+      \strng{namehash}{f833131ef4b51f0b85f56c56f10ccfcf}
+      \strng{fullhash}{f833131ef4b51f0b85f56c56f10ccfcf}
+      \strng{bibnamehash}{f833131ef4b51f0b85f56c56f10ccfcf}
+      \strng{authorbibnamehash}{f833131ef4b51f0b85f56c56f10ccfcf}
+      \strng{authornamehash}{f833131ef4b51f0b85f56c56f10ccfcf}
+      \strng{authorfullhash}{f833131ef4b51f0b85f56c56f10ccfcf}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Curso Superior de Sintaxis Española}
+      \field{year}{1973}
+    \endentry
+    \entry{asencio1981}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=341234a8d038f0878c6ee6694b8261cd}{%
+           family={Gómez\bibnamedelima Asencio},
+           familyi={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={José\bibnamedelima Jesús},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{341234a8d038f0878c6ee6694b8261cd}
+      \strng{fullhash}{341234a8d038f0878c6ee6694b8261cd}
+      \strng{bibnamehash}{341234a8d038f0878c6ee6694b8261cd}
+      \strng{authorbibnamehash}{341234a8d038f0878c6ee6694b8261cd}
+      \strng{authornamehash}{341234a8d038f0878c6ee6694b8261cd}
+      \strng{authorfullhash}{341234a8d038f0878c6ee6694b8261cd}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{(No Title)}
+      \field{title}{Gramática y Categorías Verbales En La Tradición Española, 1771-1847}
+      \field{urlday}{20}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{1981}
+      \field{urldateera}{ce}
+    \endentry
     \entry{namtrik}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3645340db0298e85ce8adf65433da2e5}{%
@@ -1083,6 +1173,41 @@
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\QL6ABMCF\Heath - 2008 - A grammar of jamsay.pdf
       \endverb
+    \endentry
+    \entry{Holmberg1995}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4d07115f283137489b04549b8ce8654e}{%
+           family={Holmberg},
+           familyi={H\bibinitperiod},
+           given={Anders},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e3a02a732cdbb33b25bf17d379e8318}{%
+           family={Platzack},
+           familyi={P\bibinitperiod},
+           given={Christer},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{8432db9536e67d7765b0b88c1c699f7c}
+      \strng{fullhash}{8432db9536e67d7765b0b88c1c699f7c}
+      \strng{bibnamehash}{8432db9536e67d7765b0b88c1c699f7c}
+      \strng{authorbibnamehash}{8432db9536e67d7765b0b88c1c699f7c}
+      \strng{authornamehash}{8432db9536e67d7765b0b88c1c699f7c}
+      \strng{authorfullhash}{8432db9536e67d7765b0b88c1c699f7c}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0-19-536190-3}
+      \field{title}{The Role of Inflection in {{Scandinavian}} Syntax}
+      \field{year}{1995}
     \endentry
     \entry{hornKato}{article}{}
       \name{author}{2}{}{%
@@ -1980,6 +2105,34 @@
       \verb C:\Users\jesus\Zotero\storage\VFRNB2W3\Palancar - 2009 - Gramática y textos del hñöñhö otomí de san ildefo.pdf
       \endverb
     \endentry
+    \entry{PavonLucero2003}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2675989df07a5e3b54cf48789a777e3c}{%
+           family={Pavón\bibnamedelima Lucero},
+           familyi={P\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={María\bibnamedelima Victoria},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Visor libros}%
+      }
+      \strng{namehash}{2675989df07a5e3b54cf48789a777e3c}
+      \strng{fullhash}{2675989df07a5e3b54cf48789a777e3c}
+      \strng{bibnamehash}{2675989df07a5e3b54cf48789a777e3c}
+      \strng{authorbibnamehash}{2675989df07a5e3b54cf48789a777e3c}
+      \strng{authornamehash}{2675989df07a5e3b54cf48789a777e3c}
+      \strng{authorfullhash}{2675989df07a5e3b54cf48789a777e3c}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sintaxis de Las Partículas}
+      \field{year}{2003}
+    \endentry
     \entry{Payne85}{inbook}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5cda42dee046d70182112cf8bc4256ff}{%
@@ -2251,6 +2404,49 @@
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\6KZW4363\Smeets - 2008 - A grammar of mapuche.pdf
       \endverb
+    \endentry
+    \entry{Taraldsen1985}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7933c8b637273bdc4c8332f50856b0fc}{%
+           family={Taraldsen},
+           familyi={T\bibinitperiod},
+           given={Knut\bibnamedelima Tarald},
+           giveni={K\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=4ea16d25d6ae59bda970b47e0b5fab6b}{%
+           family={Haider},
+           familyi={H\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=350514e20f189755e7a0f82004ea4155}{%
+           family={Prinzhorn},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7933c8b637273bdc4c8332f50856b0fc}
+      \strng{fullhash}{7933c8b637273bdc4c8332f50856b0fc}
+      \strng{bibnamehash}{7933c8b637273bdc4c8332f50856b0fc}
+      \strng{authorbibnamehash}{7933c8b637273bdc4c8332f50856b0fc}
+      \strng{authornamehash}{7933c8b637273bdc4c8332f50856b0fc}
+      \strng{authorfullhash}{7933c8b637273bdc4c8332f50856b0fc}
+      \strng{editorbibnamehash}{d6649d5fc1d32132c1630d44ae6a49f6}
+      \strng{editornamehash}{d6649d5fc1d32132c1630d44ae6a49f6}
+      \strng{editorfullhash}{d6649d5fc1d32132c1630d44ae6a49f6}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Verb {{Second Phenomena}} in {{Germanic Languages}}}
+      \field{title}{On Verb Second and the Functional Content of Syntactic Categories}
+      \field{year}{1985}
+      \field{pages}{7\bibrangedash 26}
+      \range{pages}{20}
     \endentry
     \entry{wappo}{book}{}
       \name{author}{3}{}{%
@@ -2804,6 +3000,38 @@
       \verb C:\Users\jesus\Zotero\storage\LYZFI5U9\Caballero - 2022 - A grammar of choguita rarámuri In collaboration w.pdf
       \endverb
     \endentry
+    \entry{CaleroVaquera1986}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6534f4dd2480b038b740ff31a37d1e5e}{%
+           family={Calero\bibnamedelima Vaquera},
+           familyi={C\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={María\bibnamedelima Luisa},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17935d2006db35e019e3cb23d7f96034}{%
+           family={{de Molina Redondo}},
+           familyi={d\bibinitperiod},
+           given={José\bibnamedelima Andrés},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b4ce17d683360018eafbb7d171f82147}
+      \strng{fullhash}{b4ce17d683360018eafbb7d171f82147}
+      \strng{bibnamehash}{b4ce17d683360018eafbb7d171f82147}
+      \strng{authorbibnamehash}{b4ce17d683360018eafbb7d171f82147}
+      \strng{authornamehash}{b4ce17d683360018eafbb7d171f82147}
+      \strng{authorfullhash}{b4ce17d683360018eafbb7d171f82147}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{(No Title)}
+      \field{title}{Historia de La Gramática Española, 1847-1920: De {{A}}. {{Bello}} a {{R}}. {{Lenz}}}
+      \field{year}{1986}
+    \endentry
     \entry{Tlapaneco}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1e64e3c9adb145ef00ac003484567201}{%
@@ -3492,6 +3720,64 @@
       \verb C:\Users\jesus\Zotero\storage\L6JQXTYE\García Salido - 2014 - Clause linkage in southeastern tepehuan A uto-azt.pdf
       \endverb
     \endentry
+    \entry{GiliGaya1973}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f833131ef4b51f0b85f56c56f10ccfcf}{%
+           family={Gili\bibnamedelima Gaya},
+           familyi={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Biblioteca Hernán Malo González}%
+      }
+      \strng{namehash}{f833131ef4b51f0b85f56c56f10ccfcf}
+      \strng{fullhash}{f833131ef4b51f0b85f56c56f10ccfcf}
+      \strng{bibnamehash}{f833131ef4b51f0b85f56c56f10ccfcf}
+      \strng{authorbibnamehash}{f833131ef4b51f0b85f56c56f10ccfcf}
+      \strng{authornamehash}{f833131ef4b51f0b85f56c56f10ccfcf}
+      \strng{authorfullhash}{f833131ef4b51f0b85f56c56f10ccfcf}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Curso Superior de Sintaxis Española}
+      \field{year}{1973}
+    \endentry
+    \entry{asencio1981}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=341234a8d038f0878c6ee6694b8261cd}{%
+           family={Gómez\bibnamedelima Asencio},
+           familyi={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={José\bibnamedelima Jesús},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{341234a8d038f0878c6ee6694b8261cd}
+      \strng{fullhash}{341234a8d038f0878c6ee6694b8261cd}
+      \strng{bibnamehash}{341234a8d038f0878c6ee6694b8261cd}
+      \strng{authorbibnamehash}{341234a8d038f0878c6ee6694b8261cd}
+      \strng{authornamehash}{341234a8d038f0878c6ee6694b8261cd}
+      \strng{authorfullhash}{341234a8d038f0878c6ee6694b8261cd}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{(No Title)}
+      \field{title}{Gramática y Categorías Verbales En La Tradición Española, 1771-1847}
+      \field{urlday}{20}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{1981}
+      \field{urldateera}{ce}
+    \endentry
     \entry{namtrik}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3645340db0298e85ce8adf65433da2e5}{%
@@ -3679,6 +3965,41 @@
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\QL6ABMCF\Heath - 2008 - A grammar of jamsay.pdf
       \endverb
+    \endentry
+    \entry{Holmberg1995}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4d07115f283137489b04549b8ce8654e}{%
+           family={Holmberg},
+           familyi={H\bibinitperiod},
+           given={Anders},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e3a02a732cdbb33b25bf17d379e8318}{%
+           family={Platzack},
+           familyi={P\bibinitperiod},
+           given={Christer},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{8432db9536e67d7765b0b88c1c699f7c}
+      \strng{fullhash}{8432db9536e67d7765b0b88c1c699f7c}
+      \strng{bibnamehash}{8432db9536e67d7765b0b88c1c699f7c}
+      \strng{authorbibnamehash}{8432db9536e67d7765b0b88c1c699f7c}
+      \strng{authornamehash}{8432db9536e67d7765b0b88c1c699f7c}
+      \strng{authorfullhash}{8432db9536e67d7765b0b88c1c699f7c}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0-19-536190-3}
+      \field{title}{The Role of Inflection in {{Scandinavian}} Syntax}
+      \field{year}{1995}
     \endentry
     \entry{hornKato}{article}{}
       \name{author}{2}{}{%
@@ -4576,6 +4897,34 @@
       \verb C:\Users\jesus\Zotero\storage\VFRNB2W3\Palancar - 2009 - Gramática y textos del hñöñhö otomí de san ildefo.pdf
       \endverb
     \endentry
+    \entry{PavonLucero2003}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2675989df07a5e3b54cf48789a777e3c}{%
+           family={Pavón\bibnamedelima Lucero},
+           familyi={P\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={María\bibnamedelima Victoria},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Visor libros}%
+      }
+      \strng{namehash}{2675989df07a5e3b54cf48789a777e3c}
+      \strng{fullhash}{2675989df07a5e3b54cf48789a777e3c}
+      \strng{bibnamehash}{2675989df07a5e3b54cf48789a777e3c}
+      \strng{authorbibnamehash}{2675989df07a5e3b54cf48789a777e3c}
+      \strng{authornamehash}{2675989df07a5e3b54cf48789a777e3c}
+      \strng{authorfullhash}{2675989df07a5e3b54cf48789a777e3c}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sintaxis de Las Partículas}
+      \field{year}{2003}
+    \endentry
     \entry{Payne85}{inbook}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5cda42dee046d70182112cf8bc4256ff}{%
@@ -4847,6 +5196,49 @@
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\6KZW4363\Smeets - 2008 - A grammar of mapuche.pdf
       \endverb
+    \endentry
+    \entry{Taraldsen1985}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7933c8b637273bdc4c8332f50856b0fc}{%
+           family={Taraldsen},
+           familyi={T\bibinitperiod},
+           given={Knut\bibnamedelima Tarald},
+           giveni={K\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=4ea16d25d6ae59bda970b47e0b5fab6b}{%
+           family={Haider},
+           familyi={H\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=350514e20f189755e7a0f82004ea4155}{%
+           family={Prinzhorn},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7933c8b637273bdc4c8332f50856b0fc}
+      \strng{fullhash}{7933c8b637273bdc4c8332f50856b0fc}
+      \strng{bibnamehash}{7933c8b637273bdc4c8332f50856b0fc}
+      \strng{authorbibnamehash}{7933c8b637273bdc4c8332f50856b0fc}
+      \strng{authornamehash}{7933c8b637273bdc4c8332f50856b0fc}
+      \strng{authorfullhash}{7933c8b637273bdc4c8332f50856b0fc}
+      \strng{editorbibnamehash}{d6649d5fc1d32132c1630d44ae6a49f6}
+      \strng{editornamehash}{d6649d5fc1d32132c1630d44ae6a49f6}
+      \strng{editorfullhash}{d6649d5fc1d32132c1630d44ae6a49f6}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Verb {{Second Phenomena}} in {{Germanic Languages}}}
+      \field{title}{On Verb Second and the Functional Content of Syntactic Categories}
+      \field{year}{1985}
+      \field{pages}{7\bibrangedash 26}
+      \range{pages}{20}
     \endentry
     \entry{wappo}{book}{}
       \name{author}{3}{}{%
