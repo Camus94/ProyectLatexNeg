@@ -208,38 +208,6 @@
       \verb C:\Users\jesus\Zotero\storage\LYZFI5U9\Caballero - 2022 - A grammar of choguita rarámuri In collaboration w.pdf
       \endverb
     \endentry
-    \entry{CaleroVaquera1986}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=6534f4dd2480b038b740ff31a37d1e5e}{%
-           family={Calero\bibnamedelima Vaquera},
-           familyi={C\bibinitperiod\bibinitdelim V\bibinitperiod},
-           given={María\bibnamedelima Luisa},
-           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=17935d2006db35e019e3cb23d7f96034}{%
-           family={{de Molina Redondo}},
-           familyi={d\bibinitperiod},
-           given={José\bibnamedelima Andrés},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{b4ce17d683360018eafbb7d171f82147}
-      \strng{fullhash}{b4ce17d683360018eafbb7d171f82147}
-      \strng{bibnamehash}{b4ce17d683360018eafbb7d171f82147}
-      \strng{authorbibnamehash}{b4ce17d683360018eafbb7d171f82147}
-      \strng{authornamehash}{b4ce17d683360018eafbb7d171f82147}
-      \strng{authorfullhash}{b4ce17d683360018eafbb7d171f82147}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{(No Title)}
-      \field{title}{Historia de La Gramática Española, 1847-1920: De {{A}}. {{Bello}} a {{R}}. {{Lenz}}}
-      \field{year}{1986}
-    \endentry
     \entry{Tlapaneco}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1e64e3c9adb145ef00ac003484567201}{%
@@ -956,36 +924,6 @@
       \field{title}{Curso Superior de Sintaxis Española}
       \field{year}{1973}
     \endentry
-    \entry{asencio1981}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=341234a8d038f0878c6ee6694b8261cd}{%
-           family={Gómez\bibnamedelima Asencio},
-           familyi={G\bibinitperiod\bibinitdelim A\bibinitperiod},
-           given={José\bibnamedelima Jesús},
-           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{341234a8d038f0878c6ee6694b8261cd}
-      \strng{fullhash}{341234a8d038f0878c6ee6694b8261cd}
-      \strng{bibnamehash}{341234a8d038f0878c6ee6694b8261cd}
-      \strng{authorbibnamehash}{341234a8d038f0878c6ee6694b8261cd}
-      \strng{authornamehash}{341234a8d038f0878c6ee6694b8261cd}
-      \strng{authorfullhash}{341234a8d038f0878c6ee6694b8261cd}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{(No Title)}
-      \field{title}{Gramática y Categorías Verbales En La Tradición Española, 1771-1847}
-      \field{urlday}{20}
-      \field{urlmonth}{3}
-      \field{urlyear}{2024}
-      \field{year}{1981}
-      \field{urldateera}{ce}
-    \endentry
     \entry{namtrik}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3645340db0298e85ce8adf65433da2e5}{%
@@ -1400,6 +1338,47 @@
       \field{year}{2016}
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\9YNABANA\Juárez Esteban - 2016 - Los predicados complejos en el totonaco de Tuxtla,.pdf
+      \endverb
+    \endentry
+    \entry{Kim2000}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=49479c5665293dafa017e0966a983f82}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jong-Bok},
+           giveni={J\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {California}%
+      }
+      \list{publisher}{1}{%
+        {CSLI Publications}%
+      }
+      \strng{namehash}{49479c5665293dafa017e0966a983f82}
+      \strng{fullhash}{49479c5665293dafa017e0966a983f82}
+      \strng{bibnamehash}{49479c5665293dafa017e0966a983f82}
+      \strng{authorbibnamehash}{49479c5665293dafa017e0966a983f82}
+      \strng{authornamehash}{49479c5665293dafa017e0966a983f82}
+      \strng{authorfullhash}{49479c5665293dafa017e0966a983f82}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{english}
+      \field{series}{Dissetations in Linguistics}
+      \field{shorttitle}{The Grammar of Negation}
+      \field{title}{The Grammar of Negation : A Constraint-Based Approach}
+      \field{urlday}{22}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2000}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\7FIB6VQF\1130000793951947392.html
       \endverb
     \endentry
     \entry{horn}{book}{}
@@ -1817,6 +1796,38 @@
       \verb{doi}
       \verb 10.5281/zenodo.7385533
       \endverb
+    \endentry
+    \entry{Mitchell1991}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f03c654c9e3e2fb5c7def73c15424e96}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={Erika},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{f03c654c9e3e2fb5c7def73c15424e96}
+      \strng{fullhash}{f03c654c9e3e2fb5c7def73c15424e96}
+      \strng{bibnamehash}{f03c654c9e3e2fb5c7def73c15424e96}
+      \strng{authorbibnamehash}{f03c654c9e3e2fb5c7def73c15424e96}
+      \strng{authornamehash}{f03c654c9e3e2fb5c7def73c15424e96}
+      \strng{authorfullhash}{f03c654c9e3e2fb5c7def73c15424e96}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0024-3892}
+      \field{journaltitle}{Linguistic Inquiry}
+      \field{title}{Evidence from {{Finnish}} for {{Pollock}}'s Theory of {{IP}}}
+      \field{year}{1991}
+      \field{pages}{373\bibrangedash 379}
+      \range{pages}{7}
     \endentry
     \entry{Mosonyi2000}{inbook}{}
       \name{author}{3}{}{%
@@ -3000,38 +3011,6 @@
       \verb C:\Users\jesus\Zotero\storage\LYZFI5U9\Caballero - 2022 - A grammar of choguita rarámuri In collaboration w.pdf
       \endverb
     \endentry
-    \entry{CaleroVaquera1986}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=6534f4dd2480b038b740ff31a37d1e5e}{%
-           family={Calero\bibnamedelima Vaquera},
-           familyi={C\bibinitperiod\bibinitdelim V\bibinitperiod},
-           given={María\bibnamedelima Luisa},
-           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=17935d2006db35e019e3cb23d7f96034}{%
-           family={{de Molina Redondo}},
-           familyi={d\bibinitperiod},
-           given={José\bibnamedelima Andrés},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{b4ce17d683360018eafbb7d171f82147}
-      \strng{fullhash}{b4ce17d683360018eafbb7d171f82147}
-      \strng{bibnamehash}{b4ce17d683360018eafbb7d171f82147}
-      \strng{authorbibnamehash}{b4ce17d683360018eafbb7d171f82147}
-      \strng{authornamehash}{b4ce17d683360018eafbb7d171f82147}
-      \strng{authorfullhash}{b4ce17d683360018eafbb7d171f82147}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{(No Title)}
-      \field{title}{Historia de La Gramática Española, 1847-1920: De {{A}}. {{Bello}} a {{R}}. {{Lenz}}}
-      \field{year}{1986}
-    \endentry
     \entry{Tlapaneco}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1e64e3c9adb145ef00ac003484567201}{%
@@ -3748,36 +3727,6 @@
       \field{title}{Curso Superior de Sintaxis Española}
       \field{year}{1973}
     \endentry
-    \entry{asencio1981}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=341234a8d038f0878c6ee6694b8261cd}{%
-           family={Gómez\bibnamedelima Asencio},
-           familyi={G\bibinitperiod\bibinitdelim A\bibinitperiod},
-           given={José\bibnamedelima Jesús},
-           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{341234a8d038f0878c6ee6694b8261cd}
-      \strng{fullhash}{341234a8d038f0878c6ee6694b8261cd}
-      \strng{bibnamehash}{341234a8d038f0878c6ee6694b8261cd}
-      \strng{authorbibnamehash}{341234a8d038f0878c6ee6694b8261cd}
-      \strng{authornamehash}{341234a8d038f0878c6ee6694b8261cd}
-      \strng{authorfullhash}{341234a8d038f0878c6ee6694b8261cd}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{(No Title)}
-      \field{title}{Gramática y Categorías Verbales En La Tradición Española, 1771-1847}
-      \field{urlday}{20}
-      \field{urlmonth}{3}
-      \field{urlyear}{2024}
-      \field{year}{1981}
-      \field{urldateera}{ce}
-    \endentry
     \entry{namtrik}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3645340db0298e85ce8adf65433da2e5}{%
@@ -4192,6 +4141,47 @@
       \field{year}{2016}
       \verb{file}
       \verb C:\Users\jesus\Zotero\storage\9YNABANA\Juárez Esteban - 2016 - Los predicados complejos en el totonaco de Tuxtla,.pdf
+      \endverb
+    \endentry
+    \entry{Kim2000}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=49479c5665293dafa017e0966a983f82}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jong-Bok},
+           giveni={J\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {California}%
+      }
+      \list{publisher}{1}{%
+        {CSLI Publications}%
+      }
+      \strng{namehash}{49479c5665293dafa017e0966a983f82}
+      \strng{fullhash}{49479c5665293dafa017e0966a983f82}
+      \strng{bibnamehash}{49479c5665293dafa017e0966a983f82}
+      \strng{authorbibnamehash}{49479c5665293dafa017e0966a983f82}
+      \strng{authornamehash}{49479c5665293dafa017e0966a983f82}
+      \strng{authorfullhash}{49479c5665293dafa017e0966a983f82}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{english}
+      \field{series}{Dissetations in Linguistics}
+      \field{shorttitle}{The Grammar of Negation}
+      \field{title}{The Grammar of Negation : A Constraint-Based Approach}
+      \field{urlday}{22}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2000}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\jesus\Zotero\storage\7FIB6VQF\1130000793951947392.html
       \endverb
     \endentry
     \entry{horn}{book}{}
@@ -4609,6 +4599,38 @@
       \verb{doi}
       \verb 10.5281/zenodo.7385533
       \endverb
+    \endentry
+    \entry{Mitchell1991}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f03c654c9e3e2fb5c7def73c15424e96}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={Erika},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{f03c654c9e3e2fb5c7def73c15424e96}
+      \strng{fullhash}{f03c654c9e3e2fb5c7def73c15424e96}
+      \strng{bibnamehash}{f03c654c9e3e2fb5c7def73c15424e96}
+      \strng{authorbibnamehash}{f03c654c9e3e2fb5c7def73c15424e96}
+      \strng{authornamehash}{f03c654c9e3e2fb5c7def73c15424e96}
+      \strng{authorfullhash}{f03c654c9e3e2fb5c7def73c15424e96}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0024-3892}
+      \field{journaltitle}{Linguistic Inquiry}
+      \field{title}{Evidence from {{Finnish}} for {{Pollock}}'s Theory of {{IP}}}
+      \field{year}{1991}
+      \field{pages}{373\bibrangedash 379}
+      \range{pages}{7}
     \endentry
     \entry{Mosonyi2000}{inbook}{}
       \name{author}{3}{}{%
